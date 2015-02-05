@@ -1,0 +1,1358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE officiele-publicatie PUBLIC "-//Overheid//Officiele publicaties 1.0//NL" "http://standaarden.overheid.nl/op/dtd/offpublicatie.dtd"[]>
+<officiele-publicatie>
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2009-393/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel status="officieel">Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 11 september 2009, houdende wijziging van het Bouwbesluit
+	 2003 (niveau constructieve veiligheid bij verbouw van een bouwwerk geen gebouw
+	 zijnde)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses
+		  van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op de voordracht van Onze Minister
+			 voor Wonen, Wijken en Integratie van 17 juli 2009, nr. BJZ2009045529, Directie
+			 Bestuurlijke en Juridische Zaken;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel 2 van de
+			 Woningwet;</considerans.al>
+          <considerans.al bevat="gehoord">De Raad van State gehoord (advies van
+			 14 augustus 2009, <?xpp afbreek?>nr. W08.09.0301/IV);</considerans.al>
+          <considerans.al bevat="gezien">Gezien het nader rapport van Onze
+			 Minister voor Wonen, Wijken en Integratie van 7 september 2009,
+			 nr. BJZ.2009051786, Directie Bestuurlijke en Juridische Zaken;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">Het Bouwbesluit 2003 wordt als volgt
+			 gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>De na artikel 2.1 opgenomen tabel wordt vervangen door:</wat>
+            <?xpp ep?>
+            <wijziging>
+              <artikeltekst>
+                <table tabstyle="xml3" frame="sides" pgwide="1" rowsep="0" colsep="0">
+                  <title>Tabel 2.1</title>
+                  <tgroup tgroupstyle="xml3" cols="17" char="" charoff="50" align="left">
+                    <colspec colname="col1" colnum="1" colwidth="5*" />
+                    <colspec colname="col2" colnum="2" colwidth="3*" />
+                    <colspec colname="col3" colnum="3" colwidth="46.5*" />
+                    <colspec colname="col4" colnum="4" colwidth="4*" />
+                    <colspec colname="col5" colnum="5" colwidth="4*" />
+                    <colspec colname="col6" colnum="6" colwidth="4*" />
+                    <colspec colname="col7" colnum="7" colwidth="4*" />
+                    <colspec colname="col8" colnum="8" colwidth="4*" />
+                    <colspec colname="col9" colnum="9" colwidth="4*" />
+                    <colspec colname="col10" colnum="10" colwidth="4*" />
+                    <colspec colname="col11" colnum="11" colwidth="4*" />
+                    <colspec colname="col12" colnum="12" colwidth="4*" />
+                    <colspec colname="col13" colnum="13" colwidth="4*" />
+                    <colspec colname="col14" colnum="14" colwidth="4*" />
+                    <colspec colname="col15" colnum="15" colwidth="4*" />
+                    <colspec colname="col16" colnum="16" colwidth="4*" />
+                    <colspec colname="col17" colnum="17" colwidth="6*" />
+                    <?xpp setctr;right?>
+                    <?xpp tblwidth;112.5m?>
+                    <thead valign="top">
+                      <row rowsep="1">
+                        <entry align="center" morerows="0" rotate="0" valign="top" nameend="col3" namest="col1" colsep="1">
+                          <al>gebruiksfunctie</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colsep="1" namest="col4" nameend="col17">
+                          <al>leden van toepassing</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" morerows="0" rotate="0" valign="top" rowsep="0" colsep="0"></entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top" rowsep="0" colsep="0" />
+                        <entry align="left" morerows="0" rotate="0" valign="top" colsep="1" rowsep="0" />
+                        <entry align="left" morerows="0" rotate="cc90" valign="top" rowsep="1" colsep="0" colname="col4">
+                          <al>belastingscombinaties</al>
+                        </entry>
+                        <entry align="left" rotate="cc90" valign="top" rowsep="1" colsep="1" namest="col5" nameend="col9" morerows="0">
+                          <al>bouwconstructie</al>
+                        </entry>
+                        <entry align="left" rotate="cc90" valign="top" rowsep="1" colsep="0" colname="col10" morerows="0">
+                          <al>belastingscombinaties</al>
+                        </entry>
+                        <entry align="left" rotate="cc90" valign="top" rowsep="1" colsep="1" colname="col11" morerows="0">
+                          <al>hoofddraagconstructie</al>
+                        </entry>
+                        <entry align="left" rotate="cc90" valign="top" rowsep="1" colsep="1" namest="col12" nameend="col16" morerows="0">
+                          <al>uiterste grenstoestand</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="cc90" valign="top" colname="col17" rowsep="1">
+                          <al>verbouw</al>
+                        </entry>
+                      </row>
+                      <row valign="top">
+                        <entry align="right" morerows="0" rotate="0" valign="top" rowsep="0" colsep="0" />
+                        <entry align="left" morerows="0" rotate="0" valign="top" rowsep="0" colsep="0" />
+                        <entry align="right" morerows="0" rotate="0" valign="top" colsep="1" rowsep="0">
+                          <al>artikel</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top" rowsep="1" colsep="1" namest="col4" nameend="col9">
+                          <al>2.2</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" rowsep="1" colsep="1" namest="col10" nameend="col11" morerows="0">
+                          <al>2.3</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" rowsep="1" colsep="1" namest="col12" nameend="col16" morerows="0">
+                          <al>2.4</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top" colname="col17" rowsep="1">
+                          <al>2.4a</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" morerows="0" rotate="0" valign="top" rowsep="0" colsep="0" />
+                        <entry align="left" morerows="0" rotate="0" valign="top" rowsep="0" colsep="0" />
+                        <entry align="right" morerows="0" rotate="0" valign="top" colsep="1" rowsep="0">
+                          <al>lid</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="1" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col5" colsep="1">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col6" colsep="1">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col7" colsep="1">
+                          <al>4</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col8" colsep="1">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>6</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="1" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col15" colsep="1">
+                          <al>4</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col17" colsep="1">
+                          <al>*</al>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody valign="top">
+                      <row>
+                        <entry align="right" morerows="0" rotate="0" valign="top" colsep="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top" nameend="col3" namest="col2" colsep="1">
+                          <al>Woonfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0"></entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col5" colsep="0" />
+                        <entry align="left" morerows="0" rotate="0" valign="top" colname="col6" colsep="0" />
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col7" colsep="0" />
+                        <entry align="left" morerows="0" rotate="0" valign="top" colname="col8" colsep="0" />
+                        <entry align="left" rotate="0" valign="top" colname="col9" colsep="1" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colname="col10" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colname="col11" colsep="1" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colname="col12" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colname="col13" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colname="col14" colsep="0" morerows="0"></entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top" colname="col15" colsep="0" />
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0"></entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col17"></entry>
+                      </row>
+                      <row>
+                        <entry align="right" morerows="0" rotate="0" valign="top" colsep="0" />
+                        <entry align="left" morerows="0" rotate="0" valign="top" colsep="0">
+                          <al>a</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top" colsep="1">
+                          <al>woonfunctie gelegen in een woongebouw</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col5" colsep="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col6" colsep="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col7" colsep="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col8" colsep="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col15" colsep="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col17">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>b</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" morerows="0">
+                          <al>woonfunctie van een woonwagen</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>4</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>c</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" morerows="0">
+                          <al>andere woonfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>4</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Bijeenkomstfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Celfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>4</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Gezondheidszorgfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Industriefunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0"></entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>a</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>lichte industriefunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>b</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>andere industriefunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>6</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Kantoorfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>7</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Logiesfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0"></entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>a</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>logiesfunctie niet gelegen in een logiesgebouw</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>4</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>b</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>logiesfunctie gelegen in een logiesgebouw</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>8</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Onderwijsfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>9</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Sportfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>10</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Winkelfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>11</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Overige gebruiksfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0"></entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>a</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>overige gebruiksfunctie voor het personenvervoer</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>6</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>b</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>overige gebruiksfunctie voor het stallen van
+								motorvoertuigen</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>6</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>c</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>andere overige gebruiksfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>6</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>12</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Bouwwerk geen gebouw zijnde</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col12" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col13" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col14" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col15" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col16" colsep="1" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col17" morerows="0">
+                          <al>*</al>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </table>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Na artikel 2.4 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">2.4a</nr>
+                </kop>
+                <al>Burgemeester en wethouders verlenen bij het geheel of
+					 gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk geen
+					 gebouw zijnde ontheffing van de artikelen 2.2 tot en met 2.4 tot het niveau van
+					 de desbetreffende voorschriften voor een bestaand bouwwerk.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <al>Dit besluit treedt in werking op met ingang van de dag die twee
+			 maanden ligt na de datum van uitgifte van het Staatsblad waarin het wordt
+			 geplaatst.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat dit besluit met de daarbij behorende nota van
+			 toelichting in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <histnoot type="raad-van-state">
+          <al>Het advies van de Raad van State is openbaar gemaakt door terinzagelegging bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.</al>
+          <al>Tevens zal het advies met de daarbij ter inzage gelegde stukken worden opgenomen in de Staatscourant.</al>
+        </histnoot>
+        <gegeven>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2009-11-11">11 september 2009</datum>
+          </dagtekening>
+          <koning>Beatrix</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister voor
+		  Wonen, Wijken en Integratie,</functie>
+          <naam>
+            <voornaam>E. E. van der</voornaam>
+            <achternaam>Laan</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2009-09-29">Uitgegeven de <nadruk type="cur">negenentwintigste</nadruk> september
+          2009</datum>
+          <ondertekening>
+            <functie>De Minister van
+			 Justitie,</functie>
+            <naam>
+              <voornaam>E. M. H.</voornaam>
+              <achternaam>Hirsch
+				  Ballin</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+      <nota-toelichting>
+        <kop>
+          <titel status="officieel">NOTA VAN TOELICHTING</titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">I</nr>
+            <titel status="officieel">Algemeen</titel>
+          </kop>
+          <al-groep>
+            <al>Aanleiding voor deze wijziging van het Bouwbesluit 2003 is de
+				afspraak in het kader van het Aanvullend Beleidsakkoord (Kamerstukken II
+				2008/09, <extref reeks="Kst" doc="kst-31070-24" status="actief">31 070, nr.
+				24</extref>) om met het doen van gerichte investeringen een stimulans te geven
+				aan de economie. In dat kader is in het Aanvullend Beleidsakkoord aangekondigd:
+				«De minister-president zal in samenspraak met de bewindslieden van Verkeer en
+				Waterstaat en van VROM een crisis- en herstelwet bij de Tweede Kamer indienen
+				gericht op versnelling en vereenvoudiging van planprocedures voor
+				infrastructurele en andere grote bouwprojecten».</al>
+            <al>In dat verband is gebleken dat bij grote projecten, zoals met
+				name de renovatie van bruggen, knelpunten kunnen ontstaan doordat bij de
+				vergunningaanvraag voor renovatie of verbouw wordt vastgehouden aan het
+				nieuwbouwniveau zoals dat voor constructieve veiligheid op grond van het
+				Bouwbesluit 2003 geldt. Er zou dan geen ruimte zijn voor het toepassen van de
+				ontheffingsmogelijkheid tot het niveau bestaande bouw op grond van het bepaalde
+				in artikel 1.11 van het Bouwbesluit 2003. In dit artikel is aan burgemeester en
+				wethouders de bevoegdheid toegekend om bij het geheel of gedeeltelijk
+				vernieuwen of veranderen of het vergroten van een bouwwerk ontheffing te
+				verlenen van de nieuwbouwvoorschrif<?xpp afbm?>ten tot het niveau van de
+				bestaande bouw respectievelijk een lager niveau dan het nieuwbouwniveau. Met
+				name wanneer bij verbouw of renovatie van bruggen (bouwwerken geen gebouw
+				zijnde) geen toepassing wordt gegeven aan de ontheffingsmogelijkheid van
+				artikel 1.11 kan dit leiden tot een onnodige vertraging in de procedure of tot
+				een eisenniveau dat strikt genomen niet nodig is bij die verbouw of
+				renovatie.</al>
+            <al>In zijn algemeenheid bieden de voorschriften voor bestaande bouw
+				voldoende ruimte om bij verbouw de primaire beleidsdoelstellingen op het gebied
+				van veiligheid, gezondheid en bruikbaarheid te waarborgen. Wanneer voor een
+				bepaald aspect bij verbouw een hoger niveau noodzakelijk wordt geacht dan is
+				dit expliciet in de desbetreffende afdeling van het Bouwbesluit 2003
+				aangegeven. Bij constructieve veiligheid is er geen noodzaak om bij renovatie
+				een hoger niveau dan het bestaande bouwniveau toe te passen. Om die reden kan
+				met deze beperkte wijziging van het Bouwbesluit 2003 een mogelijke procedurele
+				belemmering bij het renoveren van bouwwerken geen gebouw zijnde structureel
+				worden weggenomen.</al>
+            <al>Hoewel deze wijziging van het Bouwbesluit 2003 haar aanleiding in
+				de economische crisis vindt, ligt de oorzaak vooral in de reikwijdte en de
+				consequenties van het huidige artikel 1.11. Om die reden wordt een meer
+				algemene wijziging (wijziging van artikel 1.11) die qua strekking gelijk is aan
+				de wijziging in dit besluit voorbereid.</al>
+            <al>Die wijziging is voorzien in het kader van het zogenoemde derde
+				wijzigingspakket en zal daarmee onderdeel uitmaken van het besluit waarmee het
+				Bouwbesluit 2003 en het Besluit brandveilig gebruik bouwwerken zullen worden
+				geïntegreerd. Dat besluit is voorzien voor de tweede helft van 2010. Omdat voor
+				de meer gecompliceerde wijziging zoals deze voorzien is in het geïntegreerde
+				besluit nog verder onderzoek noodzakelijk is en de hiervoor geschetste
+				problematiek bij de renovatie van grote projecten op dit moment knellend is, is
+				besloten om deze wijziging vooruitlopend op de wijziging in meer algemene zin
+				door te voeren. Hiermee wordt de haalbaarheid van grote projecten als de
+				hiervoor al genoemde renovatie van bruggen vergroot. De grondslag voor de
+				onderhavige wijziging is artikel 2 van de Woningwet.</al>
+            <al>Wanneer de Wet algemene bepalingen omgevingsrecht in werking
+				treedt, naar verwachting 1 januari 2010, dan zal artikel 2.4a in het
+				Invoeringsbesluit Wet algemene bepalingen omgevingsrecht worden aangepast aan
+				het begrippenkader van die wet.</al>
+          </al-groep>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">II</nr>
+            <titel status="officieel">Artikelsgewijze toelichting</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Artikel I</titel>
+            </kop>
+            <divisie opmaak="default">
+              <kop>
+                <titel status="officieel">Onderdeel A</titel>
+              </kop>
+              <al>Aanpassing van de tabel is nodig omdat artikel 2.4a is
+				  toegevoegd. Verder zijn geen wijzigingen aangebracht.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <titel status="officieel">Onderdeel B</titel>
+              </kop>
+              <al>Met het invoegen van een nieuw artikel 2.4a wordt zeker gesteld
+				  dat bij het aspect algemene sterkte van de bouwconstructie (constructieve
+				  veiligheid) op de verbouw en renovatie van bouwwerken geen gebouw zijnde de
+				  voorschriften voor bestaande bouw van toepassing zijn.</al>
+            </divisie>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Artikel II</titel>
+            </kop>
+            <al>Dit besluit treedt in werking op de dag die twee maanden ligt na
+				publicatie van het besluit in het Staatsblad.</al>
+            <al>Hiermee is rekening gehouden met het voorschrift van artikel 2,
+				achtste lid, van de Woningwet dat inwerkingtreding eerst twee maanden na
+				publicatie in het Staatsblad kan plaatsvinden.</al>
+          </divisie>
+        </divisie>
+        <ondertekening>
+          <functie>De Minister voor
+			 Wonen, Wijken en Integratie,</functie>
+          <naam>
+            <voornaam>E. E. van der</voornaam>
+            <achternaam>Laan</achternaam>
+          </naam>
+        </ondertekening>
+      </nota-toelichting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

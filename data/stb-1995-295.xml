@@ -1,0 +1,2549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE staatsbl PUBLIC "-//SDU//DTD staatsblad xml 1.1//NL" "../../dtd/staatsbl-11.dtd"[]>
+<staatsbl id="sb995.295" soort="kb" publtype="kobe">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-1995-295/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel status="off">Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <frontm>
+    <versie dtd="0.4" conv="OPmaat" markup="c1xa"></versie>
+    <ordernr>51U0309</ordernr>
+    <stb>
+      <jaargang jaar="1995">Jaargang 1995</jaargang>
+      <stbjaar>1995</stbjaar>
+      <stbnr>295</stbnr>
+    </stb>
+    <intitule>
+      <soort>Besluit</soort> van 30 mei 1995, houdende wijziging van het
+Bouwbesluit inzake energieprestatie</intitule>
+    <aanhef>
+      <wie>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van
+Oranje-Nassau, enz. enz. enz.</wie>
+      <consider>
+        <al>Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke
+Ordening en Milieubeheer van 18 januari 1995, nr. MJZ  18195097, Centrale
+Directie Juridische Zaken, Afdeling Wetgeving;</al>
+        <al>Gelet op <grslag>de artikelen 2, 3, 5 en 6 van de Woningwet</grslag>;</al>
+        <al>De Raad van State gehoord (advies van 3 mei 1995, nr. W08.95.0027);</al>
+        <al>Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting,
+Ruimtelijke Ordening en Milieubeheer van 22 mei 1995, nr. MJZ 22595036, Centrale
+Directie Juridische Zaken, Afdeling Wetgeving;</al>
+      </consider>
+      <afkondig>Hebben goedgevonden en verstaan:</afkondig>
+    </aanhef>
+  </frontm>
+  <body>
+    <wart id="ai">
+      <kop>
+        <nr>ARTIKEL I</nr>
+      </kop>
+      <al>Het Bouwbesluit<eindref refid="e1"></eindref> wordt gewijzigd als volgt:</al>
+      <wlid>
+        <kop>
+          <nr>A</nr>
+        </kop>
+        <al>Artikel 1, tweede lid, komt te luiden:</al>
+        <arttkst>
+          <lid>
+            <nr>2.</nr>
+            <al>Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften
+wordt voorts verstaan onder:</al>
+            <al>a. bijeenkomstgebouw: gebouw of gedeelte van een gebouw, welk gebouw of
+welk gedeelte blijkens zijn constructie en inrichting is bestemd voor doeleinden
+van mondelinge communicatie of cultuur;</al>
+            <al>b. cel: gebouw of gedeelte van een gebouw, welk gebouw of welk gedeelte
+blijkens zijn constructie en inrichting is bestemd voor gedwongen tijdelijk
+verblijf van mensen die hun hoofdverblijf elders hebben;</al>
+            <al>c. cellengebouw: gebouw of een gedeelte van een gebouw, in welk gebouw
+of welk gedeelte twee of meer cellen zijn gelegen die zijn te bereiken door
+een of meer verkeersruimten;</al>
+            <al>d. complex: verzameling van niet in een logiesgebouw gelegen logiesverblijven
+die in het kader van een bedrijf of in enigerlei vorm van samenwerking door
+de rechthebbenden wordt beheerd;</al>
+            <al>e. gezondheidszorggebouw: gebouw of gedeelte van een gebouw, welk gebouw
+of welk gedeelte blijkens zijn constructie en inrichting is bestemd voor
+doeleinden van medische verpleging, verzorging of behandeling dan wel van
+medisch onderzoek;</al>
+            <al>f. horecagebouw: gebouw of gedeelte van een gebouw, welk gebouw of gedeelte
+blijkens zijn constructie en inrichting is bestemd voor het bedrijfsmatig
+verstrekken van consumpties en het gebruik daarvan ter plaatse;</al>
+            <al>g. industriegebouw: gebouw of gedeelte van een gebouw, welk gebouw of
+welk gedeelte blijkens zijn constructie en inrichting is bestemd voor doeleinden
+van bedrijfsmatige bewerking of opslag van materialen of goederen, het bedrijfsmatig
+telen of opslaan van gewassen of het bedrijfsmatig houden van dieren;</al>
+            <al>h. kantoorgebouw: gebouw of gedeelte van een gebouw, welk gebouw of welk
+gedeelte blijkens zijn constructie en inrichting is bestemd voor doeleinden
+van administratie;</al>
+            <al>i. logiesgebouw: gebouw of gedeelte van een gebouw, in welk gebouw of
+welk gedeelte twee of meer logiesverblijven zijn gelegen die zijn te bereiken
+door een of meer gemeenschappelijke verkeersruimten;</al>
+            <al>j. logiesverblijf: gebouw of gedeelte van een gebouw, welk gebouw of welk
+gedeelte blijkens zijn constructie en inrichting is bestemd voor het bieden
+van recreatief verblijf of tijdelijk onderdak aan mensen die hun hoofdverblijf
+elders hebben;</al>
+            <al>k. onderwijsgebouw: gebouw of gedeelte van een gebouw, welk gebouw of
+welk gedeelte blijkens zijn constructie en inrichting is bestemd voor doeleinden
+van onderwijs;</al>
+            <al>l. sportgebouw: gebouw of gedeelte van een gebouw, welk gebouw of welk
+gedeelte blijkens zijn constructie en inrichting is bestemd voor doeleinden
+van sport;</al>
+            <al>m. stationsgebouw: gebouw of gedeelte van een gebouw, welk gebouw of welk
+gedeelte blijkens zijn constructie en inrichting is bestemd voor aankomst
+en vertrek van openbare voorzieningen van weg-, spoorweg-, water- of luchtverkeer;</al>
+            <al>n. winkelgebouw: gebouw of gedeelte van een gebouw, welk gebouw of welk
+gedeelte blijkens zijn constructie en inrichting is bestemd voor het verhandelen
+van materialen, goederen of diensten, en</al>
+            <al>o. woongebouw: gebouw of gedeelte van een gebouw, in welk gebouw of welk
+gedeelte twee of meer woningen zijn gelegen die zijn te bereiken door een
+of meer gemeenschappelijke verkeersruimten.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>B</nr>
+        </kop>
+        <al>Artikel 70 komt te luiden:</al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 70</nr>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>Een uitwendige scheidingsconstructie van een verblijfsgebied, een toiletruimte
+of een badruimte heeft, ter beperking van warmteverlies door overdracht of
+geleiding, bepaald overeenkomstig NEN 1068, een warmteweerstand van ten minste
+2,5 m<sup>2</sup>×K/W.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Het eerste lid is niet van toepassing op een deur, raam, kozijn en daarmee
+gelijk te stellen constructie-onderdeel, voorzover die deur, dat raam, dat
+kozijn of dat constructie-onderdeel, bepaald overeenkomstig NEN 5128, een
+warmtedoorgangscoëfficiënt heeft van ten hoogste 4,2 W/m<sup>2</sup>×K.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>Het eerste en het tweede lid zijn van overeenkomstige toepassing op:</al>
+              <al>a. een constructie die de scheiding vormt tussen een verblijfsgebied,
+toiletruimte of badruimte en de kruipruimte, met inbegrip van de op die constructie
+aansluitende delen van andere constructies, voor zover die delen van invloed
+zijn op het voldoen van die constructie aan het eerste of tweede lid, en</al>
+              <al>b. een inwendige scheidingsconstructie van een verblijfsgebied, toiletruimte
+of badruimte, voor zover die constructie niet de scheiding vormt met een ander
+verblijfsgebied of met een andere toiletruimte of badruimte, waarvan de uitwendige
+scheidingsconstructies, bepaald overeenkomstig NEN 1068, een warmteweerstand
+heeft van ten minste 2,5 m<sup>2</sup>×K/W of waarvan, indien het een
+deur, raam, kozijn of daarmee gelijk te stellen constructie-onderdeel betreft,
+bepaald overeenkomstig NEN 5128, de warmtedoorgangscoëfficiënt ten
+hoogste 4,2 W/m<sup>2</sup>×K is.</al>
+            </lid>
+            <lid>
+              <nr>4.</nr>
+              <al>In het totaal van de uitwendige scheidingsconstructies, waaronder begrepen
+inwendige scheidingsconstructies als bedoeld in het derde lid, onderdeel b,
+mag ten hoogste 2% van de gebruiksoppervlakte van de woning of het woongebouw
+aan constructie-onderdelen aanwezig zijn, dat niet voldoet aan het eerste
+tot en met het derde lid.</al>
+            </lid>
+          </art>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>C</nr>
+        </kop>
+        <al>Artikel 71 komt te luiden:</al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 71</nr>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>Het totaal aan:</al>
+              <al>a. uitwendige scheidingsconstructies van een woning;</al>
+              <al>b. inwendige scheidingsconstructies tussen een woning en een niet in die
+woning gelegen ruimte, en</al>
+              <al>c. constructies die de scheiding vormen tussen een woning en een kruipruimte,
+met inbegrip van de op die constructies aansluitende delen van andere constructies,</al>
+              <al>mag, ter beperking van warmteverlies door tocht, bepaald overeenkomstig
+NEN 2686, geen grotere luchtvolumestroom als bedoeld in die norm hebben dan
+0,2 m<sup>3</sup>/s.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Het eerste lid is van overeenkomstige toepassing op een gemeenschappelijk
+verblijfsgebied.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>Bij de bepaling van de luchtvolumestroom, bedoeld in het eerste of tweede
+lid, mogen ruimten, niet zijnde een verblijfsgebied, toilet- of badruimte,
+buiten beschouwing blijven.</al>
+            </lid>
+            <lid>
+              <nr>4.</nr>
+              <al>Bij de bepaling van de luchtvolumestroom bedoeld in het eerste of tweede
+lid, blijft een ruimte waarin een niet-afsluitbare voorziening voor de toevoer
+van verse lucht en de afvoer van binnenlucht aanwezig is met een capaciteit,
+bepaald volgens NEN 1087, van ten minste 3×10<sup>-3</sup> m<sup>3</sup>/s
+per m<sup>2</sup> gebruiksoppervlakte van die ruimte buiten beschouwing.</al>
+            </lid>
+          </art>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>D</nr>
+        </kop>
+        <al>Na artikel 71 wordt een nieuw artikel met bijbehorend opschrift ingevoegd,
+luidende:</al>
+        <wlichaam>
+          <par>
+            <kop>
+              <titel status="off">Energieprestatie</titel>
+            </kop>
+            <art>
+              <kop>
+                <nr>Artikel 71a</nr>
+              </kop>
+              <al>Onverminderd de artikelen 70 en 71, heeft, ter verdere besparing van energie,
+een niet in een woongebouw gelegen woning of een woongebouw, bepaald overeenkomstig
+NEN 5128, een in die norm bedoelde energieprestatiecoëfficiënt van
+ten hoogste 1,4.</al>
+            </art>
+          </par>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>E</nr>
+        </kop>
+        <al>Artikel 72, eerste lid, komt te luiden:</al>
+        <arttkst>
+          <lid>
+            <nr>1.</nr>
+            <al>Indien niet is voldaan aan enig voorschrift, gegeven bij of krachtens
+de artikelen 70 tot en met 71a, heeft een woning of woongebouw een mate van
+energiezuinigheid die ten minste gelijk is aan de mate van energiezuinigheid
+die is beoogd met het desbetreffende bij of krachtens die artikelen gegeven
+voorschrift.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>F</nr>
+        </kop>
+        <al>Artikel 150, tweede lid, onderdeel a, komt te luiden:</al>
+        <arttkst>
+          <al>a. een oppervlakte van ten hoogste 50% van de gebruiksoppervlakte van
+de woonwagen aan ramen, deuren, kozijnen en daarmee gelijk te stellen constructie-onderdelen
+aanwezig zijn, welke oppervlakte niet behoeft te voldoen aan het eerste lid,
+mits die oppervlakte, bepaald overeenkomstig NEN 5128, een warmtedoorgangscoëfficiënt
+heeft van ten hoogste 4,2 W/m<sup>2</sup>×K, en.</al>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>G</nr>
+        </kop>
+        <al>Artikel 201 wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>a.</nr>
+          <al>Onder vernummering van het zesde tot en met het achtste lid in het negende
+tot en met het elfde lid, worden drie nieuwe leden ingevoegd, luidende:</al>
+          <arttkst>
+            <lid>
+              <nr>6.</nr>
+              <al>De voorziening voor de toevoer van verse lucht en de afvoer van binnenlucht,
+bedoeld in het vijfde lid, heeft voor een verblijfsgebied ten minste een capaciteit
+als aangeven in tabel Va, waarbij is uitgegaan van de in tabel Vb aangegeven
+klassen.</al>
+            </lid>
+            <lid>
+              <nr>7.</nr>
+              <al>De toevoer van verse lucht, bedoeld in het zesde lid, naar een verblijfsgebied
+vindt rechtstreeks van buiten plaats.</al>
+            </lid>
+            <lid>
+              <nr>8.</nr>
+              <al>De voorziening voor de toevoer van verse lucht en de afvoer van binnenlucht,
+bedoeld in het vijfde lid, heeft voor een verblijfsruimte ten minste een capaciteit
+als aangegeven in tabel Va..</al>
+            </lid>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>b.</nr>
+          <al>In het negende lid (nieuw) wordt na «vijfde» ingevoegd: en
+het zesde.</al>
+        </wond>
+        <wond>
+          <nr>c.</nr>
+          <al>In het elfde lid (nieuw) wordt «zevende» gewijzigd in: tiende.</al>
+          <arttkst>
+            <al>Tabel Va Ventilatiecapaciteit</al>
+            <al>
+              <table orient="port" rowsep="0" colsep="0" frame="topbot" tabstyle="sdu1">
+                <tgroup align="left" charoff="75" cols="3" tgroupstyle="sdu1">
+                  <colspec colname="c1" colnum="1" colwidth="37.5mm"></colspec>
+                  <colspec colname="c2" colnum="2" colwidth="37.5mm"></colspec>
+                  <colspec colname="c3" colnum="3" colwidth="37.5mm"></colspec>
+                  <thead valign="bottom">
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" rowsep="1" valign="top">gebouw</entry>
+                      <entry morerows="0" rotate="0" rowsep="1" valign="top">ventilatiecapaciteit voor een verblijfsgebied
+in m<sup>3</sup>/s per m<sup>2</sup> vloeroppervlakte aan verblijfsgebied</entry>
+                      <entry morerows="0" rotate="0" rowsep="1" valign="top">ventilatiecapaciteit
+voor een verblijfsruimte in m<sup>3</sup>/s per m<sup>2</sup> vloeroppervlakte
+aan verblijfsruimte </entry>
+                    </row>
+                  </thead>
+                  <tbody valign="bottom">
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">bijeenkomstgebouw </entry>
+                      <entry morerows="0" rotate="0"></entry>
+                      <entry morerows="0" rotate="0"></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B1</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">4,8×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">3,8×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B2</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1,9×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1,5×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B3</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,8×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,6×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">cel en cellengebouw</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,8×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">gezondheidszorggebouw</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1,3×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">horecagebouw </entry>
+                      <entry morerows="0" rotate="0"></entry>
+                      <entry morerows="0" rotate="0"></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B1</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">4,8×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">3,8×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B2</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1,9×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1,5×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B3</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,8×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,6×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">onderwijsgebouw </entry>
+                      <entry morerows="0" rotate="0"></entry>
+                      <entry morerows="0" rotate="0"></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B1</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">8,8×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">7×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B2</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">3,5×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">2,8×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B3</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1,4×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1,1×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">sportgebouw </entry>
+                      <entry morerows="0" rotate="0"></entry>
+                      <entry morerows="0" rotate="0"></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B1 </entry>
+                      <entry morerows="0" rotate="0"></entry>
+                      <entry morerows="0" rotate="0"></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">zonder sportgebruik</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">4,8×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">3,8×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B1 </entry>
+                      <entry morerows="0" rotate="0"></entry>
+                      <entry morerows="0" rotate="0"></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">met sportgebruik</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">8×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">6,4×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B2 </entry>
+                      <entry morerows="0" rotate="0"></entry>
+                      <entry morerows="0" rotate="0"></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">zonder sportgebruik</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1,9×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1,5×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B2 </entry>
+                      <entry morerows="0" rotate="0"></entry>
+                      <entry morerows="0" rotate="0"></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">met sportgebruik</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">3,2×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">2,5×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B3 </entry>
+                      <entry morerows="0" rotate="0"></entry>
+                      <entry morerows="0" rotate="0"></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">zonder sportgebruik</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,8×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,6×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B3 </entry>
+                      <entry morerows="0" rotate="0"></entry>
+                      <entry morerows="0" rotate="0"></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">met sportgebruik</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1,3×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B4</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,5×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,4×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B5</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,5×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,4×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">winkelgebouw </entry>
+                      <entry morerows="0" rotate="0"></entry>
+                      <entry morerows="0" rotate="0"></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B2</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1,9×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">1,5×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B3</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,8×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,6×10<sup>-3</sup></entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">– klasse B4</entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,5×10<sup>-3</sup></entry>
+                      <entry align="right" morerows="0" rotate="0" valign="top">0,4×10<sup>-3</sup></entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+            </al>
+            <al>Tabel Vb  Klassen naar aantal personen per m<sup>2</sup> vloeroppervlakte
+aan verblijfsgebied</al>
+            <al>
+              <table orient="port" rowsep="0" colsep="0" frame="topbot" tabstyle="sdu1">
+                <tgroup align="left" charoff="75" cols="2" tgroupstyle="sdu1">
+                  <colspec colname="c1" colnum="1" colwidth="20mm"></colspec>
+                  <colspec colname="c2" colnum="2" colwidth="92.5mm"></colspec>
+                  <thead valign="bottom">
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" rowsep="1" valign="top">
+                        <nadruk type="vet">klasse</nadruk>
+                      </entry>
+                      <entry morerows="0" rotate="0" rowsep="1" valign="top">
+                        <nadruk type="vet">bezettingsgraad in vloeroppervlakte aan
+verblijfsgebied</nadruk>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody valign="bottom">
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">B1</entry>
+                      <entry morerows="0" rotate="0" valign="top">1,3 m<sup>2</sup> of minder per
+persoon </entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">B2</entry>
+                      <entry morerows="0" rotate="0" valign="top">meer dan 1,3 m<sup>2</sup> doch ten hoogste 3,3
+m<sup>2</sup> per persoon </entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">B3</entry>
+                      <entry morerows="0" rotate="0" valign="top">meer dan 3,3 m<sup>2</sup>
+doch ten hoogste 8 m<sup>2</sup> per persoon </entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">B4</entry>
+                      <entry morerows="0" rotate="0" valign="top">meer dan 8
+m<sup>2</sup> doch ten hoogste 20 m<sup>2</sup> per persoon </entry>
+                    </row>
+                    <row valign="top">
+                      <entry morerows="0" rotate="0" valign="top">B5</entry>
+                      <entry morerows="0" rotate="0" valign="top">meer
+dan 20 m<sup>2</sup> per persoon</entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+            </al>
+          </arttkst>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>H</nr>
+        </kop>
+        <al>Artikel 203 wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>a.</nr>
+          <al>Onder vernummering van het derde tot en met het negende lid in het vijfde
+tot en met het elfde lid, worden twee nieuwe leden ingevoegd, luidende:</al>
+          <arttkst>
+            <lid>
+              <nr>3.</nr>
+              <al>Onverminderd het tweede lid, is ten behoeve van:</al>
+              <al>a. een opstelplaats voor een stooktoestel uitgegaan van een op gas gestookt
+verbrandingstoestel met een belasting van ten minste 30 W per m<sup>2</sup>
+van de op dat toestel aangewezen gebruiksoppervlakte van het gebouw, met een
+minimum van 6 kW, en</al>
+              <al>b. een opstelplaats voor een warmwatertoestel uitgegaan van een op gas
+gestookt toestel met een belasting van ten minste 20 W per m<sup>2</sup> van
+de op dat toestel aangewezen gebruiksoppervlakte van het gebouw, met een minimum
+van 6 kW.</al>
+            </lid>
+            <lid>
+              <nr>4.</nr>
+              <al>In afwijking in zoverre van het derde lid, mag, indien het warmwatertoestel
+is samengevoegd met het stooktoestel, zijn uitgegaan van een belasting van
+dat samengevoegde toestel van ten minste 30 W per m<sup>2</sup> van de op
+dat toestel aangewezen gebruiksoppervlakte van het gebouw, met een minimum
+van 6 kW per opstelplaats..</al>
+            </lid>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>b.</nr>
+          <al>In het achtste lid (nieuw) wordt «vijfde» gewijzigd in: zevende.</al>
+        </wond>
+        <wond>
+          <nr>c.</nr>
+          <al>In het tiende en het elfde lid (nieuw) wordt «zevende» telkens
+gewijzigd in: negende.</al>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>I</nr>
+        </kop>
+        <al>Onder plaatsing van de aanduiding 1 voor de tekst van artikel 209, worden
+aan dat artikel twee nieuwe leden toegevoegd, luidende:</al>
+        <arttkst>
+          <lid>
+            <nr>2.</nr>
+            <al>De voorziening voor warm water heeft, opdat warm water kan worden betrokken,
+ter plaatse van een opstelplaats voor een warmwatertoestel, ten minste één
+aansluitpunt voor het kunnen aansluiten van dat toestel op die voorziening.</al>
+          </lid>
+          <lid>
+            <nr>3.</nr>
+            <al>De voorziening voor warm water heeft voorts ten minste één
+aansluitpunt ter plaatse van een bad of doucheplaats.. </al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>J</nr>
+        </kop>
+        <al>In artikel 217 worden, onder vernummering van het tweede tot en met het
+zesde lid in het vierde tot en met het achtste lid, twee nieuwe leden ingevoegd,
+luidende:</al>
+        <arttkst>
+          <lid>
+            <nr>2.</nr>
+            <al>Het eerste lid is van toepassing op:</al>
+            <al>a. een cellengebouw, dat is bestemd voor het gedwongen verblijf van personen
+gedurende meer dan twee dagen;</al>
+            <al>b. een gedeelte van een gezondheidszorggebouw, welk gedeelte is bestemd
+voor het verblijf van patiënten die als gevolg van hun lichamelijke of
+geestelijke gesteldheid permanent of tijdelijk aan bed gebonden zijn;</al>
+            <al>c. een onderwijsgebouw, waarin bouwkundig onderwijs wordt gegeven;</al>
+            <al>d. een sportgebouw, dat is bestemd voor de zwemsport, en</al>
+            <al>e. een sportgebouw, dat tot een onderwijsgebouw behoort.</al>
+          </lid>
+          <lid>
+            <nr>3.</nr>
+            <al>Het eerste lid is niet van toepassing op:</al>
+            <al>a. een bijeenkomstgebouw;</al>
+            <al>b. een gedeelte van een gezondheidszorggebouw, welk gedeelte niet is bestemd
+voor het verblijf van patiënten die als gevolg van hun lichamelijke of
+geestelijke gesteldheid permanent of tijdelijk aan bed gebonden zijn;</al>
+            <al>c. een horecagebouw;</al>
+            <al>d. een onderwijsgebouw, dat niet is bestemd voor bouwkundig onderwijs;</al>
+            <al>e. een industriegebouw;</al>
+            <al>f. een sportgebouw, dat niet is bestemd voor de zwemsport;</al>
+            <al>g. een sportgebouw, dat niet behoort tot een onderwijsgebouw;</al>
+            <al>h. een stationsgebouw;</al>
+            <al>i. een winkelgebouw, en</al>
+            <al>j. een gebouw, niet zijnde een gebouw als bedoeld in artikel 1, tweede
+lid, onderdelen a tot en met c en e tot en met o..</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>K</nr>
+        </kop>
+        <al>Artikel 222 wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>a.</nr>
+          <al>In het eerste lid wordt «in een gebouw» gewijzigd in: Tot
+een gebouw behoort en vervalt «aanwezig zijn».</al>
+        </wond>
+        <wond>
+          <nr>b.</nr>
+          <al>Na het eerste lid wordt, onder vernummering van het tweede tot en met
+het vijfde lid in het vierde tot en met het zevende lid, twee nieuwe leden
+ingevoegd, luidende:</al>
+          <arttkst>
+            <lid>
+              <nr>2.</nr>
+              <al>Het eerste lid is in elk geval van toepassing op:</al>
+              <al>a. een bijeenkomstgebouw;</al>
+              <al>b. een cellengebouw;</al>
+              <al>c. een gezondheidszorggebouw;</al>
+              <al>d. een horecagebouw;</al>
+              <al>e. een onderwijsgebouw;</al>
+              <al>f. een sportgebouw, en</al>
+              <al>g. een winkelgebouw.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>Het eerste lid is niet van toepassing op:</al>
+              <al>a. een industriegebouw;</al>
+              <al>b. een stationsgebouw;</al>
+              <al>c. een gebouw, niet zijnde een gebouw als bedoeld in artikel 1, tweede
+lid, onderdelen a tot en met c en e tot en met o, en</al>
+              <al>d. een gebouw, dat is aangesloten op het distributienet voor stadsverwarming.</al>
+            </lid>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>b.</nr>
+          <al>Het vijfde lid (nieuw) vervalt onder vernummering van het zesde en het
+zevende lid in het vijfde en het zesde lid.</al>
+        </wond>
+        <wond>
+          <nr>c.</nr>
+          <al>In het zesde lid (nieuw) vervalt «, bedoeld in het vierde lid, moeten». </al>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>L</nr>
+        </kop>
+        <al>Artikel 223 wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>a.</nr>
+          <al>Na het eerste lid worden, onder vernummering van het tweede en het derde
+lid in het vierde en het vijfde lid, twee nieuwe leden ingevoegd, luidende:</al>
+          <arttkst>
+            <lid>
+              <nr>2.</nr>
+              <al>Het eerste lid is in elk geval van toepassing op:</al>
+              <al>a. een cellengebouw, dat is bestemd voor het gedwongen verblijf van personen
+gedurende meer dan twee dagen;</al>
+              <al>b. een gedeelte van een gezondheidszorggebouw, welk gedeelte is bestemd
+voor het verblijf van patiënten die als gevolg van hun lichamelijke of
+geestelijke gesteldheid permanent of tijdelijk aan bed gebonden zijn;</al>
+              <al>c. een onderwijsgebouw, dat is bestemd voor bouwkundig onderwijs;</al>
+              <al>d. een sportgebouw, dat is bestemd voor de zwemsport, en</al>
+              <al>e. een sportgebouw, dat behoort tot een onderwijsgebouw.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>Het eerste lid is niet van toepassing op:</al>
+              <al>a. een bijeenkomstgebouw;</al>
+              <al>b. een gedeelte van een gezondheidszorggebouw, welk gedeelte niet is bestemd
+voor het verblijf van patiënten die als gevolg van hun lichamelijke of
+geestelijke gesteldheid permanent of tijdelijk aan bed gebonden zijn;</al>
+              <al>c. een horecagebouw;</al>
+              <al>d. een onderwijsgebouw, dat niet is bestemd voor bouwkundig onderwijs;</al>
+              <al>e. een industriegebouw;</al>
+              <al>f. een sportgebouw, dat niet is bestemd voor de zwemsport;</al>
+              <al>g. een sportgebouw, dat niet behoort tot onderwijsgebouw;</al>
+              <al>h. een stationsgebouw;</al>
+              <al>i. een winkelgebouw, en</al>
+              <al>j. een gebouw, niet zijnde een gebouw als bedoeld in artikel 1, tweede
+lid, onderdelen a tot en met c en e tot en met o..</al>
+            </lid>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>b.</nr>
+          <al>In het vierde lid vervalt «, bedoeld in het eerste lid, moeten».</al>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>M</nr>
+        </kop>
+        <al>Artikel 227 komt te luiden:</al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 227</nr>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>Een uitwendige scheidingsconstructie van een verblijfsgebied, een toiletruimte
+en een badruimte van een verwarmd gebouw heeft, ter beperking van warmteverlies
+door overdracht of geleiding, bepaald overeenkomstig NEN 1068, een warmteweerstand
+van ten minste 2,5 m<sup>2</sup>×K/W.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Het eerste lid is niet van toepassing op een deur, raam, kozijn en daarmee
+gelijk te stellen constructie-onderdeel, voor zover die deur, dat raam, kozijn
+of constructie-onderdeel, bepaald overeenkomstig NEN 5128, een warmtedoorgangscoëfficiënt
+heeft van ten hoogste 4,2 W/m<sup>2</sup>×K.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>Het eerste en het tweede lid zijn van overeenkomstige toepassing op:</al>
+              <al>a. een constructie, die de scheiding vormt tussen een verblijfsgebied,
+toiletruimte of badruimte en de kruipruimte, met inbegrip van de op die constructie
+aansluitende delen van andere constructies, voor zover die delen van invloed
+zijn op het voldoen van die constructie aan het eerste of tweede lid, en</al>
+              <al>b. een inwendige scheidingsconstructie van een verblijfsgebied, toiletruimte
+of badruimte, voor zover die constructie niet de scheiding vormt met een ander
+verblijfsgebied of met een andere toiletruimte of badruimte, waarvan de uitwendige
+scheidingsconstructie, bepaald overeenkomstig NEN 1068, een warmteweerstand
+heeft van ten minste 2,5 m<sup>2</sup>×K/W of waarvan, indien
+het een deur, raam, kozijn en daarmee gelijk te stellen constructie-onderdeel
+betreft, bepaald overeenkomstig NEN 5128, de warmtedoorgangscoëfficiënt
+ten hoogste 4,2 W/m<sup>2</sup>×K is.</al>
+            </lid>
+            <lid>
+              <nr>4.</nr>
+              <al>In het totaal van de uitwendige scheidingsconstructies van een in het
+eerste lid bedoeld gebouw, waaronder begrepen inwendige scheidingsconstructies
+als bedoeld in het derde lid, onderdeel b, mag ten hoogste 2% van de gebruiksoppervlakte
+van dat gebouw aan constructie-onderdelen aanwezig zijn, dat niet voldoet
+aan het eerste tot en met het derde lid..</al>
+            </lid>
+          </art>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>N</nr>
+        </kop>
+        <al>Artikel 228 komt te luiden:</al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 228</nr>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>Het totaal aan:</al>
+              <al>a. uitwendige scheidingsconstructies van een verwarmd gebouw;</al>
+              <al>b. inwendige scheidingsconstructies tussen een verwarmd gebouw en een
+niet in dat gebouw gelegen ruimte, en</al>
+              <al>c. constructies, die de scheiding vormen tussen een verwarmd gebouw en
+de kruipruimte, met inbegrip van de op die constructies aansluitende delen
+van andere constructies, mag, ter beperking van warmteverlies door tocht,
+bepaald overeenkomstig NEN 2686, geen grotere luchtvolumestroom als bedoeld
+in die norm, hebben dan 0,2 m<sup>3</sup>/s.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Bij de bepaling van de luchtvolumestroom mogen ruimten, niet zijnde een
+verblijfsgebied, toilet- of badruimte, buiten beschouwing blijven.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>Bij de bepaling van de luchtvolumestroom blijft voorts buiten beschouwing
+een ruimte, waarin zich een niet-afsluitbare opening van de voorziening voor
+de toevoer van verse lucht en de afvoer van binnenlucht bevindt, die een volgens
+NEN 1087, bepaalde capaciteit heeft van ten minste 3×10<sup>-3</sup>
+m<sup>3</sup>/s per m<sup>2</sup> gebruiksoppervlakte van die ruimte.</al>
+            </lid>
+          </art>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>O</nr>
+        </kop>
+        <al>Na artikel 228 wordt een nieuw artikel met bijbehorend opschrift ingevoegd,
+luidende:</al>
+        <wlichaam>
+          <par>
+            <kop>
+              <titel status="off">Energieprestatie</titel>
+            </kop>
+            <art>
+              <kop>
+                <nr>Artikel 228a</nr>
+              </kop>
+              <lid>
+                <nr>1.</nr>
+                <al>Onverminderd de artikelen 227 en 228, heeft een gebouw, bepaald overeenkomstig
+NEN 2916, een zodanige energieprestatiecoëfficiënt dat in verdergaande
+mate energie wordt bespaard.</al>
+              </lid>
+              <lid>
+                <nr>2.</nr>
+                <al>Bij de bepaling van de energieprestatiecoëfficiënt wordt aangehouden:</al>
+                <al>a. voor de coëfficiënt voor koeling, bedoeld in NEN 2916, 4,
+en</al>
+                <al>b. voor de in die norm bedoelde factor waarmee compensatie voor toelaatbaar
+energiegebruik voor ventilatie wordt gerealiseerd, 135.</al>
+              </lid>
+              <lid>
+                <nr>3.</nr>
+                <al>De energieprestatiecoëfficiënt van een:</al>
+                <al>a. bijeenkomstgebouw is ten hoogste 3,4;</al>
+                <al>b. cellengebouw is ten hoogste 2,3;</al>
+                <al>c. gezondheidszorggebouw is ten hoogste 2;</al>
+                <al>d. een gezondheidszorggebouw of een gedeelte daarvan, dat mede is bestemd
+voor het verblijf van patiënten die als gevolg van hun lichamelijke of
+geestelijke gesteldheid permanent of tijdelijk aan bed gebonden zijn, is ten
+hoogste 4,7;</al>
+                <al>e. horecagebouw is ten hoogste 2,2; </al>
+                <al>f. onderwijsgebouw is ten hoogste 1,5;</al>
+                <al>g. sportgebouw is ten hoogste 2,8, en</al>
+                <al>h. winkelgebouw is ten hoogste 3,6.</al>
+              </lid>
+              <lid>
+                <nr>4.</nr>
+                <al>Het eerste lid is niet van toepassing op:</al>
+                <al>a. een industriegebouw;</al>
+                <al>b. een stationsgebouw, en</al>
+                <al>c. een gebouw, niet zijnde een gebouw als bedoeld in artikel 1, tweede
+lid, onderdelen a tot en met c en e tot en met o.</al>
+              </lid>
+            </art>
+          </par>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>P</nr>
+        </kop>
+        <al>Artikel 229, eerste lid, komt te luiden:</al>
+        <arttkst>
+          <lid>
+            <nr>1.</nr>
+            <al>Indien niet is voldaan aan enig voorschrift, gegeven bij of krachtens
+de artikelen 227 tot en met 228a, heeft een gebouw een mate aan energiezuinigheid,
+die ten minste gelijk is aan die mate, beoogd met het desbetreffende bij of
+krachtens die artikelen gegeven voorschrift.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>Q</nr>
+        </kop>
+        <al>Artikel 244 wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>1.</nr>
+          <al>In het eerste lid wordt «1,2×10<sup>-3</sup> m<sup>3</sup>/s»
+vervangen door: 1,3×10<sup>-3</sup> m<sup>3</sup>/s.</al>
+        </wond>
+        <wond>
+          <nr>2.</nr>
+          <al>In het derde lid wordt «10×10<sup>-3</sup> m<sup>3</sup>/s»
+vervangen door: 1×10<sup>-3</sup> m<sup>3</sup>/s per m<sup>2</sup>
+vloeroppervlakte van die verblijfsruimte.</al>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>R</nr>
+        </kop>
+        <al>Na artikel 251 worden twee nieuwe artikelen met bijbehorende opschriften
+ingevoegd, luidende:</al>
+        <wlichaam>
+          <par>
+            <kop>
+              <titel status="off">Opstelplaats voor een warmwatertoestel</titel>
+            </kop>
+            <art>
+              <kop>
+                <nr>Artikel 251a</nr>
+              </kop>
+              <al>Artikel 223, eerste lid, is niet van toepassing op een kantoorgebouw.</al>
+            </art>
+          </par>
+          <par>
+            <kop>
+              <titel status="off">Energieprestatie</titel>
+            </kop>
+            <art>
+              <kop>
+                <nr>Artikel 251b</nr>
+              </kop>
+              <al>De energieprestatiecoëfficiënt, bedoeld in artikel 228a, eerste
+lid, van een kantoorgebouw is ten hoogste 1,9.</al>
+            </art>
+          </par>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>S</nr>
+        </kop>
+        <al>Artikel 271 wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>1.</nr>
+          <al>In het eerste lid wordt «0,9×10<sup>-3</sup> m<sup>3</sup>/s»
+vervangen door: 1×10<sup>-3</sup> m<sup>3</sup>/s.</al>
+        </wond>
+        <wond>
+          <nr>2.</nr>
+          <al>In het derde lid wordt «7×10<sup>-3</sup> m<sup>3</sup>/s»
+vervangen door: 0,8×10<sup>-3</sup> m<sup>3</sup>/s per m<sup>2</sup>
+vloeroppervlakte van die verblijfsruimte.</al>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>T</nr>
+        </kop>
+        <al>Na artikel 286 wordt een nieuw artikel met bijbehorend opschrift ingevoegd,
+luidende:</al>
+        <wlichaam>
+          <par>
+            <kop>
+              <titel status="off">Opstelplaats voor een stooktoestel</titel>
+            </kop>
+            <art>
+              <kop>
+                <nr>Artikel 286a</nr>
+              </kop>
+              <al>Artikel 222, eerste lid, is niet van toepassing op een niet in een logiesgebouw
+gelegen logiesverblijf. </al>
+            </art>
+          </par>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>U</nr>
+        </kop>
+        <al>Aan artikel 288 wordt, onder plaatsing van de aanduiding 1. voor de bestaande
+tekst, een nieuw lid toegevoegd, luidende:</al>
+        <arttkst>
+          <lid>
+            <nr>2.</nr>
+            <al>Artikel 223, eerste lid, is niet van toepassing op een niet in een logiesgebouw
+gelegen logiesverblijf.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>V</nr>
+        </kop>
+        <al>Na artikel 288 wordt een nieuw artikel met bijbehorend opschrift ingevoegd,
+luidende:</al>
+        <wlichaam>
+          <par>
+            <kop>
+              <titel status="off">Energieprestatie</titel>
+            </kop>
+            <art>
+              <kop>
+                <nr>Artikel 288a</nr>
+              </kop>
+              <lid>
+                <nr>1.</nr>
+                <al>De energieprestatiecoëfficiënt, bedoeld in artikel 228a, eerste
+lid, van een logiesgebouw is ten hoogste 2,4.</al>
+              </lid>
+              <lid>
+                <nr>2.</nr>
+                <al>De energieprestatiecoëfficiënt van een niet in een logiesgebouw
+gelegen verwarmd logiesverblijf, is ten hoogste 1,4. In afwijking van artikel
+228a, eerste lid, wordt de energieprestatiecoëfficiënt bepaald overeenkomstig
+NEN 5128.</al>
+              </lid>
+            </art>
+          </par>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>W</nr>
+        </kop>
+        <al>Artikel 406 wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>1.</nr>
+          <al>Het tweede lid, onderdeel d, komt te luiden:</al>
+          <arttkst>
+            <al>d. artikel 70, eerste lid, bij het gedeeltelijk vernieuwen of veranderen
+of het vergroten van een woning of woongebouw tot ten hoogste 1,3 m<sup>2</sup>×K/W. Voor ramen, deuren, kozijnen en daarmee gelijk te stellen
+constructie-onderdelen geldt geen eis., en.</al>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>2.</nr>
+          <al>Na het vierde lid wordt een nieuw lid toegevoegd, luidende:</al>
+          <arttkst>
+            <lid>
+              <nr>5.</nr>
+              <al>Burgemeester en wethouders kunnen geen vrijstelling verlenen van de artikelen
+70 tot en met 71a bij het geheel vernieuwen of veranderen van een niet in
+een woongebouw gelegen woning of een woongebouw..</al>
+            </lid>
+          </arttkst>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>X</nr>
+        </kop>
+        <al>Aan artikel 407 wordt een nieuw lid toegevoegd, luidende:</al>
+        <arttkst>
+          <lid>
+            <nr>5.</nr>
+            <al>Bij het verplaatsen van een woonwagen zijn de in hoofdstuk V gegeven voorschriften
+ten minste in acht genomen.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>Y</nr>
+        </kop>
+        <al>Artikel 408 wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>1.</nr>
+          <al>Het tweede lid, onderdeel d, komt te luiden:</al>
+          <arttkst>
+            <al>d. artikel 227, eerste lid, bij het gedeeltelijk vernieuwen of veranderen
+of het vergroten van een verwarmd gebouw tot ten hoogste 1,3 m<sup>2</sup>×K/W.
+Voor ramen, deuren, kozijnen en daarmee gelijk te stellen constructie-onderdelen
+geldt geen eis., en.</al>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>2.</nr>
+          <al>Na het vierde lid wordt een nieuw lid toegevoegd, luidende:</al>
+          <arttkst>
+            <lid>
+              <nr>5.</nr>
+              <al>Burgemeester en wethouders verlenen geen vrijstelling van de artikelen
+227 tot en met 228a bij het geheel vernieuwen of veranderen van een verwarmd
+gebouw.</al>
+            </lid>
+          </arttkst>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>Z</nr>
+        </kop>
+        <al>Na artikel 409, vierde lid, wordt een nieuw lid toegevoegd, luidende:</al>
+        <arttkst>
+          <lid>
+            <nr>5.</nr>
+            <al>Burgemeester en wethouders verlenen geen vrijstelling van artikel 251b
+bij het geheel vernieuwen of veranderen van een kantoorgebouw. </al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>AA</nr>
+        </kop>
+        <al>Na artikel 410, vierde lid, wordt een nieuw lid toegevoegd, luidende:</al>
+        <arttkst>
+          <lid>
+            <nr>5.</nr>
+            <al>Burgemeester en wethouders verlenen geen vrijstelling van artikel 288a
+bij het geheel vernieuwen of veranderen van een niet in een logiesgebouw gelegen
+verwarmd logiesverblijf of een logiesgebouw.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>AB</nr>
+        </kop>
+        <al>Aan artikel 413 wordt, onder plaatsing van de aanduiding 1. voor de bestaande
+tekst, een nieuw lid toegevoegd, luidende:</al>
+        <arttkst>
+          <lid>
+            <nr>2.</nr>
+            <al>In afwijking van het eerste lid en in afwijking in zoverre van de artikelen
+71a, 228a, 251b en 288a, is, indien ingevolge dit besluit voor een gebouw
+een energieprestatiecoëfficiënt geldt en dat gebouw deel uitmaakt
+van een gebouw, waarin een ander gebouw is gelegen waarvoor een afzonderlijke
+energieprestatiecoëfficiënt geldt, het quotiënt van het in
+NEN 2916 bedoelde karakteristieke energiegebruik en de in die norm bedoelde
+toelaatbare karakteristieke energieprestatie niet groter dan 1.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>AC</nr>
+        </kop>
+        <al>Artikel 414 wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>a.</nr>
+          <al>Het eerste lid komt te luiden:</al>
+          <arttkst>
+            <lid>
+              <nr>1.</nr>
+              <al>Bij het bouwen van een woonkeet zijn ten minste in acht genomen:</al>
+              <al>a. de voorschriften van hoofdstuk III;</al>
+              <al>b. de artikelen 11, tweede tot en met vierde lid, 12, tweede tot en met
+vijfde en zevende tot en met negende lid, 13, vijfde en zesde lid, 14, eerste,
+tweede, zesde, achtste, negende en elfde lid, zij het dat voor de weerstand
+tegen branddoorslag en brandoverslag telkens 30 minuten mag zijn aangehouden,
+15, 16, tweede tot en met zevende lid, 17, 18, 32, zesde tot en met elfde
+lid, 33 en 34, en</al>
+              <al>c. de in artikel 406, tweede lid, onderdelen a tot en met d, gegeven waarden..</al>
+            </lid>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>b.</nr>
+          <al>Na het tweede lid worden twee nieuwe leden toegevoegd, luidende:</al>
+          <arttkst>
+            <lid>
+              <nr>3.</nr>
+              <al>In afwijking van het eerste lid, kunnen burgemeester en wethouders bij
+het gedeeltelijk vernieuwen, veranderen of het vergroten van een woonkeet
+vrijstelling verlenen van de voorschriften van dat lid tot het niveau van
+de voorschriften van hoofdstuk III.</al>
+            </lid>
+            <lid>
+              <nr>4.</nr>
+              <al>Bij het verplaatsen van een woonkeet zijn de voorschriften van hoofdstuk
+III ten minste in acht genomen..</al>
+            </lid>
+          </arttkst>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>AD</nr>
+        </kop>
+        <al>Na artikel 414 worden vier nieuwe artikelen met bijbehorende opschriften
+ingevoegd, luidende:</al>
+        <wlichaam>
+          <par>
+            <kop>
+              <titel status="off">Niet-permanente niet tot bewoning bestemde gebouwen</titel>
+            </kop>
+            <art>
+              <kop>
+                <titel status="off">Artikel 414a</titel>
+              </kop>
+              <lid>
+                <nr>1.</nr>
+                <al>Bij het bouwen van een niet-permanent niet tot bewoning bestemd gebouw
+zijn ten minste in acht genomen:</al>
+                <al>a. de voorschriften van hoofdstuk VIII;</al>
+                <al>b. de artikelen 180, 183, tweede tot en met vierde lid, 184, tweede tot
+en met vijfde en zevende tot en met negende lid, 185, tweede en derde lid,
+203, vierde tot en met negende lid, 204 en 205, en</al>
+                <al>c. de in artikel 408, tweede lid, onderdelen a tot en met d, gegeven waarden.</al>
+              </lid>
+              <lid>
+                <nr>2.</nr>
+                <al>De staat van een bestaand niet-permanent niet tot bewoning bestemd gebouw
+voldoet ten minste aan de voorschriften van hoofdstuk VIII. </al>
+              </lid>
+              <lid>
+                <nr>3.</nr>
+                <al>In afwijking van het eerste lid, kunnen burgemeester en wethouders bij
+het gedeeltelijk vernieuwen, veranderen of het vergroten van een niet-permanent
+niet tot bewoning bestemd gebouw vrijstelling verlenen van de voorschriften
+van dat lid tot het niveau van de voorschriften van hoofdstuk VIII.</al>
+              </lid>
+              <lid>
+                <nr>4.</nr>
+                <al>Bij het verplaatsen van een niet-permanent niet tot bewoning bestemd gebouw
+zijn de voorschriften van hoofdstuk VIII ten minste in acht genomen.</al>
+              </lid>
+            </art>
+          </par>
+          <par>
+            <kop>
+              <titel status="off">Niet-permanent kantoorgebouw</titel>
+            </kop>
+            <art>
+              <kop>
+                <nr>Artikel 414b</nr>
+              </kop>
+              <lid>
+                <nr>1.</nr>
+                <al>Bij het bouwen van een niet-permanent kantoorgebouw zijn ten minste in
+acht genomen:</al>
+                <al>a. de voorschriften van hoofdstuk IX, titel I;</al>
+                <al>b. de artikelen 230, 231, vierde en vijfde lid, 232, zij het dat telkens
+voor de weerstand tegen branddoorslag en brandoverslag 30 minuten mag zijn
+aangehouden, 233, 234 en 235 tot en met 238, en</al>
+                <al>c. de in artikel 409, tweede lid, gegeven waarden.</al>
+              </lid>
+              <lid>
+                <nr>2.</nr>
+                <al>De staat van een bestaand niet-permanent kantoorgebouw voldoet ten minste
+aan de voorschriften van hoofdstuk IX, titel I.</al>
+              </lid>
+              <lid>
+                <nr>3.</nr>
+                <al>In afwijking van het eerste lid, kunnen burgemeester en wethouders bij
+het gedeeltelijk vernieuwen, veranderen of het vergroten van een niet-permanent
+kantoorgebouw vrijstelling verlenen van de voorschriften van dat lid tot het
+niveau van de voorschriften van hoofdstuk IX, titel I.</al>
+              </lid>
+              <lid>
+                <nr>4.</nr>
+                <al>Bij het verplaatsen van een niet-permanent kantoorgebouw zijn de voorschriften
+van hoofdstuk IX, titel I, ten minste in acht genomen.</al>
+              </lid>
+            </art>
+          </par>
+          <par>
+            <kop>
+              <titel status="off">Niet-permanent logiesverblijf of logiesgebouw</titel>
+            </kop>
+            <art>
+              <kop>
+                <nr>Artikel 414c</nr>
+              </kop>
+              <lid>
+                <nr>1.</nr>
+                <al>Bij het bouwen van een niet-permanent logiesverblijf of logiesgebouw zijn
+ten minste in acht genomen:</al>
+                <al>a. de voorschriften van hoofdstuk IX, titel II;</al>
+                <al>b. de artikelen 255, 256, vierde en vijfde lid, 257, zij het dat telkens
+voor de weerstand tegen branddoorslag en brandoverslag 30 minuten mag zijn
+aangehouden, 258, 259 en 260 tot en met 263, en</al>
+                <al>c. de in artikel 410, tweede lid, onderdelen a en b, gegeven waarden.</al>
+              </lid>
+              <lid>
+                <nr>2.</nr>
+                <al>De staat van een bestaand niet-permanent logiesverblijf of logiesgebouw
+voldoet ten minste aan de voorschriften van hoofdstuk IX, titel II.</al>
+              </lid>
+              <lid>
+                <nr>3.</nr>
+                <al>In afwijking van het eerste lid, kunnen burgemeester en wethouders bij
+het gedeeltelijk vernieuwen, veranderen of het vergroten van een niet-permanent
+logiesverblijf of logiesgebouw vrijstelling verlenen van de voorschriften
+van dat lid tot het niveau van de voorschriften van hoofdstuk IX, titel II.</al>
+              </lid>
+              <lid>
+                <nr>4.</nr>
+                <al>Bij het verplaatsen van een niet-permanent logiesverblijf of logiesgebouw
+zijn de voorschriften van hoofdstuk IX, titel II, ten minste in acht genomen.</al>
+              </lid>
+            </art>
+          </par>
+          <par>
+            <kop>
+              <titel status="off">Niet-permanente bouwwerken, geen gebouw zijnde</titel>
+            </kop>
+            <art>
+              <kop>
+                <nr>Artikel 414d</nr>
+              </kop>
+              <lid>
+                <nr>1.</nr>
+                <al>Bij het bouwen van een niet-permanent bouwwerk, geen gebouw zijnde, zijn
+ten minste in acht genomen:</al>
+                <al>a. de voorschriften van hoofdstuk XI, en</al>
+                <al>b. de artikelen 365, 367, tweede tot en met vierde lid, 368, eerste lid,
+369, derde lid, en 377.</al>
+              </lid>
+              <lid>
+                <nr>2.</nr>
+                <al>De staat van een bestaand niet-permanent bouwwerk, geen gebouw zijnde,
+voldoet ten minste aan de voorschriften van hoofdstuk XI. </al>
+              </lid>
+              <lid>
+                <nr>3.</nr>
+                <al>In afwijking van het eerste lid, kunnen burgemeester en wethouders bij
+het gedeeltelijk vernieuwen, veranderen of het vergroten van een niet-permanent
+bouwwerk, geen gebouw zijnde, vrijstelling verlenen van de voorschriften van
+dat lid tot het niveau van de voorschriften van hoofdstuk XI.</al>
+              </lid>
+              <lid>
+                <nr>4.</nr>
+                <al>Bij het verplaatsen van een niet-permanent bouwwerk, geen gebouw zijnde,
+zijn de voorschriften van hoofdstuk XI ten minste in acht genomen..</al>
+              </lid>
+            </art>
+          </par>
+        </wlichaam>
+      </wlid>
+    </wart>
+    <art id="aii">
+      <kop>
+        <nr>ARTIKEL II</nr>
+      </kop>
+      <lid>
+        <nr>1.</nr>
+        <al>Dit besluit treedt in werking op een bij koninklijk besluit te bepalen
+tijdstip.</al>
+      </lid>
+      <lid>
+        <nr>2.</nr>
+        <al>De voorschriften van dit besluit zijn van toepassing op bouwwerken waarvoor
+na de inwerkingtreding van dit besluit:</al>
+        <al>a. een aanvraag om bouwvergunning als bedoeld in artikel 40, eerste lid,
+van de Woningwet is ingediend of</al>
+        <al>b. een voornemen tot bouwen als bedoeld in artikel 42, eerste lid, van
+die wet is gemeld.</al>
+        <al>3. Aanvragen om bouwvergunning als bedoeld in artikel 40, eerste lid,
+van de Woningwet en meldingen van een voornemen tot bouwen als bedoeld in
+artikel 42, eerste lid, van die wet, die zijn ingediend vóór
+de inwerkingtreding van dit besluit, alsmede enig beroep, ingesteld tegen
+een beslissing omtrent een dergelijke aanvraag of melding worden afgedaan
+overeenkomstig de voorschriften die golden vóór de inwerkingtreding
+van dit besluit.</al>
+      </lid>
+    </art>
+  </body>
+  <backm>
+    <nawerk>
+      <slotform>Lasten en bevelen dat dit besluit met de daarbij behorende nota
+van toelichting in het Staatsblad wordt geplaatst.</slotform>
+      <eindnoot id="e1">
+        <al>Stb. 1991, 680, gewijzigd bij besluit van 15 november 1994, Stb.
+829.</al>
+      </eindnoot>
+      <histnoot>
+        <al>Het advies van de Raad van State is openbaar gemaakt door terinzagelegging
+bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.</al>
+        <al>Tevens zal het advies met de daarbij ter inzage gelegde stukken worden
+opgenomen in het bijvoegsel bij de Nederlandse Staatscourant van 11 juli 1995,
+nr. 131.</al>
+      </histnoot>
+      <ondertek>
+        <ondplts>'s-Gravenhage, </ondplts>
+        <onddatum>30 mei 1995</onddatum>
+        <koning>Beatrix</koning>
+        <minister>
+          <minvan>De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en
+Milieubeheer,</minvan>
+          <naam>D. K. J. Tommel</naam>
+        </minister>
+      </ondertek>
+      <uitgifte>
+        <uitgifte-regel>Uitgegeven de <nadruk type="cur">dertiende</nadruk> juni 1995</uitgifte-regel>
+        <uitdag>dertiende</uitdag>
+        <uitmaand>juni</uitmaand>
+        <uitjaar>1995</uitjaar>
+        <door>
+          <minvan>De Minister van Justitie,</minvan>
+          <naam>W. Sorgdrager </naam>
+        </door>
+      </uitgifte>
+    </nawerk>
+    <notatoe>
+      <kop>
+        <titel status="off">NOTA VAN TOELICHTING</titel>
+      </kop>
+      <tuskop letat="vet">I. Algemeen</tuskop>
+      <tuskop letat="cur">1. Inleiding</tuskop>
+      <al>In de bij of krachtens het Bouwbesluit gegeven voorschriften zijn eisen
+gesteld uit het oogpunt van energiezuinigheid ter beperking van warmteverlies.
+Deze voorschriften hebben betrekking op de thermische isolatie van de gebouwschil
+en de beperking van de luchtdoorlatendheid van deze schil. Deze voorschriften
+zijn gericht op het terugdringen van het verbruik van energie, gas en elektriciteit,
+die voor verwarming van het gebouw nodig is. Deze voorschriften zijn, wat
+de woningbouw betreft, mede gegeven ter beperking van woonlasten.</al>
+      <witreg></witreg>
+      <al>Ter uitvoering van de notitie Duurzaam Bouwen die in het kader van het
+Nationaal Milieubeleidsplan is opgesteld (Kamerstukken II 1989/90, 21 137,
+nr. 23), en de Nota Energiebesparing voorziet dit besluit tot wijziging van
+het Bouwbesluit in verdergaande eisen ter beperking van het gebruik van energie.
+Het verder terugdringen van het energiegebruik door het geven van technische
+eisen draagt bij aan een geringere belasting van het milieu met uitstoot van
+CO<inf>2</inf>. Bovendien draagt dit bij aan het zuinig omgaan met de voorraad
+fossiele brandstoffen ten behoeve van een duurzame ontwikkeling.</al>
+      <witreg></witreg>
+      <al>Met de thermische isolatie-eisen van het Bouwbesluit in termen van een
+warmteweerstand van scheidingsconstructies ter grootte van 2,5 m<sup>2</sup>×K/W
+en als alternatief een thermische isolatie-index van het gebouw ter grootte
+van 14 is het maximum bereikt dat bij de huidige energieprijzen ten aanzien
+van de isolatie van de gebouwschil nog als rendabel is te beschouwen. Verdergaande
+energiebesparing wordt toch noodzakelijk geacht. Met een eis aan de totale
+energieprestatie aan een gebouw waarin naast thermische isolatie van de schil
+ook andere energiebesparende opties zijn begrepen, kan aan die noodzaak tegemoet
+worden gekomen. Bovendien kan een aanvrager van een bouwvergunning op basis
+van zo'n eis een economische afweging maken teneinde aan die energieprestatie
+te voldoen. Om deze reden is aan het Nederlands Normalisatie-instituut (NNI)
+opdracht gegeven om een bepalingsmethode te normeren waarin energiebesparing
+in een totaalconcept van warmteverlies door transmissie, ventilatie en infiltratie,
+warmtewinst door zoninstraling en andere vormen van benutting van zonne-energie
+en energiegebruik door gebouwgebonden installaties, zoals het energiegebruik
+ten behoeve van mechanische ventilatie, warm tapwaterverbruik, verlichting,
+verwarming, koeling en bevochtiging de doelstelling is. Dit heeft geresulteerd
+in een tweetal normen, te weten: NEN 5128 voor niet in een woongebouw gelegen
+woningen en voor woongebouwen en NEN 2916 voor niet tot bewoning bestemde
+gebouwen. Met behulp van deze normen kan van een gebouw de energieprestatiecoëfficiënt
+worden bepaald, welke grootheid een maatstaf is voor de energiezuinigheid
+van een gebouw. Met het opnemen van eisen aan de energieprestatiecoëfficiënt,
+waarin het onderhavige besluit voorziet, kan een verdergaande mate van energiebesparing
+worden bewerkstelligd dan op basis van de sinds 1 oktober 1992 geldende eisen
+van het Bouwbesluit.</al>
+      <witreg></witreg>
+      <al>Ten einde te bewerkstelligen dat de bouwkundige schil van een gebouw een
+voldoende mate van thermische isolatie heeft en de energieprestatiecoëfficiënt
+niet voornamelijk door energiezuinige gebouwgebonden installaties tot stand
+komt, is in dit besluit voorzien in het grotendeels handhaven van de eisen
+aan de warmteweerstand en luchtdoorlatendheid van scheidingsconstructies.
+Slechts de eisen aan de thermische isolatie-index zijn komen
+te vervallen. Deze wijziging zal dan ook enerzijds leiden tot een goede energiezuinige
+schil van gebouwen en anderzijds tot goede energiezuinige gebouwgebonden installaties.</al>
+      <witreg></witreg>
+      <al>Het onderhavige besluit heeft slechts marginale consequenties voor woonwagens.
+Voor deze woonvorm is slechts een verandering aangebracht ten aanzien van
+de wijze waarop de thermische isolatie van ramen, deuren, kozijnen en daarmee
+vergelijkbare constructie-onderdelen moet worden bepaald. Aangesloten is bij
+de regeling die voor woningen en woongebouwen geldt. Reden hiervoor is dat
+de desbetreffende industrie ook de hiervoor bedoelde constructie-onderdelen
+levert voor woonwagens.</al>
+      <witreg></witreg>
+      <al>Voor het verbouwen van gebouwen geldt op grond van artikel 4 van de Woningwet
+in principe ook de energieprestatiecoëfficiënt. Het wordt echter
+niet redelijk geacht om die energieprestatiecoëfficiënt in zijn
+volle omvang op verbouwsituaties van toepassing te laten zijn. Te meer daar
+de energieprestatiecoëfficiënt alleen kan worden gerealiseerd door
+middel van verschillende maatregelen. Maatregelen die, in tegenstelling tot
+hetgeen artikel 4 van de Woningwet stelt, niet alleen betrekking hebben op
+het onderwerp van de verbouwing. Daarom zijn in het onderhavige besluit de
+verbouwsituaties onderscheiden naar het geheel vernieuwen of veranderen en
+het gedeeltelijk vernieuwen, veranderen of het vergroten van een gebouw. Op
+eerstbedoelde situatie is blijkens de artikelen 406, vijfde lid, en 408 tot
+en met 410, telkens het vijfde lid, de energieprestatiecoëfficiënt
+volledig van toepassing verklaard. In die situatie is in de regel sprake van
+sloop van het bestaande gebouw met behoud van de fundering gevolgd door herbouw.
+Ten aanzien van laatstbedoelde situatie hebben burgemeester en wethouders
+de bevoegdheid om tot een in die artikelen aangegeven niveau vrijstelling
+te verlenen van het nieuwbouwniveau.</al>
+      <witreg></witreg>
+      <al>Met de energieprestatie-eis wordt tevens (gedeeltelijk) uitvoering gegeven
+aan de aanbevelingen van de richtlijn van 25 juni 1993 van de Raad van de
+Europese Gemeenschappen tot beperking van kooldioxide emissies door verbetering
+van de energie-efficiëntie. Deze richtlijn is vastgesteld in het kader
+van het SAVE-programma. De richtlijn verplicht de Lid-Staten onder meer tot
+programma's ter beperking van het energiegebruik voor warm tapwater. Deze
+richtlijn leidt tevens tot thermische isolatie van nieuwe gebouwen.</al>
+      <witreg></witreg>
+      <al>Op grond van artikel 45 van de Woningwet stellen burgemeester en wethouders
+in de bouwvergunning voor een tijdelijk bouwwerk een termijn, na het verstrijken
+waarvan dat bouwwerk niet langer in stand mag blijven. Hierbij gaat het om
+het instandblijven op dezelfde plaats. Deze termijn mag ten hoogste vijf jaren
+zijn. Gelet op deze, relatief korte termijn, is het niet redelijk om voor
+te bouwen tijdelijke bouwwerken de nieuwbouw-eisen in hun volle omvang op
+die bouwwerken van toepassing te laten zijn. Het hiervoor gestelde geldt ook
+voor het verplaatsen van dergelijke tijdelijke ofwel niet-permanente bouwwerken.
+Bij het verplaatsen van zo'n bouwwerk vinden normaliter geen bouwkundige veranderingen
+plaats. Een vergelijkbare situatie als hiervoor geschetst voor tijdelijke
+bouwwerken doet zich ook voor bij het verplaatsen van een woonwagen naar een
+andere standplaats. Ook voor woonwagens zou het te ver voeren om bij het verplaatsen
+ervan de nieuwbouw-eisen van toepassing te laten zijn. Met het oog hierop
+zijn de artikelen 407, betrekking hebbend op woonwagens, en 414, betrekking
+hebbend op woonketen, aangepast. Voorts is in de artikelen 414a tot en met
+414d een vergelijkbare regeling gegeven voor tijdelijke niet tot bewoning
+bestemde gebouwen in het algemeen, tijdelijke kantoorgebouwen,
+tijdelijke logiesverblijven en logiesgebouwen en voor tijdelijke bouwwerken,
+geen gebouw zijnde.</al>
+      <tuskop letat="cur">2. Notificatie</tuskop>
+      <al>Op grond van de richtlijn van de Raad van de Europese Gemeenschappen van
+28 maart 1983 betreffende een informatieprocedure op het gebied van normen
+en technische voorschriften (83/189/EEG, PbEG L 109) dienen de Lid-Staten
+normen en technische voorschriften die zij voornemens zijn vast te stellen,
+bij de Europese Commissie aan te melden. De bedoeling van deze procedure is,
+dat de Commissie en de overige Lid-Staten kunnen nagaan of die normen en voorschriften
+zullen leiden tot handelsbelemmeringen. Indien de Commissie of één
+van de overige Lid-Staten binnen een termijn van drie maanden na aanmelding
+van de normen en technische voorschriften gemotiveerd te kennen geeft dat
+die normen of voorschriften naar haar of zijn mening een belemmering vormt
+voor het vrije verkeer van goederen binnen de Europese Unie, dan dient de
+betrokken Lid-Staat ervoor te zorgen dat de inwerkingtreding van die normen
+of voorschriften gedurende een periode van zes maanden, gerekend vanaf de
+datum van aanmelding, wordt opgeschort.</al>
+      <al>Ingevolge deze procedure is het ontwerp-besluit op 19 oktober 1994 bij
+de Europese Commissie aangemeld.</al>
+      <al>Noch de Commissie, noch één van de overige Lid-Staten heeft
+binnen de gestelde termijn van drie maanden te kennen gegeven dat het onderhavige
+besluit handelsbelemmeringen oplevert.</al>
+      <tuskop letat="cur">3. Niveau van de voorschriften</tuskop>
+      <al>Met de invoering van de energieprestatiecoëfficiënt wordt een
+nieuwe grootheid geïntroduceerd in de Nederlandse bouwregelgeving. Uit
+onderzoeken van DHV «Kosteneffectstudie grenswaarde energieprestatiecoëfficiënt
+utiliteitsbouw», november 1994, Bouwcentrum Advies bv «Energieprestatie
+referentiewoningen«, rapportnummer 17 757, november 1994, is gebleken
+dat de energieprestatiecoëfficiënt van recentelijk onder het regime
+van het Bouwbesluit gerealiseerde gebouwen een grote spreiding vertoont. Dit
+is niet verwonderlijk, omdat het integrale energiebesparingsconcept tot op
+dit moment niet bekend was. De milieudoelstelling dwingt feitelijk tot een
+scherpe grenswaarde aan de energieprestatiecoëfficiënt ten einde
+een zo groot mogelijk percentage aan energiebesparing te realiseren. Gegeven
+de huidige wijze van bouwen zou het stellen van een te scherpe grenswaarde
+waarmee die doelstelling direct wordt geëffectueerd, de bouwkolom voor
+een te grote omschakeling plaatsen die niet verantwoord wordt geacht. Om deze
+reden is er voor gekozen de energieprestatiecoëfficiënt zo te stellen
+dat een redelijke mate van verdergaande energiebesparing in de orde van 10
+tot 20% wordt gerealiseerd. De bouwkolom kan op die wijze aan deze nieuwe
+grootheid wennen zonder dat meteen sprake is van een verstrekkende aanpassing
+van de ons bekende bouwwijzen. Op termijn, als de bouwwereld gewend is aan
+de nieuwe grootheid en de consequenties op de gebouwde omgeving in zijn volle
+omvang bekend zijn, kan worden bezien of de grenswaarden verder zullen worden
+aangescherpt.</al>
+      <witreg></witreg>
+      <al>Bij de bepaling van de hoogte van de in dit besluit gegeven eisen is rekening
+gehouden met de technische haalbaarheid van mogelijke maatregelen, de kosten-batenverhouding
+(extra investeringskosten, inclusief onderhoud en verzekering, afgezet tegen
+te realiseren energiebesparing) en de gevolgen voor de rijksbegroting (extra
+beslag op individuele huursubsidie en de begroting voor de rijkshuisvesting)
+dan wel investeringskosten van beleggers en bedrijven. </al>
+      <witreg></witreg>
+      <al>De energieprestatiecoëfficiënt is een dimensieloze grootheid,
+zijnde het quotiënt van het karakteristiek energiegebruik van het gebouw
+en het toelaatbaar energiegebruik. Bij de bepaling van het karakteristieke
+energiegebruik is rekening gehouden met zowel het gebruik van fossiele brandstoffen
+als het elektriciteitsgebruik, beiden voor zover gerelateerd aan gebouwgebonden
+installaties. Bij de bepaling van het toelaatbaar energiegebruik is rekening
+gehouden met de bouwkundige praktijk van voor het van kracht worden van de
+energieprestatiecoëfficiënt. Het vorenstaande betekent dat indien
+de waarde van de energieprestatiecoëfficiënt lager is, de eis hoger
+is ofwel dat meer energie zal moeten worden bespaard.</al>
+      <witreg></witreg>
+      <al>Als gevolg van het geven van de in het onderhavige besluit vervatte energiezuinigheidsvoorschriften
+zouden de huidige eisen met betrekking tot de warmteweerstand van scheidingsconstructies
+van een gebouw en de luchtdoorlatendheid van een gebouw in beginsel kunnen
+vervallen. Vanwege het feit dat het alsnog thermisch isoleren en luchtdicht
+maken van bestaande gebouwen kostbaar is, is er voor gekozen om de vigerende
+eisen ten aanzien van de thermische isolatie, met uitzondering van die met
+betrekking tot de thermische isolatie-index, en de luchtdoorlatendheid in
+grote lijnen te handhaven.</al>
+      <tuskop letat="cur">4. Bepalingsmethoden</tuskop>
+      <al>Door het NNI zijn in september 1994 een tweetal normen, NEN 5128 «Energieprestatie
+van woningen en woongebouwen. Bepalingsmethode» en NEN 2916 «Energieprestatie
+van utiliteitsgebouwen. Bepalingsmethode» gepubliceerd. De in het onderhavige
+besluit gegeven energieprestatiecoëfficiënt zijn aan die bepalingsmethoden
+gekoppeld doordat naar die normen is verwezen. Zoals gebruikelijk bij door
+het NNI gepubliceerde normbladen, zal het NNI ook bij deze twee normbladen
+een zogenoemde Nederlandse Praktijkrichtlijn laten opstellen en vervolgens
+publiceren. Het gaat hier om de NPR 5129 en de NPR 2917. Deze NPR's zullen
+bestaan uit een computerrekenprogramma, een handleiding voor het gebruik van
+dat rekenprogramma en een aantal rekenvoorbeelden van respectievelijk woningen
+en niet tot bewoning bestemde gebouwen. Met behulp van dit rekenprogramma
+kan op eenvoudige wijze worden nagegaan of met de gemaakte keuze uit de in
+het normblad gegeven besparingsopties aan de vereiste energieprestatiecoëfficiënt
+is voldaan. Een uitdraai van die berekening kan dienen als bewijs dat aan
+de voor het te bouwen gebouw vereiste energieprestatiecoëfficiënt
+is voldaan.</al>
+      <witreg></witreg>
+      <al>Ten behoeve van de woningbouw is in opdracht van Novem door</al>
+      <al>TNO Bouw nagegaan of voor niet in een woongebouw gelegen woningen een
+vereenvoudigde bepalingsmethode zou zijn kunnen worden gegeven, waardoor niet
+in alle situaties een berekening overeenkomstig NEN 5128 bij de aanvraag om
+bouwvergunning behoeft te worden overgelegd. Uit het onderzoeksrapport, 95-BBI-R0650
+van april 1995, valt af te leiden dat een niet in een woongebouw gelegen of
+van een ander gebouw deel uitmakende woning aan de energieprestatiecoëfficiënt
+zal voldoen, indien:</al>
+      <al>a. de warmteweerstand van de uitwendige scheidingsconstructies, niet zijnde
+een raam, deur of kozijn, en van de begane grondvloer ten minste 2,5 m<sup>2</sup>×K/W is. Hierbij moet de warmteweerstand van een eventueel van
+een kozijn deel uitmakende borstwering eveneens ten minste 2,5 m<sup>2</sup>×K/W
+zijn;</al>
+      <al>b. de warmtedoorgangscoëfficiënt (U-waarde) van ramen, deuren
+en kozijnen ten hoogste 2,4 W/m<sup>2</sup>×K is;</al>
+      <al>c. de woning geen gebalanceerd ventilatiesysteem, luchtverwarming, koeling
+of geen bevochtiging heeft; </al>
+      <al>d. de luchtdoorlatendheid van de woning gelijk is aan 1,43 maal de gebruiksoppervlakte
+van de woning met een maximum van 200 dm<sup>3</sup>/s per 500 m<sup>3</sup>
+netto-woninginhoud;</al>
+      <al>e. belemmeringen op het eigen perceel met een relatieve hoogte groter
+dan 0,36 niet aanwezig zijn;</al>
+      <al>f. de beschaduwing ten gevolge van overstekken beperkt is tot een overstek
+met een oppervlakte die niet groter is dan de in het Bouwbesluit vereiste
+minimum vloeroppervlakte van een buitenruimte;</al>
+      <al>g. het systeemrendement van de verwarmingsinstallatie ten minste 95% is;</al>
+      <al>h. het opwekkingrendement van de verwarmingsinstallatie ten minste 90%
+is;</al>
+      <al>i. het opwekkingrendement van een toestel voor warmtapwaterbereiding ten
+minste 65% is, en</al>
+      <al>j. de relatie tussen de oppervlakte aan ramen, deuren en kozijnen, de
+verliesoppervlakte van de woning, de gebruiksoppervlakte van de woning en
+van de verwarmde zones van de woning voldoet aan:</al>
+      <al>248×Araam+103×Averlies+363×Ag+2957330×Ag;verw
++65×Averlies &amp;dag;1,4</al>
+      <witreg></witreg>
+      <al>waarin:</al>
+      <al>A<inf>raam</inf></al>
+      <al>is de oppervlakte van de ramen, deuren en kozijnen, in m<sup>2</sup>;</al>
+      <al>A<inf>verlies</inf></al>
+      <al>is de totale verliesoppervlakte van de woning, in m<sup>2</sup>;</al>
+      <al>A<inf>g;</inf></al>
+      <al>is de gebruiksoppervlakte van de woning, en</al>
+      <al>A<inf>g;verw</inf></al>
+      <al>is de gebruiksoppervlakte van het totaal aan verwarmde zones van de woning.</al>
+      <witreg></witreg>
+      <al>Uitgaande van deze vereenvoudigde methode, zal een eengezinswoning aan
+de in het onderhavige besluit gegeven energieprestatiecoëfficiënt
+van 1,4 voldoen, indien die woning is voorzien van:</al>
+      <al>1. een centraal warmwater-verwarmingssysteem;</al>
+      <al>2. een waakvlamloze hoogrendement combiketel met een doorstroomvoorziening
+voor de warmtapwaterbereiding;</al>
+      <al>3. een natuurlijk ventilatiesysteem of van een systeem met natuurlijke
+luchttoevoer;</al>
+      <al>4. kierdichte aansluitingen tussen constructie-onderdelen die zijn toegepast
+in de uitwendige scheidingsconstructie, en</al>
+      <al>5. thermisch geïsoleerde uitwendige scheidingsconstructies.</al>
+      <al>Bovendien mag die woning geen overstekken hebben, waarvan de totale oppervlakte
+groter is dan de minimum vloeroppervlakte van een in de vorm van een balkon
+uitgevoerde buitenruimte. Tenslotte zal de relatie tussen de oppervlakte aan
+ramen, deuren en kozijnen, de verliesoppervlakte en de gebruiksoppervlakten
+van de woning en de verwarmde zones van de woning mag niet groter zijn dan
+1,4. Samengevat: indien de woning als hiervoor wordt ontworpen, behoeft alleen
+de berekening van laatstbedoelde relatie te worden overgelegd bij de aanvraag
+om bouwvergunning. Die berekening is vrij eenvoudig uitvoerbaar.</al>
+      <tuskop letat="cur">5. Financiële gevolgen</tuskop>
+      <al>In de onderzoeksrapporten van DHV «Kosteneffectstudie grenswaarde
+energieprestatiecoëfficiënt utiliteitsbouw», november 1994
+en van Bouwcentrum Advies bv «Onderzoek naar de extra kosten bij verdergaande
+energiebesparing Woningnieuwbouw, rapportnummer 6616, april 1993 en «Energieprestatie
+referentiewoningen», rapportnummer 17 757, november 1994, is beschreven
+wat de financiële consequenties zijn van het invoeren van een energieprestatiecoëfficiënt.
+Daartoe is aan de hand van NEN 5128 en NEN 2916 nagegaan welke bouwkundige
+maatregelen zullen leiden tot energiebesparing. Dit kunnen maatregelen
+zijn ten aanzien van een eenentwintigtal afzonderlijke aspecten, zoals oriëntatie
+van een gebouw, toepassing van speciale glassoorten (HR-glas, ook wel LE-glas
+genoemd), bewust toepassen van ramen naar optimale grootte en oriëntatie,
+het toepassen van meer isolatie in de gebouwschil, het toepassen van energiezuinige
+verlichting, het toepassen van verbrandingstoestellen met een hoog rendement,
+het toepassen van waakvlamloze toestellen, het meer luchtdicht bouwen, het
+beperken van niet noodzakelijke ventilatiestromen, het toepassen van gebalanceerde
+ventilatie met warmteterugwinning en het toepassen van energiezuinige pompen
+in ventilatie- en verwarmingsinstallaties. Het voldoen aan de energieprestatiecoëfficiënt
+zal in de regel worden gerealiseerd door een combinatie van maatregelen toe
+te passen.</al>
+      <witreg></witreg>
+      <al>Voor woningen en woongebouwen is aan de hand van een viertal referentiewoningen
+nagegaan, welke consequenties bepaalde maatregelen hebben voor de stichtingskosten
+en voor de woonlasten. Voorts is nagegaan welke energiebesparing per maatregel
+op grond van NEN 5128 mag worden verwacht. Gebleken is dat geen van de maatregelen
+rendabel is. Dit is verklaarbaar, omdat met de huidige gasprijzen de rentabiliteitsdrempel
+reeds met de vigerende eisen van het Bouwbesluit ten aanzien van de warmte-weerstand,
+de I<inf>t</inf>-waarde en de luchtdoorlatendheid zijn overschreden. Met de
+voorgestelde energieprestatiecoëfficiënt, leidend tot een energiebesparing
+in de orde van 10–15%, is de kosten-batenverhouding tussen enerzijds
+de toename van de huurprijs en anderzijds de verlaging van de energielasten
+het gunstigst te noemen. De gevolgen voor de MVROM-begroting in het kader
+van de IHS worden geschat op cumulatief ca. 0,9 mln.</al>
+      <witreg></witreg>
+      <al>Voor de niet tot bewoning bestemde gebouwen zijn achtenentwintig recentelijk
+gerealiseerde gebouwen doorgerekend. In deze gebouwen zijn alle gebouwfuncties
+die het Bouwbesluit op basis van het onderhavige besluit onderscheidt, vertegenwoordigd.
+De effecten van verschillende maatregelen en combinaties van maatregelen zijn
+doorgerekend op verwachte energiebesparing, effect op de stichtingskosten,
+effect op de jaarlijkse energiekosten en het gekapitaliseerd kosteneffect
+op de totale investering. Met de voorgestelde energieprestatiecoëfficiënten
+en de nagestreefde energiebesparing in de orde van 15–20% schommelen
+de effecten op de stichtingskosten tussen 0,3 en 2%. Het gekapitaliseerd kosteneffect
+is echter slechts marginaal negatief te noemen (0,1%). Hierbij moet worden
+aangetekend dat vanwege het tot dusverre ontbreken van het voorgestelde energiebesparingsinstrument,
+gerealiseerde bouwwerken een grote spreiding vertonen in de energieprestatiecoëfficiënt
+bij het doorrekenen van de gebouwen zonder dat maatregelen worden genomen.
+Gebouwvorm, oriëntatie en raamafmetingen zijn voor de uitgevoerde studies
+niet gewijzigd, zodat de uitkomsten van de studies aan de conservatieve kant
+zijn.</al>
+      <witreg></witreg>
+      <al>De hiervoor genoemde energiebesparingspercentages zijn berekend aan de
+hand van gebouwgebonden kenmerken bij een genormeerd gebruik van die gebouwen.
+In werkelijkheid is het energiegebruik niet alleen afhankelijk van gebouwgebonden
+kenmerken, maar ook van het gebruikersgedrag, zoals het omgaan met bijvoorbeeld
+gebouwgebonden installaties en open laten staan ramen en deuren. Per gebouw
+zal daarom de werkelijke energiebesparing verschillen. In de gememoreerde
+onderzoeksrapporten is een vergelijking gemaakt tussen het energiegebruik
+van gebouwen die voldoen aan de vigerende regelgeving en het energiegebruik
+van diezelfde gebouwen, maar dan bouwtechnisch aangepast aan het onderhavige
+besluit. Omdat voor beide situaties is uitgegaan van een identiek, genormeerd
+gebruikersgedrag, zoals dat aan NEN 2916 en NEN 5128 ten grondslag
+ligt, zijn genoemde besparingspercentages als reële verwachting te beschouwen.</al>
+      <tuskop letat="cur">6. Adviezen</tuskop>
+      <al>Het onderhavige besluit is voor advies voorgelegd aan de Raad voor de
+Volkshuisvesting (Ravo). Voorts is dit besluit voor commentaar voorgelegd
+aan de Vereniging van Nederlandse Gemeenten (VNG).</al>
+      <witreg></witreg>
+      <al>De Ravo stelde voor om voor woningen en woongebouwen naast de in het vigerende
+Bouwbesluit geldende voorschriften met betrekking tot de energiezuinigheid
+HR-glas en een HR-combiketel (al dan niet met waakvlam) te eisen. Een en ander
+gekoppeld aan het introduceren van een grenswaarde aan de energieprestatiecoëfficiënt
+voor die situaties, waarbij de standaardtoepassingen geen oplossing kunnen
+bieden. Hij bepleitte voor de niet tot bewoning bestemde gebouwen een gelijksoortige
+systematiek. Daarenboven bepleitte de Ravo een goede en uitgebreide voorlichting,
+de benutting van de EPN voor het introduceren van een energie-etiket, een
+afstemming op Europese normalisatie-ontwikkelingen en een evaluatie van het
+innovatieve aspect van de EPN. Deze evaluatie zou al kort na de invoering
+van de EPN moeten plaatsvinden. Daarnaast was de Ravo van mening dat de resultaten
+van de kosten-batenstudies die in het kader van de invoering van het onderhavige
+wijziging van het Bouwbesluit zijn uitgevoerd, onder de aandacht van betrokkenen
+dienen te worden gebracht. Voor woongebouwen dient aldus de Ravo een niet
+knellende grenswaarde te worden vastgesteld. Tot slot wees de Ravo op het
+huurprijsverhogend effect in relatie tot de huurgrenzen. Ook werd nog gewezen
+op andersoortige maatregelen, zoals heffingen en het stellen van eisen aan
+toestellen, welke maatregelen ook effect sorteren voor de bestaande gebouwenvoorraad.</al>
+      <witreg></witreg>
+      <al>De VNG onderschrijft de doelstelling van de invoering van de energieprestatienormering,
+doch was van mening dat invoering beter gelijktijdig met het van kracht worden
+van fase 2 van het Bouwbesluit kan plaatsvinden. Die tweede fase voorziet
+immers in aanvulling van het vigerend Bouwbesluit met prestatie-eisen voor
+een negental te onderscheiden niet tot bewoning bestemde gebouwen. Daarbij
+wordt tevens rekening gehouden met de in artikel 5 van de Woningwet gegeven
+opdracht om het Bouwbesluit in overeenstemming te brengen met bij of krachtens
+andere algemene maatregelen van bestuur gegeven voorschriften. Bovendien worden
+in het kader van die fase de resultaten van de aan de Tweede Kamer der Staten
+Generaal toegezegde evaluatie meegenomen, aldus de VNG.</al>
+      <witreg></witreg>
+      <al>Verder wees de VNG nog op de consequenties van een ophanden zijnde Europese
+norm. Voorts pleitte de VNG voor een uitgebreid en langdurig implementatietraject
+voor de bouwpraktijk, waaronder begrepen de gemeenten die bouwplannen zullen
+moeten beoordelen aan de hand van de energieprestatienormen.</al>
+      <al>Aan het voorstel van de Ravo om voor woningen en woongebouwen een standaardpakket
+aan maatregelen voor te schrijven dat leidt tot het voldoen aan de voorgeschreven
+energieprestatiecoëfficiënt, heb ik geen gevolg gegeven. Een dergelijke
+handelswijze staat haaks op de aan het Bouwbesluit ten grondslag liggende
+gedachte dat de bouwpraktijk meer vrijheid moet hebben. Dit laat evenwel onverlet
+dat het door de Ravo voorgestelde pakket aan maatregelen kan leiden tot het
+voldoen aan de voorgeschreven energieprestatiecoëfficiënt. De ontwerper/opdrachtgever
+heeft aan de hand van de verschillende in de normen neergelegde energiebesparingsopties
+veel meer mogelijkheden om aan de voorgeschreven energieprestatiecoëfficiënt
+te voldoen dan wanneer een standaardpakket wordt voorgeschreven.
+Daar komt nog bij dat, gelet op de grote diversiteit in de niet tot bewoning
+bestemde gebouwen, een standaardpakket niet kan worden gegeven.</al>
+      <witreg></witreg>
+      <al>Wat de aanpassing op de Europese ontwikkelingen betreft, past de opmerking
+dat het Europa zonder grenzen is ingegeven vanuit de doelstelling tot vrij
+handelsverkeer van produkten en diensten en niet zozeer vanuit uniformering
+van bouwvoorschriften in de verschillende Lid-Staten van de Europese Unie.
+Daarbij speelt mede een rol dat de in voorbereiding zijnde Europese norm niet
+als Europese geharmoniseerde norm zal worden aangemerkt en dientengevolge
+implementatie in de wet- en regelgeving niet verplicht is. Daar komt nog bij
+dat de Europese ontwikkelingen er op duiden dat die norm niet zonder meer
+geschikt is voor toepassing in het kader van een aanvraag om bouwvergunning,
+maar veeleer is geschreven vanuit de idee om mede op basis van niet bouwkundige
+kenmerken, zoals het feitelijk gebruik van een gebouw, te komen tot een voorspelling
+van het energiegebruik.</al>
+      <witreg></witreg>
+      <al>Voorts is aangedrongen op een goede voorlichting en opleiding van de gehele
+bouwkolom voordat het onderhavige besluit van kracht wordt. In dit verband
+wordt opgemerkt dat tussen plaatsing van dit besluit in het Staatsblad en
+de feitelijke inwerkingtreding daarvan, aandacht zal worden gegeven aan het
+opleiden van specifieke doelgroepen, zoals de gemeenteambtenaren die zijn
+belast met het toezicht op het bouwen en wonen, de leden van de verschillende
+brancheverenigingen (BNA, ONRI, VNI, UNETO e.d.) en de gebruikers (opdrachtgevers,
+beleggers, uitvoerend bouwbedrijven e.d.) van de normen NEN 5128 en NEN 2916
+en de bijbehorende, door het NNI uitgebrachte Nederlandse praktijkrichtlijnen.</al>
+      <al>Met de voorlichting over de energieprestatienormen, waarnaar het onderhavige
+besluit verwijst, is het Nederlands Normalisatie-instituut, mede op aandringen
+van de Ministeries van Economische Zaken en van Volkshuisvesting, Ruimtelijke
+Ordening en Milieubeheer en de bouwpraktijk, al in het begin van 1995 gestart.
+Verder is voorzien in een opleidingstraject dat, zodra het onderhavige besluit
+in het Staatsblad zal zijn gepubliceerd, van start zal gaan. Voorts zijn nog
+enige hulpmiddelen voor de bouwpraktijk in ontwikkeling, zoals een specifiek
+op de energieprestatie geënte brochure, die zal worden uitgebracht door
+het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+en enkele Novem-publikaties, zoals een handleiding voor de praktijk en een
+variantenboek, waarin enige alternatieve uitvoeringsmogelijkheden met de daaruit
+voortvloeiende energieprestatiecoëfficiënten, zijn beschreven. Ook
+het mede door het Ministerie van Volkshuisvesting, Ruimtelijke ordening en
+Milieubeheer ontwikkelde geautomatiseerde Bouwbesluit Consultatiesysteem (BCS)
+zal aan het onderhavige besluit worden aangepast ten behoeve van de gebruikers
+van dat systeem.</al>
+      <tuskop letat="cur">7. Wetgevingstoets</tuskop>
+      <al>De met dit besluit beoogde wijziging van het Bouwbesluit strekt tot verdergaande
+energiebesparing met behoud van de keuzevrijheid voor de burger ten aanzien
+van in te zetten technische oplossingen teneinde dit doel te bereiken. In
+lijn met de opzet van de voorschriften van het vigerende Bouwbesluit is voorzien
+in een grenswaarde voor de te stellen eis aan de energieprestatiecoëfficiënt.
+Voorts is voorzien in verwijzing naar een tweetal normen voor het bepalen
+of een gebouw aan die grenswaarde voldoet.</al>
+      <witreg></witreg>
+      <al>Het beleid om enerzijds te komen tot verdergaande energiebesparing en
+anderzijds te komen tot deregulering staat in relatie tot dit besluit ogenschijnlijk
+op gespannen voet. Bedacht moet echter worden dat met het in
+het onderhavig besluit omzetten van een aantal functionele eisen uit het Bouwbesluit
+in prestatie-eisen, een verdergaande uniformering ten aanzien van de toepassing
+van de bouwvoorschriften is bereikt. Een dergelijke uniformering is ook te
+beschouwd als deregulering, omdat daarmee voor de burger de veelheid aan regels
+als gevolg van verschil in opvatting tussen de verschillende gemeenten en
+soms binnen een gemeente, wordt weggenomen.</al>
+      <witreg></witreg>
+      <al>Met het introduceren van de energieprestatienormering wordt een nieuw
+element aan de bouwregelgeving toegevoegd. Gelet op de reeds bestaande praktijk
+rondom de handhaving van het Bouwbesluit, de ontwikkelde praktijkrichtlijnen
+en de daarvan deel uitmakende electronische versie van de norm, waarmee toetsing
+aan de hand van de door de aanvrager te overleggen gegevens eenvoudig kan
+plaatsvinden, alsmede het in gang gezette voorlichtings- en kennisoverdrachtstraject,
+mag worden verwacht dat van toename van bestuurlijke lasten hoegenaamd geen
+sprake zal zijn. Wel is vereist dat, wil de controle of conform de bouwvergunning
+is gebouwd effectief zijn, het controlerende apparaat beter op de hoogte is
+van installatietechnische zaken. Dit wordt in het voorlichtings- en kennisoverdrachtstraject
+ondervangen.</al>
+      <witreg></witreg>
+      <al>De met dit besluit nagestreefde doelstelling leidt er toe dat meer energiezuinige
+oplossingen moeten worden toegepast. Dit heeft tot gevolg dat er rond de totstandkoming
+van een bouwprojekt organisatorische veranderingen zullen plaatsvinden. Deze
+veranderingen zullen er toe leiden dat reeds in een vroeg stadium van het
+bouwkundig ontwerp het energiezuinigheidsaspect een rol zal moeten gaan spelen.
+De ontwerpers zullen zich, meer dan in het verleden, moeten verdiepen in energiezuinig
+ontwerpen, hetgeen ook zijn weerslag zal moeten krijgen in de bestemmingsplannen
+en de stedebouwkundige ontwikkelingen. Er zal daarnaast meer sprake moeten
+zijn van geïntegreerd ontwerpen. Dit zal niet zozeer leiden tot het wijzigen
+van de totale kosten gemoeid met ontwerp en advieskosten, als wel tot een
+verschuiving van de advieskosten naar een eerder stadium van het bouwproces.
+In het aanloopstadium kan dit leiden tot een geringe verhoging van de advieskosten,
+maar de verwachting is dat na enige gewenning sprake zal zijn van een marginale
+verhoging.</al>
+      <al>Een secundair gevolg van de introductie van het energieprestatieconcept
+en de daaruit voortvloeiende integratie van ontwerp- en installatietechnieken
+is ook dat er een opwaartse druk van uitgaat op de kwaliteit van het binnenklimaat.
+Was vroeger het bouwkundig kader voor de installatie-adviseur een vast gegeven,
+en moest hij daarbinnen maar tot een optimalisatie zien te komen, binnen de
+geïntegreerde benadering zijn ook veranderingen van het bouwkundig kader
+mogelijk, zodat het optimalisatieproces kan worden verbeterd.</al>
+      <witreg></witreg>
+      <al>De grotere ontwerp-bureaus zullen met de introductie van de energieprestatienormering
+minder moeite hebben dan de kleine ontwerpbureaus. Deze laatste zullen meer
+en meer zijn aangewezen op ondersteuning van ter zake deskundige adviesbureaus.
+Daarnaast zal vanwege de complexiteit van de bepalingsmethoden de computer,
+zo dit al niet het geval is, nog verder zijn intrede doen in de bouwpraktijk.</al>
+      <witreg></witreg>
+      <al>Het invoeren van de energieprestatiecoëfficiënt leidt tot het
+toepassen van betere isolatie van de schil van gebouwen, met name waar het
+gaat om de ramen. Voorts leidt het tot, vanuit energiezuinigheid gezien, betere
+klimaatbeheersingsinstallaties. Dit heeft een verhoogde inspanning van de
+branches tot gevolg, die in die sectoren actief zijn. Daarnaast vormt het
+introduceren van de energieprestatie een stimulans om te komen tot innovatieve
+ontwikkelingen rondom energiebesparing van gebouwen. </al>
+      <witreg></witreg>
+      <al>Met de introductie van de energieprestatiecoëfficiënt nemen
+de bouwkosten toe en daarmee ook de huurkosten. De exploitatiekosten zullen
+echter afnemen. In het geval sprake is van een optimaal ontwerp zullen de
+kosten en baten door de bank genomen in evenwicht zijn. Niet in alle gevallen
+worden de kosten gemaakt door de rechtspersoon die ook de lusten krijgt. De
+huurverhoging en de besparing op de exploitatiekosten zullen elkaar redelijk
+in evenwicht houden. De gevolgen voor de begroting in het kader van de IHS
+worden geschat op ca. 0,9 mln.</al>
+      <tuskop letat="vet">II. Artikelsgewijze toelichting</tuskop>
+      <tuskop letat="cur">Artikel I</tuskop>
+      <tuskop letat="rom">Onderdeel A</tuskop>
+      <tuskop letat="rom">Onderdeel a</tuskop>
+      <al>Een bijeenkomstgebouw kan bijvoorbeeld zijn een congrescentrum, kerk,
+wijkgebouw, bioscoop, theater, tentoonstellingsgebouw en een museum.</al>
+      <tuskop letat="rom">Onderdeel b</tuskop>
+      <al>Een cel kan bijvoorbeeld een gevangenis- of politiecel zijn dan wel een
+kamer of groep van kamers in een tehuis voor dwangmatige verpleging.</al>
+      <tuskop letat="rom">Onderdeel c</tuskop>
+      <al>Een cellengebouw kan bijvoorbeeld zijn een deel van een penitentiaire
+inrichting of het deel van een politiegebouw, waarin verdachten tijdelijk
+worden opgesloten. Hierbij kan eveneens worden gedacht aan situaties waarin
+mensen dwangmatig worden verpleegd.</al>
+      <tuskop letat="rom">Onderdeel d</tuskop>
+      <al>Een complex is bijvoorbeeld een bungalowpark met recreatiewoonverblijven,
+zomerhuisjes of volkstuinhuisjes waarin recreatief nachtverblijf kan plaatshebben.</al>
+      <tuskop letat="rom">Onderdeel e</tuskop>
+      <al>Een gezondheidszorggebouw kan bijvoorbeeld zijn een ziekenhuis, verpleegtehuis,
+verzorgingstehuis of een psychiatrische inrichting, maar ook een artsenpraktijk
+of een medisch centrum.</al>
+      <tuskop letat="rom">Onderdeel f</tuskop>
+      <al>Een horecagebouw kan bijvoorbeeld zijn een restaurant, café of
+een (snack)bar.</al>
+      <tuskop letat="rom">Onderdeel g</tuskop>
+      <al>Een industriegebouw kan bijvoorbeeld zijn een fabriek, werkplaats, pakhuis,
+magazijn, kas of een stal. Onder een industriegebouw moet niet een hondehok
+of een daarmee vergelijkbaar bouwwerk worden verstaan.</al>
+      <tuskop letat="rom">Onderdeel i</tuskop>
+      <al>Een logiesgebouw is bijvoorbeeld een hotel. Ook een voor recreatief verblijf
+bestemd pension en een motel, mits de daarin gelegen kamers niet uitsluitend
+vanaf het aansluitende terrein te bereiken zijn, zijn als logiesgebouw aan
+te merken.</al>
+      <tuskop letat="rom">Onderdeel j</tuskop>
+      <al>Als logiesverblijven zijn onder meer aan te merken zomerhuisjes, bepaalde
+volkstuinhuisjes en kamers in een hotel of motel. In deze verblijven vindt
+recreatief nachtverblijf plaats of wordt tijdelijk onderdak geboden. </al>
+      <tuskop letat="rom">Onderdeel k</tuskop>
+      <al>Een onderwijsgebouw kan bijvoorbeeld zijn een school, universiteit of
+een academie. Een in een school gelegen gymnastieklokaal zal echter veelal
+als sportgebouw moeten zijn aangemerkt.</al>
+      <tuskop letat="rom">Onderdeel l</tuskop>
+      <al>Een sportgebouw kan bijvoorbeeld zijn een zwembad, gymnastieklokaal, sporthal
+of een fitnesscentrum.</al>
+      <tuskop letat="rom">Onderdeel m</tuskop>
+      <al>Een stationsgebouw kan bijvoorbeeld zijn een bus- en treinstation of een
+(lucht-)havengebouw.</al>
+      <tuskop letat="rom">Onderdeel n</tuskop>
+      <al>Een winkelgebouw kan bijvoorbeeld zijn een winkel, warenhuis of reisbureau.</al>
+      <tuskop letat="rom">Onderdeel o</tuskop>
+      <al>Een woongebouw is bijvoorbeeld een gebouw waarin flat- of portiekwoningen
+zijn gelegen. Kenmerkend voor deze woningen is, dat ze zijn te bereiken door
+verkeersruimten die voor gezamenlijk gebruik zijn bestemd. Indien naast woningen
+ook winkels deel uitmaken van een gebouw, behoren die winkels blijkens de
+begripsomschrijving niet tot het woongebouw. Immers, alleen het gedeelte van
+het gebouw waarin zich de woningen bevinden, wordt als woongebouw aangemerkt.</al>
+      <al>Het begrip «woongebouw» was niet opgenomen in de model-bouwverordening.
+Wel kende de model-bouwverordening het begrip «bijzonder woongebouw»,
+waaronder – praktisch gesproken – werd verstaan een woongebouw
+waarin zich wooneenheden bevinden. Het begrip «wooneenheid» is
+in januari 1972 bij de zevende serie wijzigingen in de model-bouwverordening
+ingevoerd ten einde voorschriften te kunnen geven omtrent collectieve huisvesting.
+De voorschriften van de model-bouwverordening gingen er in die tijd nog van
+uit dat een woning ten minste drie kamers moest bevatten. Voor de wooneenheid
+werd dan ook voorgeschreven dat deze niet meer dan twee kamers mocht bevatten,
+waardoor de model-bouwverordening feitelijk gezien aanvullende voorschriften
+gaf voor het bouwen van kleine woningen. Van lieverlede zijn in de model-bouwverordening
+de voorschriften waaraan woningen moeten voldoen zodanig aangepast, dat ook
+kleine woningen, zelfs éénkamer-woningen, zonder meer gebouwd
+kunnen worden. Ook het voorschrift dat een wooneenheid niet meer dan twee
+kamers mocht hebben is in de loop der tijd geschrapt. Dit had tot gevolg dat
+het nogal eens voorkwam dat het materieel gezien geen verschil meer maakte
+of bouwvergunning werd gevraagd voor een (kleine) woning of voor een wooneenheid.
+Het is dan ook niet zinvol geacht in het onderhavige besluit voor een wooneenheid
+andere voorschriften te geven dan voor een (kleine) woning. Bovendien sluiten
+de voorschriften met betrekking tot de wooneenheid niet aan op heden ten dage
+in opkomst zijnde collectieve woonvormen als centraal wonen. Derhalve komt
+het begrip «wooneenheid» in het onderhavige besluit niet voor.
+Het begrip «woongebouw» omvat nu ook het bijzondere woongebouw
+als in de model-bouwverordening bedoeld.</al>
+      <tuskop letat="rom">Onderdeel B</tuskop>
+      <al>Het eerste lid schrijft voor dat de gevel en het dak van een woning of
+woongebouw, wanneer die gevel en dat dak grenzen aan een verblijfsgebied of
+aan een toilet- of badruimte, zodanig moeten zijn geïsoleerd dat warmteverlies
+vanuit dat gebied of die ruimten naar buiten zoveel mogelijk wordt beperkt. </al>
+      <witreg></witreg>
+      <al>Ramen en deuren kunnen, ook als daarin meervoudig glas is toegepast, niet
+aan de in het eerste lid gestelde eisen voldoen. Dit geldt bijvoorbeeld evenzo
+voor in kozijnen opgenomen borstweringen. Met het oog daarop mag op grond
+van het tweede lid voor ramen, deuren, kozijnen en daarmee gelijk te stellen
+constructie-onderdelen met een lagere isolatiewaarde worden volstaan. Praktisch
+gezien betekent dit dat ramen en deuren kunnen worden toegepast mits die zijn
+voorzien van thermisch isolerend dubbelglas. Ook zijn deuren toegestaan met
+een ruit van beperkte afmetingen, uitgevoerd in enkelglas, zoals sierglas.
+Evenzo kunnen op basis van dit lid borstweringen worden gerealiseerd binnen
+de gangbare afmetingen van kozijnstijlen, hoewel daarmee de warmteweerstand
+van 2,5 m<sup>2</sup>×K/W niet wordt gehaald zoals beoogd met het eerste
+lid.</al>
+      <witreg></witreg>
+      <al>Om redenen van energiezuinigheid is in onderdeel a van het derde lid aan
+de isolatie van de begane-grondvloer van een woning of woongebouw dezelfde
+eis gesteld als aan de gevels en het dak.</al>
+      <al>Op grond van onderdeel b van het derde lid moet de inwendige scheidingsconstructie
+tussen bijvoorbeeld een verblijfsgebied en een serre, buitenberging, garage
+of gemeenschappelijke besloten verkeersruimte, eveneens voldoen aan de isolatie-eisen
+die gelden voor de gevels en het dak. Daarbij mag, gelet op de begripsomschrijving
+van «inwendige scheidingsconstructie», rekening worden gehouden
+met de positieve effecten van de aangrenzende besloten ruimte. In geval een
+woning of woongebouw grenst aan een ander gebouw dat wordt verwarmd en uit
+dien hoofde is geïsoleerd behoeft op grond van onderdeel b de scheiding
+tussen de woning en dat gebouw niet te worden geïsoleerd.</al>
+      <witreg></witreg>
+      <al>Om te voorkomen dat bijvoorbeeld een brievenbus of ventilatie-openingen
+niet kunnen worden aangebracht, bepaalt het vierde lid dat een klein gedeelte
+van de uitwendige scheidingsconstructie in het geheel niet behoeft te zijn
+geïsoleerd.</al>
+      <tuskop letat="rom">Onderdeel C</tuskop>
+      <al>De omhullende constructies tezamen mogen een niet te grote mate van luchtdoorlatendheid
+hebben omdat anders bij sterke wind er een te grote luchtstroming als gevolg
+van infiltratie ontstaat waardoor vanuit een verwarmde ruimte een onaanvaardbare
+mate van warmteverlies optreedt. De in het Bouwbesluit gegeven eis zou kunnen
+worden gelezen als dat voor elke in de afzonderlijke leden genoemde scheidingsconstructies
+een grenswaarde geldt van ten hoogste 0,2 m<sup>3</sup>/s en daarmee voor
+de woning een grenswaarde van ten hoogste 0,4 m<sup>3</sup>/s. Dit is niet
+de bedoeling. In de nieuwe redactie is een dergelijke interpretatie niet meer
+mogelijk. Voor de totale schil geldt een grenswaarde van ten hoogste 0,2 m<sup>3</sup>/s per 500 m<sup>3</sup> netto-inhoud van een woning.</al>
+      <tuskop letat="rom">Onderdeel D</tuskop>
+      <al>Ter uitvoering van de notitie Duurzaam Bouwen die in het kader van het
+Nationaal Milieubeleidsplan is opgesteld (Kamerstukken II 1989/90, 21 137,
+nr. 23, het NMP2 (Kamerstukken 1993–1994, 23 560, nrs. 1–2)
+en de Vervolgnota Energiebesparing (Kamerstukken 1993–1994, 23 561,
+nrs. 1–2) voorziet dit artikel in verdergaande eisen ter beperking van
+het gebruik van energie. Het verder terugdringen van het energiegebruik door
+het geven van bouwtechnische eisen draagt bij aan een geringe belasting van
+het milieu.</al>
+      <al>Het energiegebruik ten gevolge van zowel transmissie en ventilatie als
+ten gevolge van gebouwgebonden installaties, welke installaties relatie hebben
+met het handhaven van een gezond binnenklimaat, zoals ventilatoren
+ten behoeve van ventilatie, de verlichting, koel- en bevochtigingsinstallaties
+en verwarmingsinstallaties en ten gevolge van warmtapwaterverbruik mag niet
+te groot zijn. In dit voorschrift is een grenswaarde gegeven voor de energieprestatiecoëfficiënt,
+zoals beschreven in het algemeen deel van de toelichting. De energieprestatiecoëfficiënt
+is een grootheid waarin de energiewinst door benutting van opvallende zonnestraling
+en het energiegebruik ten gevolge van zowel transmissie en ventilatie als
+ten gevolge van gebouwgebonden installaties, welke installaties relatie hebben
+met het handhaven van een gezond binnenklimaat, zoals ventilatoren ten behoeve
+van ventilatie, de verlichting, koel- en bevochtigingsinstallaties en verwarmingsinstallaties
+en ten gevolge van warmtapwaterverbruik zijn tezamengebracht. Het geven van
+voorschriften in termen van een gemaximeerde energieprestatiecoëfficiënt
+leidt tot het geïntegreerd ontwerpen van het bouwkundig casco en de gebouwgebonden
+installaties en zal leiden tot een in zijn totaliteit energiezuinig woningbouwconcept.</al>
+      <tuskop letat="rom">Onderdeel F</tuskop>
+      <al>De wijziging van artikel 150 hangt samen met de publikatie van NEN 5128.
+Deze norm bevat, naast de bepalingsmethode voor de energieprestatie van een
+niet in een woongebouw gelegen woning en van een woongebouw, ook de bepalingsmethode
+voor de warmtedoorgangscoëfficiënt van een raam, deur of kozijn,
+welke bepalingsmethode in de plaats is gekomen van de methode die is neergelegd
+in NEN 1068.</al>
+      <tuskop letat="rom">Onderdeel G</tuskop>
+      <al>Het zesde lid beoogt de door de mens veroorzaakte kooldioxydeconcentratie
+in een verblijfsgebied op een aanvaardbaar peil te houden en geurstoffen uit
+dat gebied in voldoende mate af te voeren. De voorschriften zijn toegesneden
+op het specifieke gebruik dat op grond van constructie en inrichting van de
+onderscheiden gebouwen is te verwachten. Voor zover gebouwen in de praktijk
+op verschillende manieren kunnen worden gebruikt zijn klassen onderscheiden
+naar het gemiddeld aanwezige aantal personen per m<sup>2</sup> gebruiks- of
+vloeroppervlakte. Het is de bedoeling dat een aanvrager om bouwvergunning
+bij zijn aanvraag kenbaar maakt voor welke klasse hij het gebouw geschikt
+wil doen zijn. De bouwkundige situatie zal dan ook moeten zijn toegesneden
+op dat beoogde gebruik.</al>
+      <al>Het aantal personen moet, blijkens dit lid, zijn uitgedrukt in een klasse
+als bedoeld in tabel Vb. Indien van een klasse is uitgegaan, betekent dit
+dat in de praktijk een dergelijk verblijfsgebied of verblijfsruimte door niet
+meer dan het bij die klasse behorend aantal personen mag worden gebruikt.
+Dit vloeit voort uit het aan dit voorschrift gerelateerde gebruiksvoorschrift,
+zoals neergelegd in het Arbeidsomstandighedenbesluit of de gemeentelijke bouwverordening.
+Dit betekent voorts dat, wanneer meer personen gebruik moeten kunnen maken
+van een verblijfsgebied of verblijfsruimte, zal moeten zijn uitgegaan van
+een andere, in tabel Vb genoemde, klasse.</al>
+      <witreg></witreg>
+      <al>In het zevende lid is bepaald dat de toevoer van verse lucht naar een
+verblijfsgebied van een in dit lid aangeduid gebouw rechtstreeks van buiten
+moet plaatsvinden. Hieraan ligt ten grondslag dat de aan te voeren verse lucht
+van voldoende kwaliteit moet zijn, hetgeen van recirculatielucht niet kan
+worden gezegd.</al>
+      <witreg></witreg>
+      <al>In het achtste lid is een voorschrift gegeven voor het geval het verblijfsgebied
+is ingedeeld in onder meer verblijfsruimten. Het onderhavige voorschrift gaat
+ervan uit dat als gevolg van de in het eerste lid gestelde eis
+een verblijfsgebied reeds in voldoende mate is geventileerd. Wanneer een verblijfsgebied
+is ingedeeld in meer danéén verblijfsruimte, zal de in het onderhavige
+lid gestelde eis slechts in uitzonderlijke gevallen leiden tot aanvullende
+voorzieningen ten opzichte van hetgeen in het zesde lid is geëist.</al>
+      <tuskop letat="rom">Onderdeel H</tuskop>
+      <al>Bij de ingevolge dit besluit voorgeschreven opstelplaats voor een stooktoestel
+moet op grond van dit artikel in elk geval, wat de capaciteit van de voorziening
+betreft, in het geval van een op gas gestookt toestel, rekening zijn gehouden
+met de in dit artikel aangegeven belasting.</al>
+      <tuskop letat="rom">Onderdeel I</tuskop>
+      <al>Dit artikel bepaalt de minimum omvang van de warmwaterinstallatie. De
+voorziening voor warm water moet in elk geval aansluitpunten hebben ter plaatse
+van de opstelplaats voor een warmwatertoestel en ter plaatse van een douche
+of bad.</al>
+      <tuskop letat="rom">Onderdeel J</tuskop>
+      <al>Het tweede lid geeft aan welke gebouwen over één of meer
+badruimten moeten beschikken.</al>
+      <witreg></witreg>
+      <al>In het derde lid is aangegeven welke gebouwen niet over een badruimte
+behoeven te beschikken.</al>
+      <tuskop letat="rom">Onderdeel K</tuskop>
+      <al>Op grond van het zesde lid moet elk in dit lid aangeduid gebouw een opstelplaats
+voor een stooktoestel hebben. Te denken valt aan een cv-installatie. Een opstelplaats
+is, wanneer dat gebouw door middel van stadsverwarming kan worden verwarmd,
+niet vereist.</al>
+      <al>De opstelplaats voor een stooktoestel behoeft niet in het daarop aangewezen
+gebouw zelf te zijn gesitueerd, maar mag zich ook bevinden in een ander gebouw
+dat tot het hoofdgebouw behoort.</al>
+      <witreg></witreg>
+      <al>Op grond van het zevende lid is een opstelplaats voor een stooktoestel
+voor een industriegebouw, een stationsgebouw en voor gebouwen waarin mensen
+niet of slechts kortstondig verblijven, niet vereist.</al>
+      <tuskop letat="rom">Onderdeel L</tuskop>
+      <al>Het vierde lid bepaalt dat:</al>
+      <al>a. een cellengebouw dat is bestemd voor het verblijf van gedetineerden
+die langdurig in een cel moeten kunnen verblijven;</al>
+      <al>b. een gedeelte van een gezondheidszorggebouw waar bedgebonden patiënten
+verblijven, zoals een verpleegafdeling,</al>
+      <al>c. een onderwijsgebouw bestemd voor bouwkundig onderwijs, en</al>
+      <al>d. een sportgebouw dat bestemd is voor de zwemsport of dat behoort tot
+een onderwijsgebouw,</al>
+      <al>moet zijn voorzien van een warmwaterinstallatie. Reden hiervoor is dat
+in een dergelijk gebouw of gedeelte daarvan door mensen wordt overnacht en
+het kunnen nemen van een warm bad of warme douche in die situatie mogelijk
+moet zijn. In een sportgebouw dat is bestemd voor de zwemsport moet uit het
+oogpunt van gezondheid voor en na het zwemmen kunnen worden gedouched. De
+warmwaterinstallatie moet voldoen aan de eisen, bedoeld in artikel 209. </al>
+      <witreg></witreg>
+      <al>Op grond van het zevende lid is bepaald dat een in dat lid bedoeld gebouw
+of gedeelte daarvan niet over een opstelplaats voor een warmwatertoestel behoeft
+te beschikken.</al>
+      <tuskop letat="rom">Onderdeel M</tuskop>
+      <al>Het eerste lid schrijft voor dat de gevel en het dak van een gebouw, dat
+wordt verwarmd, wanneer die gevel en dat dak grenzen aan een verblijfsgebied
+of aan een toilet- of badruimte, zodanig moeten zijn geïsoleerd dat warmteverlies
+vanuit dat gebied of die ruimten naar buiten zoveel mogelijk wordt beperkt.</al>
+      <witreg></witreg>
+      <al>Ramen en deuren kunnen, ook als daarin meervoudig glas is toegepast, niet
+aan de in het eerste lid gestelde eisen voldoen. Dit geldt bijvoorbeeld evenzo
+voor in kozijnen opgenomen borstweringen. Met het oog daarop mag op grond
+van het tweede lid voor ramen, deuren, kozijnen en daarmee gelijk te stellen
+constructie-onderdelen met een lagere isolatiewaarde worden volstaan. Praktisch
+gezien betekent dit dat ramen en deuren kunnen worden toegepast mits die zijn
+voorzien van thermisch isolerend dubbelglas. Ook zijn deuren toegestaan met
+een ruit van beperkte afmetingen, uitgevoerd in enkelglas, zoals sierglas.
+Evenzo kunnen op basis van dit lid borstweringen worden gerealiseerd binnen
+de gangbare afmetingen van kozijnstijlen hoewel daarmee een warmteweerstand
+van 2,5 m<sup>2</sup>×K/W niet wordt gehaald zoals beoogd met het eerste
+lid.</al>
+      <witreg></witreg>
+      <al>Om redenen van energiezuinigheid is in onderdeel a van het derde lid aan
+de isolatie van de begane-grondvloer van een niet tot bewoning bestemd gebouw
+dezelfde eis gesteld als aan de gevels en het dak.</al>
+      <al>Op grond van onderdeel b van het derde lid moet de inwendige scheidingsconstructie
+tussen bijvoorbeeld een verblijfsgebied en een serre, buitenberging, garage
+of gemeenschappelijke besloten verkeersruimte, eveneens voldoen aan de isolatie-eisen
+die gelden voor de gevels en het dak. Daarbij mag, gelet op de begripsomschrijving
+van «inwendige scheidingsconstructie», rekening worden gehouden
+met de positieve effecten van de aangrenzende besloten ruimte.</al>
+      <witreg></witreg>
+      <al>Om te voorkomen dat bijvoorbeeld een brievenbus of ventilatie-openingen
+niet kunnen worden aangebracht, bepaald het vierde lid dat een klein gedeelte
+van de uitwendige scheidingsconstructie in het geheel niet behoeft te zijn
+geïsoleerd.</al>
+      <tuskop letat="rom">Onderdeel N</tuskop>
+      <al>De omhullende constructies tezamen van een gebouw dat wordt verwarmd mogen
+een niet te grote mate van luchtdoorlatendheid hebben omdat anders bij sterke
+wind er een te grote luchtstroming als gevolg van infiltratie ontstaat waardoor
+vanuit een verwarmde ruimte een onaanvaardbare mate van warmteverlies optreedt.
+De in het Bouwbesluit gegeven eis zou kunnen worden gelezen als dat voor elke
+in de afzonderlijke leden genoemde scheidingsconstructies een grenswaarde
+geldt van ten hoogste 0,2 m<sup>3</sup>/s en daarmee voor de woning een grenswaarde
+van ten hoogste 0,4 m<sup>3</sup>/s. Dit is niet de bedoeling. In de nieuwe
+redactie is een dergelijke interpretatie niet meer mogelijk. Voor de totale
+schil of als een gebouw groter is dan 500 m<sup>3</sup> netto-inhoud delen
+van dat gebouw, geldt een grenswaarde van ten hoogste 0,2 m<sup>3</sup>/s. </al>
+      <tuskop letat="rom">Onderdeel O</tuskop>
+      <al>Ter uitvoering van de notitie Duurzaam Bouwen die in het kader van het
+Nationaal Milieubeleidsplan is opgesteld (Kamerstukken II 1989/90, 21 137,
+nr. 23, het NMP2 (Kamerstukken 1993–1994, 23 560, nrs. 1–2)
+en de Vervolgnota Energiebesparing (Kamerstukken 1993–1994, 23 561,
+nrs. 1–2) voorziet het eerste lid van dit artikel in verdergaande eisen
+ter beperking van het gebruik van energie. Het verder terugdringen van het
+energiegebruik door het geven van bouwtechnische eisen draagt bij aan een
+geringere belasting van het milieu.</al>
+      <al>Het energiegebruik ten gevolge van zowel transmissie en ventilatie als
+ten gevolge van gebouwgebonden installaties, welke installaties relatie hebben
+met het handhaven van een gezond binnenklimaat, zoals ventilatoren ten behoeve
+van ventilatie, de verlichting, koel- en bevochtigingsinstallaties en verwarmingsinstallaties
+en ten gevolge van warmtapwaterverbruik mag niet te groot zijn. In dit voorschrift
+is een grenswaarde gegeven voor de energieprestatiecoëfficiënt,
+zoals beschreven in het algemeen deel van de toelichting. De energieprestatiecoëfficiënt
+is een grootheid waarin de energiewinst door benutting van opvallende zonnestraling
+en het energiegebruik ten gevolge van zowel transmissie en ventilatie als
+ten gevolge van gebouwgebonden installaties, welke installaties relatie hebben
+met het handhaven van een gezond binnenklimaat, zoals ventilatoren ten behoeve
+van ventilatie, de verlichting, koel- en bevochtigingsinstallaties en verwarmingsinstallaties
+en ten gevolge van warmtapwaterverbruik zijn tezamengebracht. Het geven van
+voorschriften in termen van een gemaximeerde energieprestatiecoëfficiënt
+leidt tot het geïntegreerd ontwerpen van het bouwkundig casco en de gebouwgebonden
+installaties en zal leiden tot een in zijn totaliteit energiezuinig gebouwconcept.</al>
+      <witreg></witreg>
+      <al>In het tweede lid zijn de in NEN 2916 geduide factoren gekwantificeerd
+waarmee de mate van energiezuinigheid van een om redenen van een gezond binnenklimaat
+gekoeld of zwaar geventileerd gebouw, wordt gereduceerd ten opzichte van gebouwen
+zonder die koeling of extra ventilatie. Daardoor kunnen dergelijke gebouwen
+nog reëel worden gebouwd, terwijl ze toch een bijdrage leveren aan de
+beoogde energiebesparing. De factor waarmee compensatie voor toelaatbaar energiegebruik
+voor ventilatie kan worden gerealiseerd, is met name noodzakelijk om er voor
+te zorgen dat de energieprestatiecoëfficiënt van identieke gebouwfuncties,
+waarvan de klasse van de bezettingsgraad, bedoeld in tabel Vb, verschilt,
+leidt tot min of meer vergelijkbare consequenties.</al>
+      <witreg></witreg>
+      <al>In het derde lid is voor bepaalde gebouwen of gedeelten daarvan, de grenswaarde
+gegeven voor de energieprestatiecoëfficiënt.</al>
+      <al>Voor een winkelgebouw wijkt de grenswaarde voor de energieprestatiecoëfficiënt
+af van de waarde die in de kosten-baten studie is genoemd, welke studie is
+vermeld in het algemeen deel van deze toelichting. De reden hiervoor is dat
+in die studie is uitgegaan van een energiegebruik voor verlichting aan de
+hand van het werkelijk geïnstalleerd vermogen, gekoppeld aan een energiezuinige
+verlichtingsinstallatie. In het stadium van een bouwaanvraag zal echter veelal
+worden uitgegaan van de in de NEN 2916 opgenomen bepalingsmethode, gekoppeld
+aan forfaitaire waarden voor de verlichtingsinstallatie. Zou van de geadviseerde
+waarde zijn uitgegaan, dan rest de aanvrager van een bouwvergunning voor een
+winkelgebouw geen andere keuze dan reeds in het stadium van een bouwaanvraag
+de keuze te maken voor een energiezuinige verlichtingsinstallatie. Immers,
+op grond van NEN 2916 vervult het energiegebruik van een verlichtingsinstallatie
+een dominante rol. In praktische zin zal een aanvrager van een bouwvergunning
+moeten uitgaan van de forfaitaire waarde, omdat de keuze voor het soort verlichtingsinstallatie
+sterk wordt beïnvloed door inrichting van het winkelgebouw.
+Die inrichting zal veelal eerst kort voor de ingebruikname van het winkelgebouw
+bekend zijn.</al>
+      <al>Gelet op de consequenties van de in NEN 2916 neergelegde bepalingsmethode,
+is geaccepteerd dat in het geval de aanvrager kiest voor een energiezuinige
+verlichtingsinstallatie het gebouw veelal zonder verdere bijzondere maatregelen
+aan de grenswaarde zal voldoen.</al>
+      <witreg></witreg>
+      <al>De minimum grenswaarden verschillen per gebouwfunctie. De bouwkundige
+betekenis van deze verschillende grenswaarden is echter gelijk. De differentiatie
+van de grenswaarden vloeit voort uit het feit dat in NEN 2916 bij de bepaling
+van de karakteristieke energieprestatie naar gebouwfunctie onderscheiden kengetallen
+worden gebruikt. Deze kengetallen zijn afgestemd op een modaal gebruik van
+de onderscheiden gebouwfuncties, dat zo nauwkeurig mogelijk aansluit bij het
+feitelijk gebruik van die gebouwfuncties. Voor deze benadering is gekozen
+om te voorkomen dat bij het inzetten van energiebesparingsopties weliswaar
+aan de grenswaarde wordt voldaan, maar in de praktijk de gekozen bouwkundige
+oplossing niet leidt tot energiebesparing. In de normbladen worden onder meer
+de volgende kengetallen onderscheiden:</al>
+      <al>a. de binnentemperatuur;</al>
+      <al>b. de fractie van de tijd dat een gebouw wordt geventileerd;</al>
+      <al>c. de interne warmteproduktie ten gevolge van verlichting, gebruiksapparatuur
+en van gebruikers van het gebouw;</al>
+      <al>d. de factoren waarin tot uitdrukking wordt gebracht welk deel van de
+zonne-energie als warmtewinst in rekening mag worden gebracht;</al>
+      <al>e. het specifiek energiegebruik voor verlichting bij toepassing van de
+forfaitaire rekenmethode;</al>
+      <al>f. de maximale brandduur van de verlichtingsinstallatie;</al>
+      <al>g. het aantal uren dat een eventueel aanwezige koelinstallatie in bedrijf
+kan zijn;</al>
+      <al>h. de benuttingsfactor voor de koelinstallatie;</al>
+      <al>i. het aantal gram-uren vocht dat eventueel per jaar moet worden toegevoerd,
+en</al>
+      <al>j. de jaarlijks netto-warmtapwatergebruik per m<sup>2</sup> vloeroppervlakte.</al>
+      <al>Voorts wordt de differentiatie van de grenswaarden beïnvloed door
+de in het Bouwbesluit gegeven minimum ventilatiecapaciteit voor de verschillende
+gebouwfuncties.</al>
+      <witreg></witreg>
+      <al>In het vierde lid is aangegeven dat voor gebouwen die in de regel niet
+of maar zeer spaarzaam worden verwarmd geen eis ten aanzien van de energieprestatiecoëfficiënt
+geldt.</al>
+      <tuskop letat="rom">Onderdeel Q</tuskop>
+      <al>De verandering van artikel 244 hangt samen met de invulling van artikel
+201, zesde en achtste lid, als beschreven in onderdeel G. Voor een kantoorgebouw
+is uitgegaan van klasse B3, voor zover het om de bezettingsgraad gaat.</al>
+      <tuskop letat="rom">Onderdeel R</tuskop>
+      <al>In artikel 251a is aangegeven dat voor een kantoorgebouw de gemeente geen
+beleidsruimte heeft om een opstelplaats voor een warmwatertoestel voor te
+schrijven.</al>
+      <witreg></witreg>
+      <al>In artikel 251b is voor een kantoorgebouw de grenswaarde gegeven voor
+de energieprestatiecoëfficiënt. </al>
+      <tuskop letat="rom">Onderdeel S</tuskop>
+      <al>De verandering van artikel 271 hangt samen met de invulling van artikel
+201, zesde en achtste lid, als beschreven in onderdeel G. Voor een logiesverblijf
+en logiesgebouw is uitgegaan van klasse B4, voor zover het om de bezettingsgraad
+gaat.</al>
+      <tuskop letat="rom">Onderdeel T</tuskop>
+      <al>In dit artikel is aangegeven dat voor een niet in een logiesgebouw gelegen
+logiesverblijf de gemeente geen beleidsruimte heeft om een opstelplaats voor
+een stooktoestel voor te schrijven.</al>
+      <tuskop letat="rom">Onderdeel U</tuskop>
+      <al>In het tweede lid is aangegeven dat voor een niet in een logiesgebouw
+gelegen logiesverblijf de gemeente geen beleidsruimte heeft om een opstelplaats
+voor een warmwatertoestel voor te schrijven.</al>
+      <tuskop letat="rom">Onderdeel V</tuskop>
+      <al>In het eerste lid is voor een logiesgebouw de grenswaarde gegeven voor
+de energieprestatiecoëfficiënt.</al>
+      <witreg></witreg>
+      <al>In het tweede lid is de grenswaarde voor een niet in een logiesverblijf
+gelegen logiesverblijf gegeven. Deze eis geldt slechts voor zover zo'n verblijf
+wordt verwarmd. Omdat de NEN 2916 niet toepasbaar is op dergelijke verblijven
+is voorts bepaald dat de energieprestatiecoëfficiënt moet worden
+bepaald overeenkomstig de norm die voor woningen geldt.</al>
+      <tuskop letat="rom">Onderdeel W</tuskop>
+      <al>In onderdeel d is bepaald dat slechts in het geval er sprake is van een
+verbouwing waarbij niet de gehele woning of het woongebouw wordt gerenoveerd,
+de gemeente beleidsruimte heeft om voor de warmteweerstand van de «schil»
+een minder verstrekkende eis te stellen dan voor de nieuwbouw geldt.</al>
+      <witreg></witreg>
+      <al>In het vijfde lid is bepaald dat de gemeente bij het geheel vernieuwen
+van een woning of woongebouw geen vrijstelling kan verlenen van de voorschriften
+met betrekking tot de warmteweerstand, luchtdoorlatendheid en energieprestatiecoëfficiënt,
+zoals die voor nieuwbouw gelden.</al>
+      <tuskop letat="rom">Onderdeel X</tuskop>
+      <al>In het vijfde lid is bepaald dat voor het verplaatsen van een woonwagen
+ten minste de in hoofdstuk V gegeven voorschriften voor bestaande woonwagens
+in acht zijn genomen.</al>
+      <tuskop letat="rom">Onderdeel Y</tuskop>
+      <al>In onderdeel d is bepaald dat slechts in het geval er sprake is van een
+verbouwing waarbij niet het gebouw dat wordt verwarmd geheel wordt gerenoveerd,
+de gemeente beleidsvrijheid heeft om voor de warmteweerstand van de «schil»
+een minder verstrekkende eis te stellen dan voor de nieuwbouw geldt.</al>
+      <witreg></witreg>
+      <al>In het vijfde lid is bepaald dat de gemeente bij het geheel vernieuwen
+van een gebouw dat wordt verwarmd, geen vrijstelling kan verlenen van de voorschriften met betrekking tot de warmteweerstand, luchtdoorlatendheid
+en energieprestatiecoëfficiënt, zoals die voor nieuwbouw gelden.</al>
+      <tuskop letat="rom">Onderdeel Z</tuskop>
+      <al>In het vijfde lid is bepaald dat de gemeente bij het geheel vernieuwen
+van een kantoorgebouw geen vrijstelling kan verlenen van de voorschriften
+met betrekking tot de energieprestatiecoëfficiënt, zoals die voor
+nieuwbouw geldt.</al>
+      <tuskop letat="rom">Onderdeel AA</tuskop>
+      <al>In het vijfde lid is bepaald dat de gemeente bij het geheel vernieuwen
+van een logiesgebouw of een logiesverblijf dat wordt verwarmd, geen vrijstelling
+kan verlenen van de voorschriften met betrekking tot de energieprestatiecoëfficiënt,
+zoals die voor nieuwbouw gelden.</al>
+      <tuskop letat="cur">Onderdeel AB</tuskop>
+      <al>In het tweede lid is aangegeven welk voorschrift geldt in relatie tot
+de in de artikelen 71a, 228a, 251a en 288a gegeven eisen met betrekking tot
+de energieprestatiecoëfficiënt bij een gecombineerd gebouw. Daarbij
+moet de verhouding tussen het met NEN 2916 berekende karakteristieke energiegebruik
+en de volgens die norm toelaatbare karakteristieke energieprestatie kleiner
+zijn dan één. Bij deze toelaatbare karakteristieke energieprestatie
+is een relatie gelegd met het produkt van de gebruiksoppervlakte van de verwarmde
+gedeelten van een gebouw, de bij dat gedeelte behorende energieprestatiecoëfficiënt,
+een referentie-energiegebruik per m<sup>2</sup> vloeroppervlakte en een factor
+voor de gedeeltelijke compensatie van koelenergiegebruik en het niet compact
+bouwen. Voorts is bij het toelaatbaar karakteristiek energiegebruik rekening
+gehouden met het produkt van de op grond van artikel 201, vijfde lid, minimaal
+noodzakelijke luchtvolumestroom, het percentage van de tijd dat die ventilatie
+praktisch gesproken wordt gerealiseerd, de gebruiksoppervlakte van de in NEN
+2916 bedoelde deelenergiesector ten dienste waarvan die ventilatie functioneert
+en een weegfactor. De twee eerder genoemde weegfactoren zijn noodzakelijk
+om het mogelijk te maken dat thans gangbare bouwwijzen, zij het met een redelijke
+besparing van energie, nog kunnen worden gerealiseerd binnen financieel haalbare
+mogelijkheden.</al>
+      <tuskop letat="rom">Onderdeel AC</tuskop>
+      <al>In het nieuwe eerste lid is bepaald aan welke voorschriften moet zijn
+voldaan bij het bouwen van een woonkeet. De aanvrager mag in beginsel zelf
+het niveau bepalen, zij het dat:</al>
+      <al>– het niveau dat in het Bouwbesluit is gegeven voor bestaande woningen
+en woongebouwen niet mag worden onderschreden;</al>
+      <al>– voor bepaalde in dit lid aangeduide voorschriften het nieuwbouwniveau
+dat voor woningen en woongebouwen geldt ten minste moet worden gerealiseerd,
+en</al>
+      <al>– voor bepaalde in dit lid aangeduide voorschriften het specifieke
+vrijstellingsniveau dat voor woningen en woongebouwen in artikel 406 is neergelegd
+niet mag worden onderschreden.</al>
+      <al>Daarbij kan de aanvrager zelf rekening houden met de beoogde duur van
+instandhouding van de woonkeet. Deze regeling geldt ook indien het gaat om
+een verbouwing van een woonkeet. Immers, verbouwen valt onder het in artikel
+1 van de Woningwet omschreven begrip «bouwen». </al>
+      <witreg></witreg>
+      <al>In het nieuwe derde lid is bepaald aan welke voorschriften moet zijn voldaan
+bij het gedeeltelijk veranderen, vernieuwen of het vergroten van een woonkeet.
+Van die voorschriften kunnen burgemeester en wethouders vrijstelling verlenen
+tot het niveau dat geldt voor bestaande woonketen.</al>
+      <witreg></witreg>
+      <al>In het nieuwe vierde lid is bepaald aan welke voorschriften moet zijn
+voldaan bij het verplaatsen van een woonkeet. Voor die situatie gelden de
+voorschriften voor bestaande woonketen.</al>
+      <tuskop letat="rom">Onderdeel AD</tuskop>
+      <al>In artikel 414a, eerste lid, is bepaald aan welke voorschriften moet zijn
+voldaan bij het bouwen van een niet-permanent niet tot bewoning bestemd gebouw.
+De aanvrager mag in beginsel zelf het niveau bepalen, zij het dat:</al>
+      <al>– het niveau dat in het Bouwbesluit is gegeven voor bestaande niet
+tot bewoning bestemde gebouwen niet mag worden onderschreden;</al>
+      <al>– voor bepaalde in dit lid aangeduide voorschriften het nieuwbouwniveau
+dat voor niet tot bewoning bestemde gebouwen geldt ten minste moet worden
+gerealiseerd, en</al>
+      <al>– voor bepaalde in dit lid aangeduide voorschriften het specifieke
+vrijstellingsniveau dat voor niet tot bewoning bestemde gebouwen in artikel
+408 is neergelegd niet mag worden onderschreden.</al>
+      <al>Daarbij kan de aanvrager zelf rekening houden met de beoogde duur van
+instandhouding van het niet-permanente niet tot bewoning bestemd gebouw.</al>
+      <al>In tegenstelling tot artikel 414 met betrekking tot een woonkeet, is in
+dit artikel voor de bepaalde brandveiligheidsonderwerpen niet terugverwezen
+naar de voorschriften van hoofdstuk VI. Daaruit mag niet zonder meer worden
+afgeleid dat kan worden volstaan met een niveau dat gelijk is aan die van
+de bestaande bouw. Echter, omdat de voorschriften van hoofdstuk VIII evenals
+die van hoofdstuk VI functioneel en gelijkluidend zijn gesteld, is terugverwijzen
+niet zinvol. Bij toepassing van die brandveiligheidsvoorschriften voor een
+niet-permanent niet tot bewoning bestemd gebouw zal in de regel aan het functionele
+voorschrift zijn voldaan, indien toepassing is gegeven aan het gestelde in
+de toelichting bij de overeenkomstige artikelen van hoofdstuk VI. Wat de weerstand
+tegen branddoorslag en brandoverslag betreft, kan veelal zijn volstaan met
+een waarde van 30 minuten.</al>
+      <al>De in dit lid gegeven regeling geldt ook voor het geheel vernieuwen of
+veranderen van een niet-permanent niet tot bewoning bestemd gebouw. Immers,
+ook het geheel vernieuwen of veranderen valt onder het in artikel 1, eerste
+lid, onderdeel a, van de Woningwet omschreven begrip «bouwen».
+Voor het gedeeltelijk vernieuwen, veranderen of het vergroten is in het derde
+lid een afzonderlijke regeling getroffen.</al>
+      <witreg></witreg>
+      <al>Het tweede lid van artikel 414a geeft aan dat een bestaand niet-permanent
+niet tot bewoning bestemd gebouw in elk geval moet voldoen aan de voorschriften
+voor bestaande niet-permanent niet tot bewoning bestemde gebouwen.</al>
+      <witreg></witreg>
+      <al>In het derde lid van artikel 414a is bepaald aan welke voorschriften in
+het algemeen moet zijn voldaan bij het gedeeltelijk veranderen, vernieuwen
+of het vergroten van een niet-permanent niet tot bewoning bestemd gebouw.
+Van die in het eerste lid genoemde voorschriften, die het niveau van voor
+bestaande niet tot bewoning bestemde gebouwen geldende voorschriften te boven
+gaan, kunnen burgemeester en wethouders vrijstelling verlenen tot het niveau
+dat in het algemeen geldt voor bestaande niet tot bewoning bestemde gebouwen. </al>
+      <witreg></witreg>
+      <al>In het vierde lid van artikel 414a is bepaald aan welke voorschriften
+moet zijn voldaan bij het verplaatsen van een niet-permanent niet tot bewoning
+bestemd gebouw. Voor die situatie gelden de voorschriften voor bestaande niet
+tot bewoning bestemde gebouwen in het algemeen.</al>
+      <witreg></witreg>
+      <al>In artikel 414b, eerste lid, is bepaald aan welke voorschriften moet zijn
+voldaan bij het bouwen van een niet-permanent kantoorgebouw. De aanvrager
+mag in beginsel zelf het niveau bepalen, zij het dat:</al>
+      <al>– het niveau dat in het Bouwbesluit is gegeven voor bestaande kantoorgebouwen
+niet mag worden onderschreden;</al>
+      <al>– voor bepaalde in dit lid aangeduide voorschriften het nieuwbouwniveau
+dat voor kantoorgebouwen geldt ten minste moet worden gerealiseerd, en</al>
+      <al>– voor bepaalde in dit lid aangeduide voorschriften het specifieke
+vrijstellingsniveau dat voor kantoorgebouwen in artikel 409 is neergelegd
+niet mag worden onderschreden.</al>
+      <al>Daarbij kan de aanvrager zelf rekening houden met de beoogde duur van
+instandhouding van het niet-permanente kantoorgebouw. Deze regeling geldt
+ook voor het geheel vernieuwen of veranderen van een niet-permanent kantoorgebouw.
+Immers, ook het geheel vernieuwen of veranderen valt onder het in artikel
+1, eerste lid, onderdeel a, van de Woningwet omschreven begrip «bouwen».
+Voor het gedeeltelijk verbouwen is in het derde lid een afzonderlijke regeling
+getroffen.</al>
+      <witreg></witreg>
+      <al>Het tweede lid van artikel 414b geeft aan dat een bestaand niet-permanent
+kantoorgebouw moet voldoen aan de voorschriften voor bestaande kantoorgebouwen.</al>
+      <witreg></witreg>
+      <al>In het derde lid van artikel 414b is bepaald aan welke voorschriften moet
+zijn voldaan bij het gedeeltelijk vernieuwen, veranderen of het vergroten
+van een niet-permanent kantoorgebouw. Van de in het eerste lid genoemde voorschriften,
+die het niveau van de voor bestaande kantoorgebouwen geldende voorschriften
+te boven gaan, kunnen burgemeester en wethouders vrijstelling verlenen tot
+het niveau dat geldt voor bestaande kantoorgebouwen.</al>
+      <witreg></witreg>
+      <al>In het vierde lid van artikel 414b is bepaald aan welke voorschriften
+moet zijn voldaan bij het verplaatsen van een niet-permanent kantoorgebouw.
+Voor die situatie gelden de voorschriften voor bestaande kantoorgebouwen.</al>
+      <witreg></witreg>
+      <al>In artikel 414c, eerste lid, is bepaald aan welke voorschriften moet zijn
+voldaan bij het bouwen van een niet-permanent logiesverblijf of logiesgebouw.
+De aanvrager mag in beginsel zelf het niveau bepalen, zij het dat:</al>
+      <al>– het niveau dat in het Bouwbesluit is gegeven voor bestaande logiesverblijven
+of logiesgebouwen niet mag worden onderschreden;</al>
+      <al>– voor bepaalde in dit lid aangeduide voorschriften het nieuwbouwniveau
+dat voor logiesverblijven of logiesgebouwen geldt ten minste moet worden gerealiseerd,
+en</al>
+      <al>– voor bepaalde in dit lid aangeduide voorschriften het specifieke
+vrijstellingsniveau dat voor logiesverblijven of logiesgebouwen in artikel
+409 is neergelegd niet mag worden onderschreden.</al>
+      <al>Daarbij kan de aanvrager zelf rekening houden met de beoogde duur van
+instandhouding van het niet-permanente logiesverblijf of logiesgebouw. Deze
+regeling geldt ook voor het geheel vernieuwen of veranderen van een niet-permanent
+logiesverblijf of logiesgebouw. Immers, ook het geheel vernieuwen of veranderen
+valt onder het in artikel 1, eerste lid, onderdeel a, van de Woningwet omschreven
+begrip «bouwen». Voor het gedeeltelijk vernieuwen, veranderen
+of het vergroten is in het derde lid een afzonderlijke regeling getroffen. </al>
+      <witreg></witreg>
+      <al>Het tweede lid van artikel 414c geeft aan dat een bestaand niet-permanent
+logiesverblijf of logiesgebouw moet voldoen aan de voorschriften voor bestaande
+logiesverblijven of logiesgebouwen.</al>
+      <witreg></witreg>
+      <al>In het derde lid van artikel 414c is bepaald aan welke voorschriften moet
+zijn voldaan bij het gedeeltelijk vernieuwen, veranderen of het vergroten
+van een niet-permanent logiesverblijf of logiesgebouw. Van de in het eerste
+lid genoemde voorschriften, die het niveau van de voor bestaande logiesverblijven
+of logiesgebouwen geldende voorschriften te boven gaan, kunnen burgemeester
+en wethouders vrijstelling verlenen tot het niveau dat geldt voor bestaande
+logiesverblijven of logiesgebouwen.</al>
+      <witreg></witreg>
+      <al>In het vierde lid van artikel 414c is bepaald aan welke voorschriften
+moet zijn voldaan bij het verplaatsen van een niet-permanent logiesverblijf
+of logiesgebouw. Voor die situatie gelden de voorschriften voor bestaande
+logiesverblijven of logiesgebouwen.</al>
+      <witreg></witreg>
+      <al>In artikel 414d, eerste lid, is bepaald aan welke voorschriften moet zijn
+voldaan bij het bouwen van een niet-permanent bouwwerk, geen gebouw zijnde.
+De aanvrager mag in beginsel zelf het niveau bepalen, zij het dat:</al>
+      <al>– het niveau dat in het Bouwbesluit is gegeven voor bestaande bouwwerken,
+geen gebouw zijnde niet mag worden onderschreden, en</al>
+      <al>– voor bepaalde in dit lid aangeduide voorschriften het nieuwbouwniveau
+dat voor bouwwerken, geen gebouw zijnde, geldt ten minste moet worden gerealiseerd.</al>
+      <al>Daarbij kan de aanvrager zelf rekening houden met de beoogde duur van
+instandhouding van het niet-permanente bouwwerk, geen gebouw zijnde.</al>
+      <al>De in dit lid gegeven regeling geldt ook voor het geheel vernieuwen of
+veranderen van een niet-permanent bouwwerk, geen gebouw zijnde. Immers, ook
+het geheel vernieuwen of veranderen valt onder het in artikel 1, eerste lid,
+onderdeel a, van de Woningwet omschreven begrip «bouwen». Voor
+het gedeeltelijk vernieuwen, veranderen of het vergroten is in het derde lid
+een afzonderlijke regeling getroffen.</al>
+      <witreg></witreg>
+      <al>Het tweede lid van artikel 414d geeft aan dat een bestaand niet-permanent
+bouwwerk, geen gebouw zijnde, moet voldoen aan de voorschriften voor bestaande
+bouwwerken, geen gebouw zijnde.</al>
+      <witreg></witreg>
+      <al>In het derde lid van artikel 414d is bepaald aan welke voorschriften moet
+zijn voldaan bij het gedeeltelijk vernieuwen, veranderen of het vergroten
+van een niet-permanent bouwwerk, geen gebouw zijnde. Van de in het eerste
+lid genoemde voorschriften, die het niveau van de voor bestaande bouwwerken,
+geen gebouw zijnde, geldende voorschriften te boven gaan, kunnen burgemeester
+en wethouders vrijstelling verlenen tot het niveau dat geldt voor bestaande
+bouwwerken, geen gebouw zijnde.</al>
+      <witreg></witreg>
+      <al>In het vierde lid van artikel 414d is bepaald aan welke voorschriften
+moet zijn voldaan bij het verplaatsen van een niet-permanent bouwwerk, geen
+gebouw zijnde. Voor die situatie gelden de voorschriften voor bestaande bouwwerken,
+geen gebouw zijnde.</al>
+      <tuskop letat="cur">Artikel II</tuskop>
+      <al>Het eerste lid regelt de inwerkingtreding van het onderhavige besluit.
+Het zal, overeenkomstig de destijds met het oog op de inwerkingtreding van
+het Bouwbesluit, eerst in werking treden zes maanden na publikatie ervan in
+het Staatsblad. Daarvan uitgaande mag worden aangenomen dat de inwerkingtreding
+zal plaatshebben met ingang van 1 december 1995. De bouwpraktijk heeft zodoende
+zes maanden de gelegenheid zich voor te bereiden op de voorschriften
+van het onderhavige besluit. Overigens moet worden bedacht dat die voorbereidingstijd,
+feitelijk gezien, al is ingegaan na publikatie van de energieprestatienormen
+door het Nederlands Normalisatie-instituut, begin oktober 1994.</al>
+      <witreg></witreg>
+      <al>Het tweede lid geeft een overgangsregeling. Deze komt er op neer dat de
+voorschriften van het onderhavige besluit eerst van toepassing zijn op aanvragen
+om bouwvergunning die na de inwerkingtreding van dit besluit bij burgemeester
+en wethouders worden ingediend.</al>
+      <witreg></witreg>
+      <al>In het derde lid is in het kader van overgangsrecht bepaald dat aanvragen
+om bouwvergunning, die vóór de inwerkingtreding van dit besluit
+bij burgemeester en wethouders zijn ingediend, worden afgedaan overeenkomstig
+het voordien geldende recht.</al>
+      <minister>
+        <minvan>De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en
+Milieubeheer,</minvan>
+        <naam>D. K. J. Tommel</naam>
+      </minister>
+    </notatoe>
+  </backm>
+</staatsbl>

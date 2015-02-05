@@ -1,0 +1,53 @@
+
+titles   => '//wlid/al'
+lidnr => '//lid/nr'  (??)
+
+
+>>> for lid in l:
+...     children = lid.getchildren()
+...     for c in children:
+...             if (c.tag == 'nr'):
+...                     print "LIDnr: ", c.text
+...             if (c.tag == 'al'):
+...                     print "alinea", c.text
+... 
+
+
+stb = dom.xpath('//stb')
+chs = stb[0].getchildren()
+chs[1].text
+'1995'
+chs[2].text
+'295'
+
+
+
+import os, glob
+from lxml import etree
+
+def parse_stadsblad(fname):
+	dom = etree.parse(fname)
+
+	# get all the titles
+	titles = dom.xpath('//wlid/al')
+	for t in titles:
+		print "title: ", t.text
+
+	# get all the sections
+	lids = dom.xpath('//lid')
+
+	for lid in lids:
+		chs = = lid.getchildren()
+		for c in chs:
+			if (c.tag == 'nr'):
+				print "lidnr: ", c.text
+			if (c.tag == 'al'):
+				print "alinea: ", c.text
+
+def main():
+	os.chdir("sources/")
+	for file in glob.glob("*.xml"):
+	    parse_stadsblad(file)
+
+if __name__ == "__main__":
+	main()

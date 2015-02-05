@@ -1,0 +1,2122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE staatsbl PUBLIC "-//SDU//DTD staatsblad xml 1.1//NL" "../../dtd/staatsbl-11.dtd"[]>
+<staatsbl id="sb2.516" soort="kb" publtype="stbd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2002-516/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel status="off">Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <frontm>
+    <versie dtd="0.4" conv="prod1.5" markup="Xa"></versie>
+    <ordernr>STB7490</ordernr>
+    <stb>
+      <jaargang jaar="2002">Jaargang 2002</jaargang>
+      <stbjaar>2002</stbjaar>
+      <stbnr>516</stbnr>
+    </stb>
+    <intitule>
+      <soort>Besluit</soort> van 16 oktober 2002 tot wijziging van het
+Bouwbesluit en van het besluit van 17 april 2002, Stb. 203, houdende
+wijziging van het Bouwbesluit en enige andere algemene maatregelen van bestuur
+(correcties en aanvullingen van het Bouwbesluit en aanpassing van andere besluiten
+aan het Bouwbesluit) (wijziging in verband met gelijktijdige inwerkingtreding
+van alle wijzigingen van het Bouwbesluit en enkele andere wijzigingen van
+het Bouwbesluit)</intitule>
+    <aanhef>
+      <wie>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van
+Oranje-Nassau, enz. enz. enz.</wie>
+      <consider>
+        <al>Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke
+Ordening en Milieubeheer van 16 juli 2002, nr. MJZ2002060568, Centrale Directie
+Juridische Zaken, Afdeling Wetgeving;</al>
+        <al>Gelet op <grslag>artikel 16, eerste en tweede lid, van de Arbeidsomstandighedenwet
+1998, artikel 15, eerste lid, van de Huurprijzenwet woonruimte, artikel 25,
+derde lid, van de Luchtvaartwet, de artikelen 49, 68, eerste lid, 82, tweede
+lid, 105, 113 en 174 van de Wet geluidhinder, de artikelen 15.13, eerste en
+tweede lid, en 8.40 van de Wet milieubeheer, de artikelen 2 en 120 van de
+Woningwet, artikel 3 van de Kaderwet EZ-subsidies, artikel 8 van de Wet bodembescherming,
+artikel 10 van de Drank- en Horecawet, artikel 2a van de Wet verontreiniging
+oppervlaktewateren, artikel 17, eerste en tweede lid, van de Financiële
+verhoudingswet, artikel 4, tweede lid, van de Waterleidingwet, de artikelen
+27 en 33 van de Spoorwegwet en de artikelen 4 en 4a van de Locaalspoor- en
+Tramwegwet</grslag>;</al>
+        <al>De Raad van State gehoord (advies van 29 augustus 2002, W08.02.0324/V);</al>
+        <al>Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke
+Ordening en Milieubeheer van 14 oktober 2002, nr. MJZ2002085269, Centrale
+Directie Juridische Zaken, Afdeling Wetgeving;</al>
+      </consider>
+      <afkondig>Hebben goedgevonden en verstaan:</afkondig>
+    </aanhef>
+  </frontm>
+  <body>
+    <wart id="ai">
+      <kop>
+        <nr>ARTIKEL I</nr>
+      </kop>
+      <al>Het Bouwbesluit<eindref refid="e1"></eindref> wordt als volgt gewijzigd: </al>
+      <wlid>
+        <kop>
+          <nr>A</nr>
+        </kop>
+        <al>Artikel 1.1 wordt als volgt gewijzigd:</al>
+        <wond>
+          <nr>1.</nr>
+          <al>In het eerste lid vervalt:</al>
+          <al>
+            <nadruk type="vet">brandweerlift:</nadruk> lift die mede tot doel heeft
+brandweermateriaal dat nodig is om een gebouw te kunnen doorzoeken naar achtergebleven
+personen en om een brand te blussen, naar de gewenste bouwlaag te transporteren;.</al>
+        </wond>
+        <wond>
+          <nr>2.</nr>
+          <al>In het tweede lid wordt voor «bijdrage tot brandvoortplanting:»
+een definitie ingevoegd, luidende: <nadruk type="vet">brandweerlift:</nadruk>
+brandweerlift als bedoeld in NEN-EN 81–1, bijlage Z.4, september 1986,
+inclusief correctieblad, december 1989;.</al>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>B</nr>
+        </kop>
+        <al>Het opschrift van § 1.2 komt te luiden:</al>
+        <arttkst>
+          <al>§ 1.2 Toepassing NEN en NEN-EN</al>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>C</nr>
+        </kop>
+        <al>In artikel 1.3 vervalt: of aansluitvoorwaarde.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>D</nr>
+        </kop>
+        <al>In het zesde lid van artikel 2.105 wordt «vierde lid,» vervangen
+door: vierde en vijfde lid,.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>E</nr>
+        </kop>
+        <al>In het eerste lid van artikel 2.113 wordt «een besloten ruimte van
+een gebouw» vervangen door: een ander brandcompartiment, een besloten
+ruimte waardoor een brand- en rookvrije vluchtroute voert, en een niet besloten
+veiligheidstrappenhuis.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>F</nr>
+        </kop>
+        <al>In het eerste lid van artikel 2.118 wordt «een besloten ruimte van
+een gebouw» vervangen door: een ruimte in het brandcompartiment, een
+ander brandcompartiment, een besloten ruimte waardoor een brand- en rookvrije
+vluchtroute voert, en een niet besloten veiligheidstrappenhuis.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>G</nr>
+        </kop>
+        <al>In het eerste lid van artikel 2.123 wordt «een besloten ruimte van
+een gebouw» vervangen door: een ruimte in het brandcompartiment, een
+ander brandcompartiment, een besloten ruimte waardoor een brand- en rookvrije
+vluchtroute voert, en een niet besloten veiligheidstrappenhuis.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>H</nr>
+        </kop>
+        <al>In het elfde lid van artikel 2.146 wordt «brandbare, brandbevorderende
+of bij brand gevaar opleverende stoffen, of voor de gezondheid schadelijke
+stoffen,» vervangen door: brandbare, brandbevorderende, bij brand gevaar
+opleverende of voor de gezondheid schadelijke stoffen,. </al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>I</nr>
+        </kop>
+        <al>In het vijfde lid van artikel 2.151 wordt «brandbare, brandbevorderende
+of bij brand gevaar opleverende stoffen, of voor de gezondheid schadelijke
+stoffen,» vervangen door: brandbare, brandbevorderende, bij brand gevaar
+opleverende of voor de gezondheid schadelijke stoffen,.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>J</nr>
+        </kop>
+        <al>In het elfde lid van artikel 2.156 wordt «voert niet over een trap
+of door een lift» vervangen door: voert niet over een trap.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>K</nr>
+        </kop>
+        <al>In het vijfde lid van artikel 2.163 wordt «voert niet over een trap
+of door een lift» vervangen door: voert niet over een trap.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>L</nr>
+        </kop>
+        <al>De na artikel 2.166 opgenomen tabel wordt vervangen door:</al>
+        <arttkst>
+          <al>
+            <nadruk type="vet">Tabel 2.166</nadruk>
+          </al>
+          <al>
+            <table orient="port" rowsep="0" colsep="0" frame="topbot" tabstyle="sdu1">
+              <tgroup align="left" charoff="75" cols="22" tgroupstyle="sdu1">
+                <colspec colname="c1" colnum="1" colwidth="5mm"></colspec>
+                <colspec colname="c2" colnum="2" colwidth="3mm"></colspec>
+                <colspec colname="c3" colnum="3" colwidth="3mm"></colspec>
+                <colspec colname="c4" colnum="4" colwidth="30mm"></colspec>
+                <colspec colname="c5" colnum="5" colwidth="5mm"></colspec>
+                <colspec colname="c6" colnum="6" colwidth="6mm"></colspec>
+                <colspec colname="c7" colnum="7" colwidth="5mm"></colspec>
+                <colspec colname="c8" colnum="8" colwidth="6mm"></colspec>
+                <colspec colname="c9" colnum="9" colwidth="7mm"></colspec>
+                <colspec colname="c10" colnum="10" colwidth="5mm"></colspec>
+                <colspec colname="c11" colnum="11" colwidth="6mm"></colspec>
+                <colspec colname="c12" colnum="12" colwidth="5mm"></colspec>
+                <colspec colname="c13" colnum="13" colwidth="5mm"></colspec>
+                <colspec colname="c14" colnum="14" colwidth="6mm"></colspec>
+                <colspec colname="c15" colnum="15" colwidth="7mm"></colspec>
+                <colspec colname="c16" colnum="16" colwidth="7mm"></colspec>
+                <colspec colname="c17" colnum="17" colwidth="7mm"></colspec>
+                <colspec colname="c18" colnum="18" colwidth="7mm"></colspec>
+                <colspec colname="c19" colnum="19" colwidth="7mm"></colspec>
+                <colspec colname="c20" colnum="20" colwidth="7mm"></colspec>
+                <colspec colname="c21" colnum="21" colwidth="7mm"></colspec>
+                <colspec colname="c22" colnum="22" colwidth="7mm"></colspec>
+                <thead valign="bottom">
+                  <row valign="top">
+                    <entry morerows="0" nameend="c4" namest="c1" rotate="0" rowsep="1" valign="top">gebruiksfunctie</entry>
+                    <entry morerows="0" nameend="c17" namest="c5" rotate="0" rowsep="1" valign="top">leden van
+toepassing</entry>
+                    <entry morerows="0" nameend="c22" namest="c18" rotate="0" rowsep="1" valign="top">grenswaarden</entry>
+                  </row>
+                </thead>
+                <tbody valign="bottom">
+                  <row valign="top">
+                    <entry morerows="0" nameend="c4" namest="c1" rotate="0" rowsep="1"></entry>
+                    <entry align="left" morerows="0" nameend="c6" namest="c5" rotate="1" rowsep="1" valign="top">afmetingen doorgang</entry>
+                    <entry align="left" morerows="0" rotate="1" rowsep="1" valign="top">scheidingsconstructie</entry>
+                    <entry align="left" morerows="0" rotate="1" rowsep="1" valign="top">tussen vluchtroutes</entry>
+                    <entry align="left" morerows="0" rotate="1" rowsep="1" valign="top">luchttoevoer en rookafvoer</entry>
+                    <entry align="left" morerows="0" nameend="c11" namest="c10" rotate="1" rowsep="1" valign="top">permanente vuurbelasting</entry>
+                    <entry align="left" morerows="0" nameend="c14" namest="c12" rotate="1" rowsep="1" valign="top">draairichting deur </entry>
+                    <entry align="left" morerows="0" rotate="1" rowsep="1" valign="top">loopafstand</entry>
+                    <entry align="left" morerows="0" rotate="1" rowsep="1" valign="top">opvang- en doorstroomcapaciteit</entry>
+                    <entry align="left" morerows="0" rotate="1" rowsep="1" valign="top">inrichting </entry>
+                    <entry align="left" morerows="0" nameend="c22" namest="c18" rotate="1" rowsep="1" valign="top">draairichting deur</entry>
+                  </row>
+                  <row valign="top">
+                    <entry align="right" morerows="0" nameend="c4" namest="c1" rotate="0" rowsep="1">artikel</entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.167</entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.168</entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.169</entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.170</entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.171</entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.172</entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.173</entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.174</entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.171</entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry align="right" morerows="0" nameend="c4" namest="c2" rotate="0">lid</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" nameend="c22" namest="c18" rotate="0">[m<sup>2</sup>]</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">1</entry>
+                    <entry morerows="0" nameend="c4" namest="c2" rotate="0">Woonfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">a</entry>
+                    <entry morerows="0" nameend="c4" namest="c3" rotate="0">woonfunctie van een woonwagen</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">b</entry>
+                    <entry morerows="0" nameend="c4" namest="c3" rotate="0">andere woonfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry align="right" morerows="0" nameend="c4" namest="c1" rotate="0" valign="top">bij bezettingsgraadklasse</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0">B1</entry>
+                    <entry align="center" morerows="0" rotate="0">B2</entry>
+                    <entry align="center" morerows="0" rotate="0">B3</entry>
+                    <entry align="center" morerows="0" rotate="0">B4</entry>
+                    <entry align="center" morerows="0" rotate="0">B5</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">2</entry>
+                    <entry morerows="0" nameend="c4" namest="c2" rotate="0" valign="top">Bijeenkomstfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">a</entry>
+                    <entry morerows="0" nameend="c4" namest="c3" rotate="0">bijeenkomstfunctie voor het aanschouwen van sport</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t. </entry>
+                    <entry align="center" morerows="0" rotate="0">n.t. </entry>
+                    <entry align="center" morerows="0" rotate="0">n.t. </entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">b</entry>
+                    <entry morerows="0" nameend="c4" namest="c3" rotate="0">andere bijeenkomstfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t.</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t.</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">3</entry>
+                    <entry morerows="0" nameend="c4" namest="c2" rotate="0" valign="top">Celfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">
+                      <nadruk type="cur">1</nadruk>
+                    </entry>
+                    <entry morerows="0" rotate="0">
+                      <nadruk type="cur">verblijfsgebied voor bezoekers</nadruk>
+                    </entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t. </entry>
+                    <entry align="center" morerows="0" rotate="0">n.t. </entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">
+                      <nadruk type="cur">2</nadruk>
+                    </entry>
+                    <entry morerows="0" rotate="0">
+                      <nadruk type="cur">ander verblijfsgebied</nadruk>
+                    </entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">450</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t.</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">4</entry>
+                    <entry morerows="0" nameend="c4" namest="c2" rotate="0" valign="top">Gezondheidszorgfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">a</entry>
+                    <entry morerows="0" nameend="c4" namest="c3" rotate="0" valign="top">gedeelte voor aan bed gebonden patiënten</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">
+                      <nadruk type="cur">1</nadruk>
+                    </entry>
+                    <entry morerows="0" rotate="0">
+                      <nadruk type="cur">verblijfsgebied voor
+bezoekers</nadruk>
+                    </entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t. </entry>
+                    <entry align="center" morerows="0" rotate="0">n.t. </entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">
+                      <nadruk type="cur">2</nadruk>
+                    </entry>
+                    <entry morerows="0" rotate="0">
+                      <nadruk type="cur">ander verblijfsgebied</nadruk>
+                    </entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">450</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t. </entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">b</entry>
+                    <entry morerows="0" nameend="c4" namest="c3" rotate="0" valign="top">ander gedeelte van een gezondheidszorgfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">
+                      <nadruk type="cur">1</nadruk>
+                    </entry>
+                    <entry morerows="0" rotate="0">
+                      <nadruk type="cur">verblijfsgebied voor bezoekers</nadruk>
+                    </entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t. </entry>
+                    <entry align="center" morerows="0" rotate="0">n.t. </entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">
+                      <nadruk type="cur">2</nadruk>
+                    </entry>
+                    <entry morerows="0" rotate="0">
+                      <nadruk type="cur">ander verblijfsgebied</nadruk>
+                    </entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">450</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t.</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">5</entry>
+                    <entry morerows="0" nameend="c4" namest="c2" rotate="0" valign="top">Industriefunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">450</entry>
+                    <entry align="center" morerows="0" rotate="0">1125</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">6</entry>
+                    <entry morerows="0" nameend="c4" namest="c2" rotate="0" valign="top">Kantoorfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">450</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t.</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">7</entry>
+                    <entry morerows="0" nameend="c4" namest="c2" rotate="0" valign="top">Logiesfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">a</entry>
+                    <entry morerows="0" nameend="c4" namest="c3" rotate="0" valign="top">logiesfunctie met een gebruiksoppervlakte van niet meer dan 500 m<sup>2</sup>, niet gelegen in een logiesgebouw</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">450</entry>
+                    <entry align="center" morerows="0" rotate="0">1125</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">b</entry>
+                    <entry morerows="0" nameend="c4" namest="c3" rotate="0" valign="top">logiesfunctie met een
+gebruiksoppervlakte van meer dan 500 m<sup>2</sup>, niet gelegen in een
+logiesgebouw</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">450</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t. </entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">c</entry>
+                    <entry morerows="0" nameend="c4" namest="c3" rotate="0" valign="top">logiesfunctie gelegen in een logiesgebouw</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">450</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t.</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">8</entry>
+                    <entry morerows="0" nameend="c4" namest="c2" rotate="0" valign="top">Onderwijsfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t.</entry>
+                    <entry align="center" morerows="0" rotate="0">n.t.</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">9</entry>
+                    <entry morerows="0" nameend="c4" namest="c2" rotate="0" valign="top">Sportfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">450</entry>
+                    <entry align="center" morerows="0" rotate="0">1125</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">10</entry>
+                    <entry morerows="0" nameend="c4" namest="c2" rotate="0" valign="top">Winkelfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">450</entry>
+                    <entry align="center" morerows="0" rotate="0">1125</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">11</entry>
+                    <entry morerows="0" nameend="c4" namest="c2" rotate="0" valign="top">Overige
+gebruiksfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">30</entry>
+                    <entry align="center" morerows="0" rotate="0">75</entry>
+                    <entry align="center" morerows="0" rotate="0">187,5</entry>
+                    <entry align="center" morerows="0" rotate="0">450</entry>
+                    <entry align="center" morerows="0" rotate="0">1125</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">12</entry>
+                    <entry morerows="0" nameend="c4" namest="c2" rotate="0" valign="top">Bouwwerk geen gebouw zijnde</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </al>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>M</nr>
+        </kop>
+        <al>Artikel 2.170, tweede lid, komt te luiden:</al>
+        <arttkst>
+          <lid>
+            <nr>2.</nr>
+            <al>Een vluchttrappenhuis, anders dan een veiligheidstrappenhuis is niet rechtstreeks
+bereikbaar vanuit een besloten ruimte waardoor een rookvrije vluchtroute voert,
+een toiletruimte, een liftschacht of een technische ruimte, tenzij het product
+van de volgens NEN 6090 bepaalde permanente vuurbelasting en de som van de
+netto-vloeroppervlakten van dat vluchttrappenhuis, de besloten ruimte, de
+toiletruimte, de liftschacht en de technische ruimte per bouwlaag ten hoogste
+3500 MJ is. Dit geldt niet voor een trappenhuis dat voldoet aan artikel 2.157,
+vijfde lid.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>N</nr>
+        </kop>
+        <al>De na artikel 2.175 opgenomen tabel wordt vervangen door:</al>
+        <arttkst>
+          <al>
+            <nadruk type="vet">Tabel 2.175</nadruk>
+          </al>
+          <al>
+            <table orient="port" rowsep="0" colsep="0" frame="topbot" tabstyle="sdu1">
+              <tgroup align="left" charoff="75" cols="14" tgroupstyle="sdu1">
+                <colspec colname="c1" colnum="1" colwidth="5mm"></colspec>
+                <colspec colname="c2" colnum="2" colwidth="3mm"></colspec>
+                <colspec colname="c3" colnum="3" colwidth="33mm"></colspec>
+                <colspec colname="c4" colnum="4" colwidth="5mm"></colspec>
+                <colspec colname="c5" colnum="5" colwidth="6mm"></colspec>
+                <colspec colname="c6" colnum="6" colwidth="5mm"></colspec>
+                <colspec colname="c7" colnum="7" colwidth="6mm"></colspec>
+                <colspec colname="c8" colnum="8" colwidth="7mm"></colspec>
+                <colspec colname="c9" colnum="9" colwidth="7mm"></colspec>
+                <colspec colname="c10" colnum="10" colwidth="5mm"></colspec>
+                <colspec colname="c11" colnum="11" colwidth="6mm"></colspec>
+                <colspec colname="c12" colnum="12" colwidth="6.5mm"></colspec>
+                <colspec colname="c13" colnum="13" colwidth="6.5mm"></colspec>
+                <colspec colname="c14" colnum="14" colwidth="9mm"></colspec>
+                <thead valign="bottom">
+                  <row valign="top">
+                    <entry morerows="0" nameend="c3" namest="c1" rotate="0" rowsep="1" valign="top">gebruiksfunctie</entry>
+                    <entry morerows="0" nameend="c13" namest="c4" rotate="0" rowsep="1" valign="top">leden van toepassing</entry>
+                    <entry morerows="0" rotate="0" rowsep="1" valign="top">grenswaarden </entry>
+                  </row>
+                </thead>
+                <tbody valign="bottom">
+                  <row valign="top">
+                    <entry morerows="0" nameend="c3" namest="c1" rotate="0" rowsep="1"></entry>
+                    <entry align="left" morerows="0" nameend="c5" namest="c4" rotate="1" rowsep="1" valign="top">afmetingen doorgang</entry>
+                    <entry align="left" morerows="0" nameend="c7" namest="c6" rotate="1" rowsep="1" valign="top">scheidingsconstructie tussen vluchtroutes</entry>
+                    <entry align="left" morerows="0" rotate="1" rowsep="1" valign="top">luchttoevoer en rookafvoer</entry>
+                    <entry align="left" morerows="0" rotate="1" rowsep="1" valign="top">permanente vuurbelasting</entry>
+                    <entry align="left" morerows="0" nameend="c11" namest="c10" rotate="1" rowsep="1" valign="top">draairichting deur </entry>
+                    <entry align="left" morerows="0" rotate="1" rowsep="1" valign="top">loopafstand</entry>
+                    <entry align="left" morerows="0" rotate="1" rowsep="1" valign="top">inrichting </entry>
+                    <entry align="left" morerows="0" rotate="1" rowsep="1" valign="top">draairichting deur</entry>
+                  </row>
+                  <row valign="top">
+                    <entry align="right" morerows="0" nameend="c3" namest="c1" rotate="0" rowsep="1">artikel</entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.176</entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.177</entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.178</entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.179</entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.180</entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.181</entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.182</entry>
+                    <entry morerows="0" rotate="0" rowsep="1">2.180</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry align="right" morerows="0" nameend="c3" namest="c2" rotate="0">lid</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">   1</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0">[m<sup>2</sup>]</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">1</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0">Woonfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">a</entry>
+                    <entry morerows="0" rotate="0">woonfunctie van een woonwagen</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">b</entry>
+                    <entry morerows="0" rotate="0">andere woonfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">2</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Bijeenkomstfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">a</entry>
+                    <entry morerows="0" rotate="0">bijeenkomstfunctie voor het aanschouwen van sport</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"> 120</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">b</entry>
+                    <entry morerows="0" rotate="0">andere bijeenkomstfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"> 300</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">3</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Celfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"> 720</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">4</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Gezondheidszorgfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">a</entry>
+                    <entry morerows="0" rotate="0">gedeelte voor bedgebonden patiënten</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"> 720 </entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">b</entry>
+                    <entry morerows="0" rotate="0">gedeelte niet voor bedgebonden patiënten</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"> 720</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">5</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Industriefunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1800</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">6</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Kantoorfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"> 720</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">7</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Logiesfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">a</entry>
+                    <entry morerows="0" rotate="0">logiesfunctie met een gebruiksoppervlakte
+van niet meer dan 1000 m<sup>2</sup>, niet gelegen in een logiesgebouw</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1800</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">b</entry>
+                    <entry morerows="0" rotate="0">logiesfunctie met een gebruiksoppervlakte
+van meer dan 1000 m<sup>2</sup>, niet gelegen in een logiesgebouw</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"> 720</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">c</entry>
+                    <entry morerows="0" rotate="0">logiesfunctie gelegen in een logiesgebouw</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"> 720</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">8</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Onderwijsfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"> 300</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">9</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Sportfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1800</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">10</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Winkelfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1800</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">11</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Overige gebruiksfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1800</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">12</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Bouwwerk geen gebouw
+zijnde</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </al>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>O</nr>
+        </kop>
+        <al>In artikel 4.2 wordt «een oppervlakte van ten minste 16,5 m x 4,5
+m» vervangen door: een oppervlakte van ten minste 16,5 m x 7,5 m.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>P</nr>
+        </kop>
+        <al>Artikel 4.12 wordt als volgt gewijzigd:</al>
+        <wond>
+          <nr>1.</nr>
+          <al>Aan het eerste lid, wordt een volzin toegevoegd, luidende:</al>
+          <arttkst>
+            <al>De breedte geldt niet voor een verkeersroute voor zover deze over een
+trap voert. </al>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>2.</nr>
+          <al>Het zevende lid komt te luiden:</al>
+          <arttkst>
+            <lid>
+              <nr>7.</nr>
+              <al>In afwijking van het eerste lid, heeft een gemeenschappelijke verkeersroute
+over de volle lengte een vrije doorgang met een breedte van ten minste 1,1
+m.</al>
+            </lid>
+          </arttkst>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>Q</nr>
+        </kop>
+        <al>Artikel 4.15 komt te luiden:</al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 4.15</nr>
+            </kop>
+            <al>Een gemeenschappelijke verkeersroute heeft over de volle lengte een vrije
+doorgang met een breedte van ten minste 1,1 m en een hoogte van ten minste
+2,1 m.</al>
+          </art>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>R</nr>
+        </kop>
+        <al>In het eerste lid van artikel 4.17 wordt «aangrenzende ruimte»
+vervangen door: gemeenschappelijke verkeersruimte.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>S</nr>
+        </kop>
+        <al>De na artikel 4.51 opgenomen tabel wordt vervangen door:</al>
+        <arttkst>
+          <al>
+            <nadruk type="vet">Tabel 4.51</nadruk>
+          </al>
+          <al>
+            <table orient="port" rowsep="0" colsep="0" frame="topbot" tabstyle="sdu1">
+              <tgroup align="left" charoff="75" cols="13" tgroupstyle="sdu1">
+                <colspec colname="c1" colnum="1" colwidth="5mm"></colspec>
+                <colspec colname="c2" colnum="2" colwidth="3mm"></colspec>
+                <colspec colname="c3" colnum="3" colwidth="33mm"></colspec>
+                <colspec colname="c4" colnum="4" colwidth="5mm"></colspec>
+                <colspec colname="c5" colnum="5" colwidth="5mm"></colspec>
+                <colspec colname="c6" colnum="6" colwidth="5mm"></colspec>
+                <colspec colname="c7" colnum="7" colwidth="6mm"></colspec>
+                <colspec colname="c8" colnum="8" colwidth="5mm"></colspec>
+                <colspec colname="c9" colnum="9" colwidth="5mm"></colspec>
+                <colspec colname="c10" colnum="10" colwidth="5mm"></colspec>
+                <colspec colname="c11" colnum="11" colwidth="6mm"></colspec>
+                <colspec colname="c12" colnum="12" colwidth="6mm"></colspec>
+                <colspec colname="c13" colnum="13" colwidth="8mm"></colspec>
+                <thead valign="bottom">
+                  <row valign="top">
+                    <entry morerows="0" nameend="c3" namest="c1" rotate="0" rowsep="1" valign="top">gebruiksfunctie</entry>
+                    <entry morerows="0" nameend="c12" namest="c4" rotate="0" rowsep="1" valign="top">leden van
+toepassing</entry>
+                    <entry morerows="0" rotate="0" rowsep="1" valign="top">grenswaarde </entry>
+                  </row>
+                </thead>
+                <tbody valign="bottom">
+                  <row valign="top">
+                    <entry morerows="0" nameend="c3" namest="c1" rotate="0" rowsep="1"></entry>
+                    <entry align="left" morerows="0" nameend="c7" namest="c4" rotate="1" rowsep="1" valign="top">aanwezigheid</entry>
+                    <entry align="left" morerows="0" nameend="c11" namest="c8" rotate="1" rowsep="1" valign="top">afmetingen </entry>
+                    <entry align="left" morerows="0" rotate="1" rowsep="1" valign="top">afsluitbaarheid</entry>
+                    <entry align="left" morerows="0" rotate="1" rowsep="1" valign="top">aanwezigheid </entry>
+                  </row>
+                  <row valign="top">
+                    <entry align="right" morerows="0" nameend="c3" namest="c1" rotate="0" rowsep="1">artikel</entry>
+                    <entry morerows="0" rotate="0" rowsep="1">4.52</entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1">4.53</entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1"></entry>
+                    <entry morerows="0" rotate="0" rowsep="1">4.54</entry>
+                    <entry morerows="0" rotate="0" rowsep="1">4.52</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry align="right" morerows="0" nameend="c3" namest="c2" rotate="0">lid</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">4</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">4</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">1</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0">Woonfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0">[m<sup>2</sup>]</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">a</entry>
+                    <entry morerows="0" rotate="0">woonfunctie van een woonwagen</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">4</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0"> 2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">4</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">b</entry>
+                    <entry morerows="0" rotate="0">andere
+woonfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0"> 4</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">2</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Bijeenkomstfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">3</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Celfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">a</entry>
+                    <entry morerows="0" rotate="0">celfunctie voor langdurig dag- en nachtverblijf</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">4</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">4</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">– </entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">b</entry>
+                    <entry morerows="0" rotate="0">andere celfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">4</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Gezondheidszorgfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">a</entry>
+                    <entry morerows="0" rotate="0">gezondheidszorgfunctie voor aan bed gebonden patiënten</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">4</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">4</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">750</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">b</entry>
+                    <entry morerows="0" rotate="0">andere gezondheidszorgfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">5</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Industriefunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">6</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Kantoorfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">7</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Logiesfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">a</entry>
+                    <entry morerows="0" rotate="0">logiesfunctie gelegen in een logiesgebouw</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">4</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">4</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">400</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">b</entry>
+                    <entry morerows="0" rotate="0">logiesfunctie
+niet gelegen in een logiesgebouw</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">8</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Onderwijsfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">9</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Sportfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                    <entry align="center" morerows="0" rotate="0"></entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">a</entry>
+                    <entry morerows="0" rotate="0">sportfunctie voor
+de zwemsport</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">3</entry>
+                    <entry align="center" morerows="0" rotate="0">4</entry>
+                    <entry align="center" morerows="0" rotate="0">1</entry>
+                    <entry align="center" morerows="0" rotate="0">2</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">4</entry>
+                    <entry align="center" morerows="0" rotate="0">*</entry>
+                    <entry align="center" morerows="0" rotate="0">150 </entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top"></entry>
+                    <entry morerows="0" rotate="0" valign="top">d</entry>
+                    <entry morerows="0" rotate="0">andere sportfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">10</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Winkelfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">11</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Overige gebruiksfunctie</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                  <row valign="top">
+                    <entry morerows="0" rotate="0" valign="top">12</entry>
+                    <entry morerows="0" nameend="c3" namest="c2" rotate="0" valign="top">Bouwwerk geen gebouw zijnde</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                    <entry align="center" morerows="0" rotate="0">–</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </al>
+        </arttkst>
+      </wlid>
+    </wart>
+    <wart id="aii">
+      <kop>
+        <nr>ARTIKEL II</nr>
+      </kop>
+      <al>Het besluit van 17 april 2002, Stb. 203, houdende wijziging van het Bouwbesluit
+en enige andere algemene maatregelen van bestuur (correcties en aanvullingen
+van het Bouwbesluit en aanpassing van andere besluiten aan het Bouwbesluit),
+wordt als volgt gewijzigd:</al>
+      <wlid>
+        <kop>
+          <nr>A</nr>
+        </kop>
+        <al>Artikel 1 wordt als volgt gewijzigd: </al>
+        <wond>
+          <nr>1.</nr>
+          <al>De onderdelen A, onder 1, onder c, O, P, DD, onder 1, WW, JJJ, KKK, LLL,
+MMM, QQQ en RRR vervallen.</al>
+        </wond>
+        <wond>
+          <nr>2.</nr>
+          <al>In onderdeel ZZZ wordt «Bouwbesluit 2002» vervangen door:
+Bouwbesluit 2003.</al>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>B</nr>
+        </kop>
+        <al>Artikel 2 wordt als volgt gewijzigd:</al>
+        <wond>
+          <nr>1.</nr>
+          <al>In de aanhef vervalt: 2002.</al>
+        </wond>
+        <wond>
+          <nr>2.</nr>
+          <al>De onderdelen A, C, H en I vervallen.</al>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>C</nr>
+        </kop>
+        <al>In de artikelen 3 tot en met 13, 15, onderdelen C en D, 16, 18 en 19 wordt
+«Bouwbesluit 2002» telkens vervangen door: Bouwbesluit 2003.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>D</nr>
+        </kop>
+        <al>In artikel 14 wordt «Regeling Bouwbesluit 2002» vervangen
+door: Regeling Bouwbesluit 2003.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>E</nr>
+        </kop>
+        <al>Artikel 21 komt te luiden:</al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 21</nr>
+            </kop>
+            <al>Dit besluit treedt in werking op een bij koninklijk besluit te bepalen
+tijdstip.</al>
+          </art>
+        </wlichaam>
+      </wlid>
+    </wart>
+    <art id="aiii">
+      <kop>
+        <nr>ARTIKEL III</nr>
+      </kop>
+      <al>Dit besluit treedt in werking op een bij koninklijk besluit te bepalen
+tijdstip.</al>
+    </art>
+  </body>
+  <backm>
+    <nawerk>
+      <slotform>Lasten en bevelen dat dit besluit met de daarbij behorende nota
+van toelichting in het Staatsblad zal worden geplaatst.</slotform>
+      <eindnoot id="e1">
+        <al>Stb. 2001, 410, gewijzigd bij besluit van 17 april 2002, Stb. 203.</al>
+      </eindnoot>
+      <histnoot>
+        <al>Het advies van de Raad van State is openbaar gemaakt door terinzagelegging
+bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. </al>
+        <al>Tevens zal het advies met de daarbij ter inzage gelegde stukken worden
+opgenomen in het bijvoegsel bij de Staatscourant van 12 november 2002, nr.
+218.</al>
+      </histnoot>
+      <ondertek>
+        <ondplts>'s-Gravenhage, </ondplts>
+        <onddatum>16 oktober 2002</onddatum>
+        <koning>Beatrix</koning>
+        <minister>
+          <minvan>De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,</minvan>
+          <naam>H. G. J. Kamp</naam>
+        </minister>
+      </ondertek>
+      <uitgifte>
+        <uitgifte-regel>Uitgegeven de <nadruk type="cur">vierentwintigste</nadruk> oktober 2002</uitgifte-regel>
+        <uitdag>vierentwintigste</uitdag>
+        <uitmaand>oktober</uitmaand>
+        <uitjaar>2002</uitjaar>
+        <door>
+          <minvan>De Minister van Justitie,</minvan>
+          <naam>J. P. H. Donner </naam>
+        </door>
+      </uitgifte>
+    </nawerk>
+    <notatoe>
+      <kop>
+        <titel status="off">NOTA VAN TOELICHTING</titel>
+      </kop>
+      <tuskop letat="vet">I Algemeen</tuskop>
+      <al>Na de publicatie van het geconverteerde Bouwbesluit in september 2001
+(Stb. 2001, 410) bleek het noodzakelijk voor de inwerkingtreding nog een aantal
+aanpassingen aan te brengen. Deze aanpassingen zijn opgenomen in het besluit
+van 17 april 2002, houdende wijziging van het Bouwbesluit en enige andere
+algemene maatregelen van bestuur (Stb. 2002, 203) (hierna: het wijzigingsbesluit).</al>
+      <witreg></witreg>
+      <al>Ten tijde van de totstandkoming van het wijzigingsbesluit werd ervan uitgegaan
+dat het geconverteerde Bouwbesluit op 1 juli 2002 in werking zou treden.</al>
+      <al>Omdat de voorbereidingstijd voor de praktijk op een aantal onderdelen
+van het geconverteerde Bouwbesluit, te weten de trap en de plafondhoogte,
+te beperkt bleek, zijn die onderdelen eerst in artikel 1 van het wijzigingsbesluit
+teruggedraaid naar de situatie van voor het geconverteerde Bouwbesluit. In
+artikel 2 van het wijzigingsbesluit zijn de voorschriften van het geconverteerde
+Bouwbesluit vervolgens opnieuw opgenomen. Deze laatste voorschriften zouden
+dan op 1 januari 2003 in werking treden.</al>
+      <al>In het eerste lid van de inwerkingtredingsbepaling in het wijzigingsbesluit
+was daarom bepaald dat het besluit, met uitzondering van artikel 2, op een
+bij koninklijk besluit te bepalen tijdstip in werking treedt. In het tweede
+lid was bepaald dat artikel 2 op een later tijdstip dan het in het eerste
+lid bedoelde tijdstip in werking zou treden.</al>
+      <al>Nu besloten is de inwerkingtreding van het gehele geconverteerde Bouwbesluit
+in een keer op 1 januari 2003 te laten plaatsvinden, is de hierboven beschreven
+constructie met het zowel in artikel 1 als in artikel 2 opnemen van wijzigingen
+van bepaalde voorschriften overbodig geworden. Om deze overbodig geworden
+wijzigingen te laten vervallen is dit besluit nodig.</al>
+      <al>Voorts zijn in dit besluit nog een aantal wijzigingen van het geconverteerde
+Bouwbesluit opgenomen. Het gaat hier zowel om aanpassingen van het geconverteerde
+Bouwbesluit als om correcties van het wijzigingsbesluit. In die gevallen waar
+het toch noodzakelijk bleek om nog een correctie in het wijzigingsbesluit
+aan te brengen is er voor gekozen om het desbetreffende artikel in het wijzigingsbesluit
+te laten vervallen en de wijziging in het geconverteerde Bouwbesluit (Stb.
+2001, 410) aan te brengen.</al>
+      <tuskop letat="vet">II Artikelsgewijze toelichting</tuskop>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel A</tuskop>
+      <al>Om duidelijk te maken aan welke eisen een brandweerlift moet voldoen is
+aansluiting gezocht bij bijlage Z.4 van NEN-EN 81–1. Alleen in de op
+deze plaats in het besluit genoemde versie is de beoogde definitie opgenomen.
+Nadrukkelijk wordt opgemerkt dat dit een eerdere versie is dan de door middel
+van de Regeling Bouwbesluit 2003 op andere plaatsen in het besluit aangewezen
+uitgave.</al>
+      <al>In lijn met de systematiek van artikel 1 is de definitie nu verplaatst
+naar het tweede lid, waarin alle definities zijn opgenomen die naar een NEN
+of NEN-EN verwijzen. </al>
+      <tuskop letat="cur">Onderdeel D</tuskop>
+      <al>Met het toevoegen van de verwijzing naar artikel 4.88, vijfde lid, wordt
+geregeld dat ook het in dat lid bedoelde gemeenschappelijk stooktoestel in
+een afzonderlijk brandcompartiment moet liggen.</al>
+      <tuskop letat="cur">Onderdeel E</tuskop>
+      <al>Met de wijziging van artikel 2.113 (voor bestaande bouw) is de reikwijdte
+geheel in overeenstemming gebracht met het desbetreffende nieuwbouwvoorschrift
+(artikel 2.106). Het met artikel 2.113 corresponderende onderdeel DD in artikel
+1 van het wijzigingsbesluit vervalt gelijktijdig.</al>
+      <tuskop letat="cur">Onderdelen F en G</tuskop>
+      <al>Met deze wijziging is het eerste lid van de artikelen 2.118 en 2.123 in
+overeenstemming gebracht met het eerste lid van artikel 2.106 zoals dit luidt
+na de inwerkingtreding van het wijzigingsbesluit.</al>
+      <tuskop letat="cur">Onderdelen H en I</tuskop>
+      <al>Met deze wijzigingen is zeker gesteld dat voor de gezondheid schadelijke
+stoffen ook bij ministeriële regeling kunnen worden aangewezen.</al>
+      <tuskop letat="cur">Onderdelen J en K</tuskop>
+      <al>Dit is een wetstechnische wijziging. In de definitie «rookvrije
+vluchtroute» is reeds geregeld dat de vluchtroute niet door een lift
+mag voeren.</al>
+      <tuskop letat="cur">Onderdeel L</tuskop>
+      <al>In tabel 2.166 is in de kop «vluchtmogelijkheden» vervangen
+door: vluchtroutes. Daarmee is het in deze kop gebruikte begrip in lijn gebracht
+met het Bouwbesluit 2003. Voorts is bij de onderwijsfunctie bij bezettingsgraadklassen
+B4 en B5 ook n.t. genoteerd. Daarmee is deze tabel in overeenstemming gebracht
+met andere tabellen waarin aan bezettingsgraadklassen gerelateerde grenswaarden
+zijn aangegeven.</al>
+      <tuskop letat="cur">Onderdeel M</tuskop>
+      <al>Met deze wijziging van artikel 2.170, tweede lid, worden de in het geconverteerde
+Bouwbesluit onbedoeld geïntroduceerde belemmeringen bij het bouwen van
+portiekflats weer weggenomen. Het met artikel 2.170 corresponderende onderdeel
+WW in artikel 1 van het wijzigingsbesluit, dat deze belemmeringen niet volledig
+wegnam, is gelijktijdig vervallen. </al>
+      <tuskop letat="cur">Onderdeel N</tuskop>
+      <al>Ten onrechte was in tabel 2.175 een grenswaarde voor artikel 2.178 opgenomen.
+De tabel is op dit onderdeel aangepast.</al>
+      <tuskop letat="cur">Onderdeel O</tuskop>
+      <al>Met deze correctie zijn de minimale maten van een standplaats gelijk aan
+de maten die voor de inwerkingtreding van het Bouwbesluit 2003 golden. </al>
+      <tuskop letat="cur">Onderdelen P en Q</tuskop>
+      <al>Met de wijziging van artikel 4.12, eerste lid, (onderdeel P) wordt zeker
+gesteld dat er geen misverstanden ontstaan over de breedte van de verkeersroute.
+Alleen ter plaatse van een trap geldt een minimale breedte van 80 cm. Het
+met artikel 4.12 corresponderende onderdeel KKK in artikel 1 van het wijzigingsbesluit
+is gelijktijdig vervallen.</al>
+      <al>Met de wijziging van de vrije doorgang in de artikelen 4.12, zevende lid,
+en 4.15 (onderdeel Q) wordt recht gedaan aan de huidige inzichten bij het
+begeleiden van gedetineerden in cellencomplexen.</al>
+      <tuskop letat="cur">Onderdeel R</tuskop>
+      <al>Met de wijziging van artikel 4.17 is de bereikbaarheid voor rolstoelgebruikers
+van een woning niet gelegen in een woongebouw gewaarborgd.</al>
+      <tuskop letat="cur">Onderdeel S</tuskop>
+      <al>De tabel is in die zin aangepast dat het eerste lid van artikel 4.52 ook
+wordt aangestuurd voor de logiesfunctie gelegen in een logiesgebouw.</al>
+      <tuskop letat="vet">Artikel II</tuskop>
+      <tuskop letat="cur">Onderdeel A, onder 1</tuskop>
+      <tuskop letat="cur">Vervallen van artikel 1, onderdeel A, onder 1, onder c
+(vrije vloeroppervlakte) van het wijzigingsbesluit</tuskop>
+      <al>Doordat dit onderdeel gelijk met het hiermee corresponderende onderdeel
+A uit artikel 2 vervalt, herleeft de definitie uit het geconverteerde Bouwbesluit
+(Stb. 2001, 410).</al>
+      <tuskop letat="cur">Vervallen van artikel 1, onderdelen O en P, van het wijzigingsbesluit</tuskop>
+      <al>De wijziging van tabel 2.28a en artikel 2.29 is hiermee ongedaan gemaakt.</al>
+      <al>Omdat in artikel 2 het met artikel 1, onderdeel P, corresponderende onderdeel
+C ook vervalt, herleeft artikel 2.29, tweede lid, van het geconverteerde Bouwbesluit
+(Stb. 2001, 410).</al>
+      <al>Artikel 2, onderdeel B (tabel 2.28a) is echter niet vervallen, omdat er
+in de klimlijn een correctie van 1 cm ten opzichte van het geconverteerde
+Bouwbesluit (Stb. 2001, 410) is aangebracht.</al>
+      <tuskop letat="cur">Vervallen van artikel 1, onderdeel JJJ, van het wijzigingsbesluit</tuskop>
+      <al>De wijziging van tabel 4.10 is hiermee ongedaan gemaakt. Het hiermee corresponderende
+onderdeel D in artikel 2 is echter niet vervallen, omdat in die tabel de aansturing
+van het nieuwe tweede lid van artikel 4.11, waarin een uitzondering wordt
+gemaakt voor de vrije hoogte in de lift, is opgenomen (Stb. 2002, 203, artikel
+2, onderdelen D en E).</al>
+      <tuskop letat="cur">Vervallen van artikel 1, onderdeel LLL, van het wijzigingsbesluit</tuskop>
+      <al>De wijziging van tabel 4.20 is hiermee ongedaan gemaakt. Het hiermee corresponderende
+onderdeel F in artikel 2 is echter niet vervallen, omdat in de tabel een correctie
+in de aansturing van artikel 4.21, eerste lid, voor de «andere overige
+gebruiksfunctie» is aangebracht.</al>
+      <tuskop letat="cur">Vervallen van artikel 1, onderdeel MMM, van het wijzigingsbesluit</tuskop>
+      <al>De wijziging van tabel 4.25 is hiermee ongedaan gemaakt. Het hiermee corresponderende
+onderdeel G in artikel 2 is echter niet vervallen, omdat in de tabel de aansturing
+van het zesde lid van artikel 4.26 van het geconverteerde Bouwbesluit (Stb.
+2002, 203, artikel 1, onderdeel NNN) dan ongedaan zou worden gemaakt. </al>
+      <tuskop letat="cur">Vervallen van artikel 1, onderdeel QQQ, van het wijzigingsbesluit</tuskop>
+      <al>De wijziging van tabel 4.34 is hiermee ongedaan gemaakt. Omdat in artikel
+2 het hiermee corresponderende onderdeel H ook is vervallen, herleeft tabel
+4.34 van het geconverteerde Bouwbesluit (Stb. 2001, 410).</al>
+      <tuskop letat="cur">Vervallen van artikel 1, onderdeel RRR, van het wijzigingsbesluit</tuskop>
+      <al>De wijziging van tabel 4.45 is hiermee ongedaan gemaakt.</al>
+      <al>Omdat in artikel 2 het hiermee corresponderende onderdeel I van het geconverteerde
+Bouwbesluit (Stb. 2001, 410) ook is vervallen, herleeft tabel 4.45.</al>
+      <tuskop letat="cur">Onderdeel A, onder 2</tuskop>
+      <al>Omdat inwerkingtreding niet voor 2003 zal plaatsvinden, is de citeertitel
+van het geconverteerde Bouwbesluit gewijzigd in Bouwbesluit 2003.</al>
+      <tuskop letat="cur">Onderdeel B, onder 1</tuskop>
+      <al>Nu het geconverteerde Bouwbesluit ineens in werking treedt, gaat het in
+artikel 2 niet om een wijziging van het Bouwbesluit 2002 maar om een wijziging
+van het Bouwbesluit.</al>
+      <tuskop letat="cur">Onderdeel B, onder 2</tuskop>
+      <al>Voor een toelichting op de onderdelen van artikel 2 die vervallen, wordt
+verwezen naar de toelichting op de corresponderende onderdelen van artikel
+1 (artikel II, onderdeel A, onder 1).</al>
+      <tuskop letat="cur">Onderdeel E</tuskop>
+      <al>Door de aanpassing van de inwerkingtredingsbepaling zal het hele wijzigingsbesluit
+ineens in werking treden tegelijk met het geconverteerde Bouwbesluit.</al>
+      <tuskop letat="vet">Artikel III</tuskop>
+      <al>Dit artikel regelt de inwerkingtreding van het onderhavige besluit. Het
+voornemen is 1 januari 2003.</al>
+      <al>Hierbij wordt overeenkomstig artikel 2, achtste lid, van de Woningwet
+rekening gehouden met het voorschrift dat inwerkingtreding eerst twee maanden
+na publicatie in het Staatsblad kan plaatsvinden.</al>
+      <minister>
+        <minvan>De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,</minvan>
+        <naam>H. G. J. Kamp </naam>
+      </minister>
+    </notatoe>
+  </backm>
+</staatsbl>

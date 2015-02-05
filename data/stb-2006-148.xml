@@ -1,0 +1,2082 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE staatsbl PUBLIC "-//SDU//DTD staatsblad xml 1.1//NL" "../../dtd/staatsbl-11.dtd"[]>
+<staatsbl publtype="stbl" soort="kb" id="sb2006.148">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2006-148/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel status="off">Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <frontm>
+    <versie dtd="axml_1.8" conv="vrrm_1.12" markup="V"></versie>
+    <ordernr>STB10147</ordernr>
+    <stb>
+      <jaargang jaar="2006">Jaargang 2006</jaargang>
+      <stbjaar>2006</stbjaar>
+      <stbnr>148</stbnr>
+    </stb>
+    <intitule>
+      <soort>Besluit</soort> van 10 maart 2006, houdende wijziging van het Bouwbesluit 2003
+(wijzigingen in verband met de implementatie van de richtlijn
+tunnelveiligheid)</intitule>
+    <aanhef>
+      <wie>Wij Beatrix, bij
+de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau,
+enz. enz. enz.</wie>
+      <consider>
+        <al>Op de voordracht van
+Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en
+Milieubeheer van 16 januari 2006, nr. DJZ2005220565, Directie
+Juridische Zaken, Afdeling Wetgeving;</al>
+        <al>Gelet op
+<grslag>richtlijn nr. 2004/54/EG van het
+Europees parlement en de Raad van de Europese Unie van 29 april
+2004 inzake de minimumveiligheidseisen voor tunnels in het
+trans-Europese wegennet (PbEG L 101/56)</grslag> en op de
+<grslag>artikelen 2 en 120 van de
+Woningwet</grslag>;</al>
+        <al>De
+Raad van State gehoord (advies van 16 februari 2006, nr.
+W08.06.0019/V);</al>
+        <al>Gezien
+het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke
+Ordening en Milieubeheer van 7 maart 2006, nr. DJZ2006242277, Directie
+Juridische Zaken, Afdeling
+Wetgeving;</al>
+      </consider>
+      <afkondig>Hebben
+goedgevonden en verstaan:</afkondig>
+    </aanhef>
+  </frontm>
+  <body>
+    <wart id="a1">
+      <kop>
+        <nr>ARTIKEL I</nr>
+      </kop>
+      <al>Het Bouwbesluit
+2003 wordt als volgt gewijzigd:</al>
+      <wlid>
+        <kop>
+          <nr>A</nr>
+        </kop>
+        <al>Artikel 1.1, eerste lid, wordt als volgt
+gewijzigd:</al>
+        <wond>
+          <nr>1.</nr>
+          <al>In de definitie van
+«brandcompartiment» wordt «gebouwen»
+vervangen door:
+bouwwerken.</al>
+        </wond>
+        <wond>
+          <nr>2.</nr>
+          <al>Na de definitie
+van «trappenhuis» wordt een definitie ingevoegd,
+luidende:</al>
+          <arttkst>
+            <al>
+              <nadruk type="cur">tunnellengte:</nadruk>
+lengte van het omsloten gedeelte van de langste tunnelbuis waarin een
+rijbaan is
+gelegen;</al>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>3.</nr>
+          <al>Na
+de definitie van «vluchttrappenhuis» wordt een definitie
+toegevoegd,
+luidende:</al>
+          <arttkst>
+            <al>
+              <nadruk type="cur">wegtunnel:</nadruk>
+tunnel of tunnelvormig bouwwerk uitsluitend dan wel mede bestemd voor
+motorrijtuigen als bedoeld in artikel 1, eerste lid, onder c, van de
+Wegenverkeerswet
+1994.</al>
+          </arttkst>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>B</nr>
+        </kop>
+        <al>Na artikel 2.215 wordt een afdeling ingevoegd,
+luidende:</al>
+        <wlichaam>
+          <afd>
+            <kop>
+              <nr>Afdeling 2.26</nr>
+              <titel status="off">Tunnelveiligheid</titel>
+            </kop>
+            <par>
+              <kop>
+                <nr>§ 2.26.1</nr>
+                <titel status="off">Nieuwbouw</titel>
+              </kop>
+              <art>
+                <kop>
+                  <nr>Artikel 2.216</nr>
+                </kop>
+                <lid>
+                  <nr>1.</nr>
+                  <al>Een te bouwen bouwwerk biedt weggebruikers
+een adequaat veiligheidsniveau.</al>
+                </lid>
+                <lid>
+                  <nr>2.</nr>
+                  <al>Voorzover voor een gebruiksfunctie in tabel 2.216
+voorschriften zijn aangewezen wordt voor die gebruiksfunctie aan de in
+het eerste lid gestelde eis voldaan door toepassing van die
+voorschriften.</al>
+                </lid>
+                <lid>
+                  <nr>3.</nr>
+                  <al>Het eerste lid is
+niet van toepassing op de gebruiksfuncties waarvoor in tabel 2.216 geen
+voorschrift is aangewezen.</al>
+                  <table tabstyle="xmlbouw">
+                    <title>Tabel
+2.216</title>
+                    <tgroup align="left" char="" charoff="50" cols="4">
+                      <colspec colname="col1" colnum="1" colwidth="5*"></colspec>
+                      <colspec colname="col2" colnum="2" colwidth="5*"></colspec>
+                      <colspec colname="col3" colnum="3" colwidth="79.5*"></colspec>
+                      <colspec colname="col4" colnum="4" colwidth="23*"></colspec>
+                      <thead valign="top">
+                        <row valign="top">
+                          <entry align="center" morerows="0" rotate="0" valign="bottom" namest="col1" nameend="col3">
+                            <al>gebruiksfunctie</al>
+                          </entry>
+                          <entry align="center" morerows="0" rotate="0" valign="bottom" colname="col4">
+                            <al>leden
+van toepassing</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="center" morerows="0" rotate="0" valign="bottom"></entry>
+                          <entry align="center" morerows="0" rotate="0" valign="bottom"></entry>
+                          <entry align="left" morerows="0" rotate="0" valign="bottom"></entry>
+                          <entry align="left" morerows="0" rotate="cc90" valign="top" colname="col4">
+                            <al>Aanwezigheid</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="center" morerows="0" rotate="0" valign="bottom"></entry>
+                          <entry align="center" morerows="0" rotate="0" valign="bottom"></entry>
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>artikel</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" colname="col4">
+                            <al>2.217</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="center" morerows="0" rotate="0" valign="top"></entry>
+                          <entry align="center" morerows="0" rotate="0" valign="top"></entry>
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>lid</al>
+                          </entry>
+                          <entry align="center" morerows="0" rotate="0" valign="top" colname="col4">
+                            <al>*</al>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody valign="top">
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>1</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Woonfunctie</al>
+                          </entry>
+                          <entry align="center" colname="col4" rotate="0" morerows="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>2</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Bijeenkomstfunctie</al>
+                          </entry>
+                          <entry align="center" valign="top" colname="col4" rotate="0" morerows="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>3</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Celfunctie</al>
+                          </entry>
+                          <entry align="center" colname="col4" rotate="0" morerows="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>4</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Gezondheidszorgfunctie</al>
+                          </entry>
+                          <entry align="center" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>5</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Industriefunctie</al>
+                          </entry>
+                          <entry align="center" valign="top" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>6</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Kantoorfunctie</al>
+                          </entry>
+                          <entry align="center" valign="top" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>7</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Logiesfunctie</al>
+                          </entry>
+                          <entry align="center" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>8</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Onderwijsfunctie</al>
+                          </entry>
+                          <entry align="center" valign="top" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>9</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Sportfunctie</al>
+                          </entry>
+                          <entry align="center" valign="top" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>10</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Winkelfunctie</al>
+                          </entry>
+                          <entry valign="top" align="center" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>11</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Overige
+gebruiksfunctie</al>
+                          </entry>
+                          <entry align="center" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>12</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Bouwwerk
+geen gebouw zijnde</al>
+                          </entry>
+                          <entry valign="top" align="center" colname="col4" morerows="0" rotate="0"></entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="center" morerows="0" rotate="0" valign="top"></entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top">
+                            <al>a</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top">
+                            <al>wegtunnel
+met een tunnellengte van meer dan 250 m</al>
+                          </entry>
+                          <entry align="center" morerows="0" rotate="0" valign="top" colname="col4">
+                            <al>*</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="center" morerows="0" rotate="0" valign="top"></entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top">
+                            <al>b</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top">
+                            <al>ander
+bouwwerk geen gebouw zijnde</al>
+                          </entry>
+                          <entry align="center" morerows="0" rotate="0" valign="top" colname="col4">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                  </table>
+                </lid>
+              </art>
+              <art>
+                <kop>
+                  <nr>Artikel 2.217</nr>
+                </kop>
+                <al>Bij ministeriële regeling worden nadere voorschriften met
+betrekking tot de veiligheid van wegtunnels
+gegeven.</al>
+              </art>
+            </par>
+            <par>
+              <kop>
+                <nr>§ 2.26.2</nr>
+                <titel status="off">Bestaande
+bouw</titel>
+              </kop>
+              <art>
+                <kop>
+                  <nr>Artikel 2.218</nr>
+                </kop>
+                <lid>
+                  <nr>1.</nr>
+                  <al>Een bestaand bouwwerk biedt weggebruikers een
+adequaat veiligheidsniveau.</al>
+                </lid>
+                <lid>
+                  <nr>2.</nr>
+                  <al>Voorzover voor een gebruiksfunctie in tabel 2.218
+voorschriften zijn aangewezen wordt voor die gebruiksfunctie aan de in
+het eerste lid gestelde eis voldaan door toepassing van die
+voorschriften.</al>
+                </lid>
+                <lid>
+                  <nr>3.</nr>
+                  <al>Het eerste lid is
+niet van toepassing op de gebruiksfuncties waarvoor in tabel 2.218 geen
+voorschrift is aangewezen.</al>
+                  <table tabstyle="xmlbouw">
+                    <title>Tabel
+2.218</title>
+                    <tgroup align="left" char="" charoff="50" cols="4">
+                      <colspec colname="col1" colnum="1" colwidth="5*"></colspec>
+                      <colspec colname="col2" colnum="2" colwidth="5*"></colspec>
+                      <colspec colname="col3" colnum="3" colwidth="79.5*"></colspec>
+                      <colspec colname="col4" colnum="4" colwidth="23*"></colspec>
+                      <thead valign="top">
+                        <row valign="top">
+                          <entry align="center" morerows="0" rotate="0" valign="bottom" namest="col1" nameend="col3">
+                            <al>gebruiksfunctie</al>
+                          </entry>
+                          <entry align="center" morerows="0" rotate="0" valign="bottom" colname="col4">
+                            <al>leden
+van toepassing</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="center" morerows="0" rotate="0" valign="bottom"></entry>
+                          <entry align="center" morerows="0" rotate="0" valign="bottom"></entry>
+                          <entry align="left" morerows="0" rotate="0" valign="bottom"></entry>
+                          <entry align="left" morerows="0" rotate="cc90" valign="top" colname="col4">
+                            <al>Aanwezigheid</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="center" morerows="0" rotate="0" valign="bottom"></entry>
+                          <entry align="center" morerows="0" rotate="0" valign="bottom"></entry>
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>artikel</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" colname="col4">
+                            <al>2.219</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="center" morerows="0" rotate="0" valign="top"></entry>
+                          <entry align="center" morerows="0" rotate="0" valign="top"></entry>
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>lid</al>
+                          </entry>
+                          <entry align="center" morerows="0" rotate="0" valign="top" colname="col4">
+                            <al>*</al>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody valign="top">
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>1</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Woonfunctie</al>
+                          </entry>
+                          <entry align="center" colname="col4" rotate="0" morerows="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>2</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Bijeenkomstfunctie</al>
+                          </entry>
+                          <entry align="center" valign="top" colname="col4" rotate="0" morerows="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>3</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Celfunctie</al>
+                          </entry>
+                          <entry align="center" colname="col4" rotate="0" morerows="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>4</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Gezondheidszorgfunctie</al>
+                          </entry>
+                          <entry align="center" colname="col4" rotate="0" morerows="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>5</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Industriefunctie</al>
+                          </entry>
+                          <entry align="center" valign="top" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>6</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Kantoorfunctie</al>
+                          </entry>
+                          <entry align="center" valign="top" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>7</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Logiesfunctie</al>
+                          </entry>
+                          <entry align="center" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>8</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Onderwijsfunctie</al>
+                          </entry>
+                          <entry align="center" valign="top" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>9</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Sportfunctie</al>
+                          </entry>
+                          <entry align="center" valign="top" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>10</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Winkelfunctie</al>
+                          </entry>
+                          <entry valign="top" align="center" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>11</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Overige
+gebruiksfunctie</al>
+                          </entry>
+                          <entry align="center" colname="col4" morerows="0" rotate="0">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="right" morerows="0" rotate="0" valign="top">
+                            <al>12</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top" namest="col2" nameend="col3">
+                            <al>Bouwwerk
+geen gebouw zijnde</al>
+                          </entry>
+                          <entry valign="top" align="center" colname="col4" morerows="0" rotate="0"></entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="center" morerows="0" rotate="0" valign="top"></entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top">
+                            <al>a</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top">
+                            <al>wegtunnel
+met een tunnellengte van meer dan 250 m</al>
+                          </entry>
+                          <entry align="center" morerows="0" rotate="0" valign="top" colname="col4">
+                            <al>*</al>
+                          </entry>
+                        </row>
+                        <row valign="top">
+                          <entry align="center" morerows="0" rotate="0" valign="top"></entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top">
+                            <al>b</al>
+                          </entry>
+                          <entry align="left" morerows="0" rotate="0" valign="top">
+                            <al>ander
+bouwwerk geen gebouw zijnde</al>
+                          </entry>
+                          <entry align="center" morerows="0" rotate="0" valign="top" colname="col4">
+                            <al>–</al>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                  </table>
+                </lid>
+              </art>
+              <art>
+                <kop>
+                  <nr>Artikel 2.219</nr>
+                </kop>
+                <al>Bij ministeriële regeling worden nadere voorschriften met
+betrekking tot de veiligheid van wegtunnels
+gegeven.</al>
+              </art>
+            </par>
+          </afd>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>C</nr>
+        </kop>
+        <al>Aan artikel 7.1 wordt een lid toegevoegd,
+luidende:</al>
+        <arttkst>
+          <lid>
+            <nr>3.</nr>
+            <al>In
+afwijking van het tweede lid gelden de artikelen 2.216 en 2.217 tevens
+voor een aanvraag om bouwvergunning voor een wegtunnel in het
+trans-Europese wegennet met een lengte van meer dan 500 m, waarvan de
+aanvraag om bouwvergunning als bedoeld in artikel 40, eerste lid, van
+de Woningwet is ingediend en de bouwvergunning niet is verleend op het
+tijdstip waarop de artikelen 2.216 en 2.217 in werking
+treden.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+    </wart>
+    <art>
+      <kop>
+        <nr>ARTIKEL II</nr>
+      </kop>
+      <al>Voor wegtunnels die zijn
+opengesteld voor het tijdstip van inwerkingtreding van dit besluit
+blijven de artikelen 2.218 en 2.219 van het Bouwbesluit 2003 en de
+daarop rustende bepalingen tot 1 mei 2014 buiten
+beschouwing.</al>
+    </art>
+    <art>
+      <kop>
+        <nr>ARTIKEL III</nr>
+      </kop>
+      <al>Dit besluit treedt in
+werking op een bij koninklijk besluit te bepalen
+tijdstip.</al>
+    </art>
+  </body>
+  <backm>
+    <nawerk>
+      <slotform>Lasten en bevelen dat dit besluit met de daarbij behorende nota van
+toelichting in het Staatsblad zal worden geplaatst.</slotform>
+      <histnoot>
+        <al>Het advies van de Raad
+van State wordt niet openbaar gemaakt op grond van artikel 25a, vijfde
+lid j° vierde lid, onder b van de Wet op de Raad van State,
+omdat het uitsluitend opmerkingen van redactionele aard
+bevat.</al>
+      </histnoot>
+      <ondertek>
+        <ondplts>’s-Gravenhage, </ondplts>
+        <onddatum>10
+maart
+2006</onddatum>
+        <koning>Beatrix</koning>
+        <minister>
+          <minvan>De
+Minister van
+Volkshuisvesting, Ruimtelijke Ordening en
+Milieubeheer, </minvan>
+          <naam>S.
+M. Dekker</naam>
+        </minister>
+      </ondertek>
+      <uitgifte>
+        <uitgifte-regel>Uitgegeven de <nadruk type="cur">eenentwintigste</nadruk> maart 2006</uitgifte-regel>
+        <uitdag>eenentwintigste</uitdag>
+        <uitmaand>maart</uitmaand>
+        <uitjaar>2006</uitjaar>
+        <door>
+          <minvan>De Minister van
+Justitie, </minvan>
+          <naam>J.
+P.
+H. Donner</naam>
+        </door>
+      </uitgifte>
+    </nawerk>
+    <notatoe>
+      <kop>
+        <titel status="off">NOTA VAN TOELICHTING</titel>
+      </kop>
+      <tuskop letat="vet">Algemeen</tuskop>
+      <tuskop letat="cur">1.
+Inleiding</tuskop>
+      <al>Deze wijziging van het Bouwbesluit
+2003 is ter implementatie van richtlijn 2004/54/EG van het Europees
+parlement en de raad van 29 april 2004 inzake minimum
+veiligheidseisen voor tunnels in het trans-Europese wegennet.</al>
+      <al>Artikel 1.1 van deze richtlijn stelt: «Deze richtlijn beoogt
+een minimaal veiligheidsniveau te verzekeren voor weggebruikers in
+tunnels van het trans-Europese wegennet door preventie van kritische
+gebeurtenissen die mensenlevens, milieu en tunnelinstallaties in gevaar
+kunnen brengen, en door bescherming te bieden bij ongevallen».
+Deze richtlijn is van toepassing op alle tunnels gelegen in het
+trans-Europese wegennet met een lengte van meer dan 500 m, ongeacht of
+deze in gebruik, in aanbouw, dan wel in de ontwerpfase zijn. De
+implementatietermijn verstrijkt op 30 april 2006.</al>
+      <al>Implementatie van deze richtlijn vindt onder meer plaats door het
+stellen van regels met betrekking tot de veiligheid van voor het
+wegverkeer toegankelijke tunnels in de Wet aanvullende regels
+veiligheid wegtunnels (Kamerstukken II 2004/2005, 30 209, nr. 2), het
+Besluit aanvullende regels veiligheid wegtunnels (Barvw) en een daarop
+gebaseerde regeling. In het Barvw zijn met name de voorschriften voor
+een veilig gebruik van wegtunnels opgenomen. De noodzakelijke
+bouwtechnische voorschriften zijn opgenomen in een op dit
+wijzigingsbesluit gebaseerde wijziging van de Regeling Bouwbesluit
+2003.</al>
+      <al>De bijgevoegde transponeringstabel biedt een overzicht
+van de artikelen van deze richtlijn en de implementatie daarvan,
+voorzover nodig, in de Nederlandse regelgeving.</al>
+      <al>Reden om de
+noodzakelijke bouwtechnische wijzigingen als gevolg van implementatie
+van deze richtlijn niet in de regelgeving inzake de tunnelveiligheid op
+te nemen ligt in het voorschrift van artikel 2 van de Woningwet. Op
+grond van artikel 2 van de Woningwet worden alle bouwtechnische
+voorschriften opgenomen in het Bouwbesluit 2003 en in de daarop
+gebaseerde Regeling Bouwbesluit 2003.</al>
+      <al>In het systeem van het
+Bouwbesluit 2003 vallen tunnels of tunnelvormige bouwwerken onder de
+gebruiksfunctie «Bouwwerk geen gebouw zijnde». Tot de
+inwerkingtreding van dit wijzigingsbesluit gelden voor deze
+gebruiksfunctie geen voorschriften die specifiek op langere wegtunnels
+zijn gericht. In dit wijzigingsbesluit is een nieuwe afdeling 2.26
+Tunnelveiligheid opgenomen. In deze afdeling is een paragraaf voor
+nieuwbouw en een paragraaf voor bestaande bouw opgenomen.
+Overeenkomstig het systeem van het Bouwbesluit 2003 geeft het eerste
+lid van het eerste artikel de functionele eis. Waarna de tabel van het
+tweede lid voor de gebruiksfunctie wegtunnel met een tunnellengte van
+meer dan 250 meter aanwijst welke voorschriften van toepassing zijn. In
+dit specifieke geval is ervoor gekozen zoveel mogelijk voorschriften in
+een specifiek hoofdstuk in de Regeling Bouwbesluit 2003 op te nemen. Op
+deze wijze wordt de toegankelijkheid voor zowel de reguliere gebruiker
+van het Bouwbesluit 2003 als voor de opdrachtgevers voor tunnels zo
+goed mogelijk gediend.</al>
+      <al>Hoewel het hierboven
+genoemde wetsvoorstel zich in beginsel beperkt tot implementatie van de
+richtlijn, gaat het wetsvoorstel op een beperkt aantal onderdelen iets
+verder. Ditzelfde geldt derhalve voor het Besluit aanvullende regels
+veiligheid wegtunnels en voor dit wijzigingsbesluit. Voorzover hier van
+belang: de richtlijn heeft betrekking op tunnels in het trans-Europese
+wegennet langer dan 500 m. In dit wijzigingsbesluit is in lijn met het
+bovengenoemde wetsvoorstel echter uitgegaan van voorschriften voor alle
+wegtunnels met een tunnellengte van meer dan 250 m. Voor een nadere
+toelichting hierop wordt verwezen naar overweging 25 van de richtlijn
+die de lidstaten aanspoort vergelijkbare veiligheidsniveaus toe te
+passen voor wegtunnels op hun grondgebied die geen deel uitmaken van
+het trans-Europese wegennet.</al>
+      <al>Voor een onderbouwing van de
+keuze voor een tunnellengte van 250 m in plaats van 500 m wordt ook
+verwezen naar de op 8 juli 2005 aan de Tweede Kamer aangeboden
+Beleidsvisie Tunnelveiligheid deel B (Kamerstukken II, 2004/2005, 29
+296, nr. 3). In deze beleidsvisie wordt uitgegaan van het in Nederland
+bestaande veiligheidsniveau van tunnels. De conclusie hierbij is dat
+het, om aan dit veiligheidsniveau te blijven voldoen, noodzakelijk is
+het in deze wijziging van het Bouwbesluit 2003 opgenomen
+veiligheidsniveau van toepassing te verklaren op tunnels met een lengte
+vanaf 250 m.</al>
+      <tuskop letat="cur">2.
+Gevolgde procedure en inspraak</tuskop>
+      <al>Dit
+ontwerp-wijzigingsbesluit is voorbereid met het Ministerie van
+Binnenlandse Zaken en Koninkrijksrelaties (BZK) en met het Ministerie
+van Verkeer en Waterstaat. Voorts is het ontwerpbesluit besproken in
+het Interdepartementaal Overleg Bouwregelgeving (IOB), de Juridisch
+Technische Commissie (JTC) en het Overlegplatform Bouwregelgeving
+(OPB).</al>
+      <tuskop letat="cur">3.
+Toetsing administratieve lasten</tuskop>
+      <al>Het
+onderhavige besluit is niet voorgelegd aan het Adviescollege toetsing
+administratieve lasten (Actal). Zoals Actal bij de behandeling van het
+Wetsvoorstel aanvullende regels wegtunnels heeft vastgesteld, is ook
+bij het onderhavige besluit geen sprake van administratieve lasten voor
+burgers of voor het bedrijfsleven.</al>
+      <tuskop letat="cur">4.
+Bedrijfseffecten</tuskop>
+      <al>De kosten voor de
+implementatie van de richtlijn in dit besluit en de hierop gebaseerde
+wijziging van de Regeling Bouwbesluit 2003 zijn relatief gering. Voor
+de periode tot 1 mei 2014, het moment dat alle bestaande tunnels
+ook aan de voorschriften van de richtlijn moeten voldoen, zijn deze
+kosten begroot op circa 5.1 miljoen euro voor rijktunnels en circa twee
+miljoen euro voor gemeentelijke tunnels (Beleidsvisie Tunnelveiligheid
+deel B).</al>
+      <tuskop letat="vet">Artikelsgewijs</tuskop>
+      <tuskop letat="cur">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel
+A</tuskop>
+      <al>Het is nodig een aantal nieuwe
+begripsbepalingen op te nemen in artikel 1.1, eerste lid, van het
+Bouwbesluit 2003. In de definitie van brandcompartiment is gebouwen
+vervangen door bouwwerken. Hiermee is deze definitie ook van toepassing
+op tunnels.</al>
+      <al>Voorts zijn drie definities
+opgenomen die noodzakelijk zijn om eenduidig vast te leggen welke
+voorschriften van het Bouwbesluit 2003 en op welke wijze voor
+wegtunnels van toepassing zijn. Het gaat om de begripsbepalingen
+richtlijn tunnelveiligheid, tunnellengte en wegtunnel. De belangrijkste
+begripsbepaling is wegtunnel; tunnel of tunnelvormig bouwwerk
+uitsluitend dan wel mede bestemd voor motorrijtuigen als bedoeld in
+artikel 1, eerste lid, onder c, van de Wegenverkeerswet 1994. Hiermee
+is zekergesteld dat de voorschriften voor wegtunnels in het Bouwbesluit
+2003 uitsluitend betrekking hebben op tunnels voor auto- en
+vrachtverkeer over de weg.</al>
+      <al>De begripsbepaling tunnellengte is
+noodzakelijk om eenduidig vast te kunnen stellen of een wegtunnel wel
+of niet onder deze voorschriften valt. Het komt er op neer dat de
+lengte van het omsloten gedeelte van de langste tunnelbuis waarin een
+rijbaan is gelegen bepalend is.</al>
+      <al>Bij het bepalen van de
+tunnellengte wordt uitgegaan van het «omsloten» gedeelte
+van de tunnel. Het Bouwbesluit 2003 geeft geen definitie van
+«omsloten». In beginsel zal het omsloten gedeelte van de
+tunnel zich uitstrekken van tunnelmond tot tunnelmond. Het omsloten
+gedeelte kan echter achter de tunnelmond beginnen, bijvoorbeeld indien
+er zich in het tunneldak of de tunnelwand voldoende grote openingen
+bevinden om de bij een brand ontstane rook en hitte in voldoende mate
+af te voeren. Wanneer sprake is van een «omsloten
+gedeelte» is in het kader van de aanvraag om bouwvergunning
+uiteindelijk ter beoordeling van de gemeente.</al>
+      <al>Opgemerkt wordt dat de in dit besluit opgenomen definitie van
+tunnellengte niet letterlijk is overgenomen uit de richtlijn. Zoals
+hierboven is toegelicht gaat het hier om het volledig omsloten gedeelte
+en niet om het zoals in de Nederlandse versie van de richtlijn
+opgenomen «volledig gesloten» gedeelte. Kenmerkend voor
+een wegtunnel is ten slotte dat deze aan de tunnelmonden open is. Een
+tweede punt is, dat in dit besluit wordt uitgegaan van rijbaan in
+plaats van rijstrook omdat de indeling in rijstroken een niet
+bouwkundige voorziening is en een rijbaan wel. Met de in dit besluit
+opgenomen definitie van tunnellengte wordt geen inhoudelijke wijziging
+aangebracht in de reikwijdte van de oorspronkelijke definitie, er wordt
+derhalve volledig recht gedaan aan de doelstellingen van de
+richtlijn.</al>
+      <tuskop letat="cur">Onderdeel
+B</tuskop>
+      <al>Aan hoofdstuk 2 van het Bouwbesluit 2003
+wordt een afdeling 2.26 Tunnelveiligheid toegevoegd, bestaande uit een
+paragraaf voor nieuwbouw en een paragraaf voor bestaande bouw.</al>
+      <tuskop letat="cur">§ 2.26.1 Nieuwbouw</tuskop>
+      <tuskop letat="cur">Artikel
+2.216</tuskop>
+      <al>De functionele eis in het eerste lid
+van artikel 2.216 luidt dat een te bouwen bouwwerk weggebruikers een
+adequaat veiligheidsniveau biedt. In de in het tweede lid bedoelde
+tabel is voor de gebruiksfunctie bouwwerk geen gebouw zijnde, een
+wegtunnel met een tunnellengte van meer dan 250 m, aangegeven dat aan
+de functionele eis van het eerste lid is voldaan door te voldoen aan
+artikel 2.217.</al>
+      <al>Onder een adequaat veiligheidsniveau wordt
+verstaan een veiligheidsniveau dat zowel voldoet aan de richtlijn
+tunnelveiligheid als aan het in Nederland reeds in de praktijk
+gebruikelijke veiligheidsniveau, voorzover dat uitgaat boven de
+richtlijn. Concreet betekent dit dat de voorschriften zowel gelden voor
+tunnels langer dan 250 m, als voor tunnels die geen deel uitmaken van
+het trans-Europese wegennet, en dat onder omstandigheden een hoger
+veiligheidsniveau dan in de richtlijn wordt
+voorgeschreven.</al>
+      <tuskop letat="cur">Artikel 2.217</tuskop>
+      <al>In artikel 2.217 is bepaald dat bij ministeriële
+regeling nadere voorschriften met betrekking tot de veiligheid van
+wegtunnels kunnen worden gegeven. Op grond van dit artikel wordt de
+Regeling Bouwbesluit 2003 gewijzigd. In een nieuw hoofdstuk 5 worden
+veiligheidseisen voor wegtunnels opgenomen. Er worden met name
+voorschriften gegeven
+omtrent:</al>
+      <al>– sterkte bij brand;</al>
+      <al>– overbrugging van
+hoogteverschillen;</al>
+      <al>– trap;</al>
+      <al>– elektriciteits- en
+noodstroomvoorziening;</al>
+      <al>– verlichting;</al>
+      <al>– beperking van uitbreiding van
+brand;</al>
+      <al>– beperking van
+verspreiding van rook;</al>
+      <al>– vluchten binnen een rookcompartiment en
+subbrandcompartiment;</al>
+      <al>– vluchtroutes;</al>
+      <al>– inrichting van rookvrije
+vluchtroutes;</al>
+      <al>– voorkoming en
+beperking van ongevallen bij brand;</al>
+      <al>– bestrijding van brand;</al>
+      <al>– luchtverversing van overige
+ruimten;</al>
+      <al>– meterruimte;</al>
+      <al>– inrichtingseisen.</al>
+      <al>Voorts gelden de niet in de wijziging van de Regeling Bouwbesluit
+2003 aangestuurde voorschriften van de gebruiksfunctie bouwwerk geen
+gebouw zijnde uit het Bouwbesluit 2003.</al>
+      <tuskop letat="cur">§ 2.26.2 Bestaande
+bouw.</tuskop>
+      <al>Zie de toelichtingen op de artikelen
+van paragraaf 2.26.1 Nieuwbouw.</al>
+      <tuskop letat="cur">Onderdeel C</tuskop>
+      <al>Aan
+artikel 7.1 wordt een derde lid toegevoegd met daarin een specifieke
+overgangsbepaling voor tunnels. Het gestelde in de artikelen 2.216 en
+2.217 van dit besluit is voor te bouwen wegtunnels in het
+trans-Europese wegennet met een lengte van meer dan 500 m ook van
+toepassing op wegtunnels waarvan de aanvraag om bouwvergunning is
+ingediend voor de inwerkingtreding van dit besluit en de bouwvergunning
+is verleend na de inwerkingtreding van dit besluit. Dit wijkt af van
+het algemene uitgangspunt van het Bouwbesluit 2003 (artikel 7.1, eerste
+en tweede lid) dat de bepalingen van toepassing zijn die golden op het
+tijdstip van de aanvraag van de
+bouwvergunning.</al>
+      <tuskop letat="cur">Artikel II</tuskop>
+      <al>Omdat het redelijkerwijs niet mogelijk is, bij de
+inwerkingtreding van dit besluit, alle bestaande wegtunnels direct te
+laten voldoen, is hiervoor overeenkomstig de richtlijn ook een
+overgangsbepaling opgenomen. Bestaande wegtunnels behoeven pas op
+1 mei 2014 aan de artikelen 2.218 en 2.219 van het Bouwbesluit
+2003 en aan de wijziging van de Regeling Bouwbesluit 2003 te voldoen.
+In de richtlijn is opgenomen dat Nederland voor 1 mei 2007 een
+verslag bij de Europese Commissie moet indienen waaruit blijkt welke
+maatregelen gepland zijn om alle bestaande wegtunnels op 1 mei
+2014 aan deze voorschriften te laten voldoen. Op deze wijze kunnen de
+eventueel noodzakelijke wijzigingen aan bestaande tunnels goed worden
+voorbereid.</al>
+      <tuskop letat="cur">Artikel
+III</tuskop>
+      <al>Deze wijziging van het Bouwbesluit 2003
+treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+Hierbij wordt rekening gehouden met het voorschrift van artikel 2,
+achtste lid, van de Woningwet, dat het besluit eerst twee maanden na
+publicatie in het Staatsblad in werking kan
+treden.</al>
+      <al>Het streven is gericht op
+inwerkingtreding gelijktijdig met de inwerkingtreding van de overige
+regelgeving ter implementatie van de richtlijn tunnelveiligheid, op
+1 mei 2006, het moment van verstrijken van de
+implementatietermijn van de richtlijn.</al>
+      <minister>
+        <minvan>De Minister van
+Volkshuisvesting, Ruimtelijke Ordening en
+Milieubeheer, </minvan>
+        <naam>S.
+M. Dekker</naam>
+      </minister>
+    </notatoe>
+    <bijlage>
+      <kop>
+        <titel status="off">Transponeringstabel</titel>
+      </kop>
+      <table tabstyle="xml2">
+        <tgroup align="left" char="" charoff="50" cols="2">
+          <colspec colname="col1" colnum="1" colwidth="55.5*"></colspec>
+          <colspec colname="col2" colnum="2" colwidth="57*"></colspec>
+          <thead valign="bottom">
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Richtlijn</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Geïmplementeerd
+in:</al>
+              </entry>
+            </row>
+          </thead>
+          <tbody valign="top">
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+1, eerste
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+1, tweede
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+aanvullende regels veiligheid wegtunnels (wet) art. 2, eerste
+lid</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+2, eerste
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie; wetsvoorstel maakt geen onderscheid, dus term
+«trans-Europees wegennet» wordt niet in de wet
+gebruikt</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+2, tweede
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 1, onderdeel d</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+2, derde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 2, eerste lid,</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+3, eerste
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+3, tweede
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bouwbesluit
+2003, art. 15</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+3, derde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+4, eerste en tweede
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 1, onderdeel c</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+4, derde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 4</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+4, vierde lid (zie bijl
+II)</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 8, aanhef en onderdeel a</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+4, vijfde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Gemeentewet
+art. 125 (bevoegdheid toepassen
+bestuursdwang/dwangsom)</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+4, zesde lid, onder
+a</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 11, tweede lid</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+4, zesde lid, onder
+b</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 7</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+4, zesde lid, onder
+c</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 7</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+4, zesde lid, onder
+d</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 7 en 8, eerste lid, aanhef en onderdeel b</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+4, zevende
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+5, eerste
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet.
+5, eerste en tweede lid</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+5, tweede
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 5, eerste lid</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+5, derde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+aanvullende regels veiligheid wegtunnels (regeling) art. 2, eerste lid,
+10, eerste lid,</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+5, vierde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 10, tweede lid,</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+6, eerste
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 5, eerste en derde lid</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+6, tweede lid, onder a, tweede deel, en
+c</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 7</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+6, tweede lid, onder
+b</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 10, vierde lid</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+6, tweede lid, onder
+d</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 11, eerste lid,</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+6, tweede lid, onder
+e</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 8, tweede lid, onder d,</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+6, tweede lid, onder
+f</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 9</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+6, tweede lid, onder
+g</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 10, derde lid,</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+10, eerste
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 16</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+10, tweede
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 17</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+10, derde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 8, aanhef en onderdeel a</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+11, eerste
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 18, eerste lid</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+11, tweede, derde en vierde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 18, eerste lid, 6, 7 en 8, eerste lid, aanhef en onderdeel
+a</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+11, vijfde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+11, zesde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 18, tweede lid</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+11, zevende
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+12, eerste
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 11, tweede lid</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+12, tweede
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 11, tweede lid</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+12, derde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 11, tweede en derde lid, art. 125 Gemeentewet</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+12, vierde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 7 en 8, eerste lid, aanhef en onderdeel a</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+13, eerste
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 6, eerste en derde lid</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+13, tweede
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 4</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+13, derde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+14, eerste
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Woningwet,
+art. 7</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+14, tweede
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Woningwet,
+art. 7</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+14, derde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+14, vierde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Woningwet,
+art. 7</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+14, vijfde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 12</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+14, zesde
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+14, zevende
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+15, eerste
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+15, tweede
+lid</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+16</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+17</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+18</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+19</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Art.
+20</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdelen 1 en
+2</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 6, derde lid en amvb’s (aldus m.v.t.; zie hieronder de
+implementatie van <nadruk type="cur">onderdelen</nadruk> van
+Bijlage I)</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+1.1</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 6, tweede lid</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+1, onderdeel
+1.2</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie (er wordt niet ten ongunste
+afgeweken)</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+1.3</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 6, tweede lid, en Regeling art. 4</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.2</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+Bouwbesluit 2003, hfdst. 5</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.3</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+Bouwbesluit 2003, hfdst. 5</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.4</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+Bouwbesluit 2003, hfdst. 5</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.6</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+Bouwbesluit 2003, hfdst. 5</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.7</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+Bouwbesluit 2003, hfdst. 5</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.8</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+Bouwbesluit 2003, hfdst. 5</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.9</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+Bouwbesluit 2003, hfdst. 5</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.10</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Besluit
+aanvullende regels veiligheid wegtunnels (besluit) art.
+8</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.11</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Besluit
+art. 13</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.12</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Besluit
+art. 17</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdelen 2.13 en
+2.14</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Besluit
+art. 6 en 9</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.15</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Besluit
+art. 10 (reeds geregeld door middel van bijlage 1 bij het RVV 1990 en
+de art.en 34 en 35 van het Besluit administratieve bepalingen inzake
+het wegverkeer)</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.16</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Besluit
+art. 11</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.17</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Besluit
+art. 12</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.18</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+Bouwbesluit 2003, hfdst. 5</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+I, onderdeel
+2.19</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Behoeft
+geen implementatie</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+II, onderdeel
+2</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+Art. 7 en 10</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijl.
+II, onderdeel 2.1, tweede
+zin</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 12, derde lid</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijl.
+II, onderdeel 2.4, eerste
+streepje</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 6, tweede lid, onder a</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijl.
+II, onderdeel 2.4, tweede
+streepje</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 6, tweede lid, onder b</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijl.
+II, onderdeel 2.4, derde
+streepje</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 6, tweede lid, onder c</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijl.
+II, onderdeel 2.5, eerste
+streepje</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 6, tweede lid, onder c</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijl.
+II, onderdeel 2.5, tweede
+streepje</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 12, eerste lid, onder c</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+II, onderdelen 3.1 en
+3.2</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 8, eerste lid, aanhef en onder a</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+II, onderdeel
+3.3</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 8, tweede lid, onder d</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+II, onderdeel
+3.4</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 6, eerste en tweede lid, 8, eerste lid, aanhef en onderdeel
+a</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+II, onderdeel
+4</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 6, 7 en 8, eerste lid, aanhef en onderdeel a</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijl.
+II, onderdeel
+5</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wet
+art. 9 en Regeling art. 11</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+III, onderdeel 1.1, derde streepje,
+hoogtematen</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Besluit
+art. 6, eerste lid, onder b</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+III, onderdelen 1.1 en 1.3,
+borden</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+1 bij het RVV 1990, bord</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijl.
+III, onderdeel 2.1, tunnelbord, en 2.3, borden vluchthaven en
+nooduitgangen</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Regeling
+art. 13</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+III, onderdeel 2.1,
+Tunnelbord</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>RVV
+1990, Bijlage 1, bord</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+III, onderdeel 2.2, Horizontale
+verkeerstekens</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Reeds
+geregeld in art. 76 RVV 1990 jo hoofdstuk IV, paragraaf 1 en paragraaf
+2, onderdeel 4, van het Uitvoeringsbesluit BABW inzake
+verkeerstekens</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+III, onderdeel 2.3, onderdeel Borden, tekens en panelen voor het
+signaleren van voorzieningen, onderdeel
+Noodtelefoon</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>RVV
+1990, Bijlage 1, bord</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+III, onderdeel 2.3, onderdeel Borden, tekens en panelen voor het
+signaleren van voorzieningen, onderdeel
+Brandblusapparaat</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>RVV
+1990, Bijlage 1, bord</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+III, onderdeel 2.3, onderdeel Borden of tekens per
+rijstrook</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Reeds
+geregeld door middel van art. 73 RVV 1990</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+III, onderdeel 2.3, onderdeel Borden, tekens en panelen voor het
+signaleren van voorzieningen, onderdeel
+Vluchthavens</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>RVV
+1990, Bijlage 1, borden</al>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Bijlage
+III, onderdeel 2.3, onderdeel Borden, tekens en panelen voor het
+signaleren van voorzieningen, onderdeel
+Nooduitgangen</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>RVV
+1990, Bijlage 1, borden</al>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </bijlage>
+  </backm>
+</staatsbl>

@@ -1,0 +1,1152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE officiele-publicatie PUBLIC "-//Overheid//Officiele publicaties 1.0//NL" "http://standaarden.overheid.nl/op/dtd/offpublicatie.dtd"[]>
+<officiele-publicatie>
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2010-728/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel status="officieel">Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 22 oktober 2010, houdende wijziging van het Bouwbesluit 2003 (aanscherping energieprestatiecoëfficiënt voor tot bewoning bestemde gebouwen)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op de voordracht van Onze Minister voor Wonen, Wijken en Integratie van 8 juli 2010, nr. BJZ2010018766, Directie Bestuurlijke en Juridische Zaken;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel 2 van de Woningwet;</considerans.al>
+          <considerans.al bevat="gehoord">De Raad van State gehoord (advies van 28 juli 2010, nr. W08.10.0291/IV);</considerans.al>
+          <considerans.al bevat="gezien">Gezien het nader rapport van Onze Minister voor Wonen, Wijken en Integratie van 13 oktober 2010, nr. BJZ2010027724, Directie Bestuurlijke en Juridische Zaken;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">Het Bouwbesluit 2003 wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 1.1 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <wat>Na de definitie van «noodtrap» wordt een definitie ingevoegd, luidende:</wat>
+              <artikeltekst>
+                <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                  <definitie-item>
+                    <term>NVN:</term>
+                    <definitie>
+                      <al>door de Stichting Nederlands Normalisatie Instituut uitgegeven voornorm;.</al>
+                    </definitie>
+                  </definitie-item>
+                </definitielijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>De na artikel 5.11 opgenomen tabel wordt vervangen door:</wat>
+            <wijziging>
+              <artikeltekst>
+                <table tabstyle="xml3" frame="sides" pgwide="1" rowsep="0" colsep="0">
+                  <title>Tabel 5.11</title>
+                  <tgroup tgroupstyle="xml3" cols="11" char="" charoff="50" align="left">
+                    <colspec colname="col1" colnum="1" colwidth="5*" />
+                    <colspec colname="col2" colnum="2" colwidth="3*" />
+                    <colspec colname="col3" colnum="3" colwidth="53.5*" />
+                    <colspec colname="col4" colnum="4" colwidth="5*" />
+                    <colspec colname="col5" colnum="5" colwidth="5*" />
+                    <colspec colname="col6" colnum="6" colwidth="5*" />
+                    <colspec colname="col7" colnum="7" colwidth="5*" />
+                    <colspec colname="col8" colnum="8" colwidth="5*" />
+                    <colspec colname="col9" colnum="9" colwidth="5*" />
+                    <colspec colname="col10" colnum="10" colwidth="5*" />
+                    <colspec colname="col11" colnum="11" colwidth="16*" />
+                    <?xpp setctr;right?>
+                    <?xpp tblwidth;112.5m?>
+                    <thead valign="top">
+                      <row rowsep="1">
+                        <entry align="center" morerows="0" rotate="0" valign="top" nameend="col3" namest="col1" colsep="1">
+                          <al>gebruiksfunctie</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colsep="1" namest="col4" nameend="col10">
+                          <al>leden van toepassing</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colsep="1" colname="col11" morerows="0">
+                          <al>grenswaarde</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" morerows="0" rotate="0" valign="top" rowsep="0" colsep="0"></entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top" rowsep="0" colsep="0" />
+                        <entry align="left" morerows="0" rotate="0" valign="top" colsep="1" rowsep="0" />
+                        <entry align="left" morerows="0" rotate="cc90" valign="top" rowsep="1" colsep="1" namest="col4" nameend="col6">
+                          <al>energieprestatiecoëfficiënt</al>
+                        </entry>
+                        <entry align="left" rotate="cc90" valign="top" rowsep="1" colsep="1" colname="col7" nameend="col8" namest="col7" morerows="0">
+                          <al>bepalingsmethode</al>
+                        </entry>
+                        <entry align="left" rotate="cc90" valign="top" rowsep="1" colsep="1" colname="col8" morerows="0" />
+                        <entry align="left" rotate="cc90" valign="top" rowsep="1" colsep="1" namest="col9" nameend="col10" morerows="0">
+                          <al>verbouw</al>
+                        </entry>
+                        <entry align="center" rotate="cc90" valign="middle" rowsep="1" colsep="1" colname="col11" morerows="0">
+                          <al>energieprestatiecoëfficiënt</al>
+                        </entry>
+                      </row>
+                      <row valign="top">
+                        <entry align="right" morerows="0" rotate="0" valign="top" rowsep="0" colsep="0" />
+                        <entry align="left" morerows="0" rotate="0" valign="top" rowsep="0" colsep="0" />
+                        <entry align="right" morerows="0" rotate="0" valign="top" colsep="1" rowsep="0">
+                          <al>artikel</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top" rowsep="1" colsep="1" namest="col4" nameend="col6">
+                          <al>5.12</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" rowsep="1" colsep="1" namest="col7" nameend="col8" morerows="0">
+                          <al>5.13</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" rowsep="1" colsep="1" namest="col9" nameend="col10" morerows="0">
+                          <al>5.14</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" rowsep="1" colsep="1" colname="col11" morerows="0">
+                          <al>5.12</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" morerows="0" rotate="0" valign="top" rowsep="0" colsep="0" />
+                        <entry align="left" morerows="0" rotate="0" valign="top" rowsep="0" colsep="0" />
+                        <entry align="right" morerows="0" rotate="0" valign="top" colsep="1" rowsep="0">
+                          <al>lid</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="1" rowsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col5" colsep="1" rowsep="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col6" colsep="1" rowsep="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="1" rowsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" rowsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col9" colsep="1" rowsep="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col10" colsep="1" rowsep="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" rowsep="0" morerows="0">
+                          <al>1 + 2</al>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody valign="top">
+                      <row rowsep="0">
+                        <entry align="right" rotate="0" valign="top" colsep="0" colname="col1" morerows="0" />
+                        <entry align="left" rotate="0" valign="top" nameend="col3" namest="col2" colsep="1" morerows="0" />
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0" />
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0" />
+                        <entry align="left" rotate="0" valign="top" colname="col6" colsep="1" morerows="0" />
+                        <entry align="left" rotate="0" valign="top" colname="col7" colsep="0" morerows="0" />
+                        <entry align="left" rotate="0" valign="top" colname="col8" colsep="1" morerows="0" />
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0" />
+                        <entry align="left" rotate="0" valign="top" colname="col10" colsep="1" morerows="0" />
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>[–]</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" morerows="0" rotate="0" valign="top" colsep="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top" nameend="col3" namest="col2" colsep="1">
+                          <al>Woonfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0"></entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col5" colsep="0" />
+                        <entry align="left" morerows="0" rotate="0" valign="top" colname="col6" colsep="1" />
+                        <entry align="left" rotate="0" valign="top" colname="col7" colsep="0" morerows="0" />
+                        <entry align="left" rotate="0" valign="top" colname="col8" colsep="1" morerows="0" />
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col9" colsep="0" />
+                        <entry align="left" morerows="0" rotate="0" valign="top" colname="col10" colsep="1" />
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0"></entry>
+                      </row>
+                      <row>
+                        <entry align="right" morerows="0" rotate="0" valign="top" colsep="0" />
+                        <entry align="left" morerows="0" rotate="0" valign="top" colsep="0">
+                          <al>a</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top" colsep="1">
+                          <al>woonfunctie van een woonwagen</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col5" colsep="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col6" colsep="1">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col9" colsep="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" morerows="0" rotate="0" valign="top" colname="col10" colsep="1">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>1,3</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>b</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" morerows="0">
+                          <al>woonfunctie gelegen in een woongebouw</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>0,6</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>c</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" morerows="0">
+                          <al>andere woonfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>0,6</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Bijeenkomstfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Celfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0" />
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0" />
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0"></entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0" />
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>a</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>celfunctie niet gelegen in een cellengebouw</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>1,8</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0" />
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>b</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>celfunctie gelegen in een cellengebouw</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>1,8</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>4</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Gezondheidszorgfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0" />
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0" />
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0"></entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0" />
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>a</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>gezondheidszorgfunctie voor aan bed gebonden patiënten</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>2,6</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0" />
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>b</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>andere gezondheidszorgfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>1</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>5</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Industriefunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>6</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Kantoorfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>1,1</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>7</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Logiesfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0" />
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0" />
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0"></entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0"></entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>a</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>onverwarmde logiesfunctie niet gelegen in een logiesgebouw</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0"></entry>
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>b</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>verwarmde logiesfunctie niet gelegen in een logiesgebouw</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>1,4</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0" />
+                        <entry align="left" rotate="0" valign="top" colsep="0" colname="col2" morerows="0">
+                          <al>c</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" colname="col3" morerows="0">
+                          <al>logiesfunctie gelegen in een logiesgebouw</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>1,8</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>8</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Onderwijsfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>1,3</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>9</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Sportfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>1,8</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>10</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Winkelfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>3</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>1</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>2</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>2,6</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>11</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Overige gebruiksfunctie</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="right" rotate="0" valign="top" colsep="0" morerows="0">
+                          <al>12</al>
+                        </entry>
+                        <entry align="left" rotate="0" valign="top" colsep="1" namest="col2" nameend="col3" morerows="0">
+                          <al>Bouwwerk geen gebouw zijnde</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col4" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col5" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col6" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col7" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col8" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col9" colsep="0" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col10" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                        <entry align="center" rotate="0" valign="top" colname="col11" colsep="1" morerows="0">
+                          <al>–</al>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </table>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Afdeling 5.3 komt te luiden:</wat>
+            <wijziging>
+              <wijzig-divisie soort="afdeling" opmaak="default">
+                <kop>
+                  <label>Afdeling</label>
+                  <nr status="officieel">5.3.</nr>
+                  <titel status="officieel">Energieprestatie, nieuwbouw</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5.11</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Een te bouwen bouwwerk is voldoende energiezuinig.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Voor zover voor een gebruiksfunctie in tabel 5.11 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 5.11 geen voorschrift is aangewezen.</al>
+                    <plaatje>
+                      <illustratie kleur="nee" type="lijn" uitlijning="start" formaat="png" naam="stb-2010-728-001.png" breedte="113mm" hoogte="107mm" />
+                      <bijschrift locatie="boven">Tabel 5.11</bijschrift>
+                    </plaatje>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5.12</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Een gebruiksfunctie heeft een volgens NEN 7120 bepaalde energieprestatiecoëfficiënt van ten hoogste de in tabel 5.11 aangegeven waarde.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>In afwijking van het eerste lid, heeft een gebouw of een gedeelte daarvan dat op niet meer dan een perceel ligt, met meerdere gebruiksfuncties waarvoor volgens het eerste lid een energieprestatiecoëfficiënt geldt, een totaal volgens NEN 7120 bepaald karakteristiek energiegebruik dat niet hoger is dan het totale volgens NEN 7120 bepaalde toelaatbare energiegebruik. Bij het bepalen van het toelaatbare energiegebruik wordt per gebruiksfunctie uitgegaan van de in tabel 5.11 aangegeven waarde.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Indien bij toepassing van NEN 7120 gebruik wordt gemaakt van NVN 7125 dan is de waarde van de zonder NVN 7125 bepaalde energieprestatiecoëfficiënt ten hoogste 1,33 maal de in tabel 5.11 aangegeven waarde.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">5.13</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>Het bevoegd gezag wijkt bij een omgevingsvergunning die betrekking heeft op het geheel vernieuwen van een bouwwerk niet af van artikel 5.12.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Bij het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk is artikel 5.12 niet van toepassing. </al>
+                  </lid>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <al>Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <histnoot type="raad-van-state">
+          <al>Het advies van de Raad van State is openbaar gemaakt door terinzagelegging bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.</al>
+          <al>Tevens zal het advies met de daarbij ter inzage gelegde stukken worden opgenomen in de Staatscourant.</al>
+        </histnoot>
+        <gegeven>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2010-10-22">22 oktober 2010</datum>
+          </dagtekening>
+          <koning>Beatrix</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+          <naam>
+            <voornaam>J. P. H.</voornaam>
+            <achternaam>Donner</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2010-10-28">Uitgegeven de <nadruk type="cur">achtentwintigste</nadruk> oktober 2010</datum>
+          <ondertekening>
+            <functie>De Minister van Veiligheid en Justitie,</functie>
+            <naam>
+              <voornaam>I. W.</voornaam>
+              <achternaam>Opstelten</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+      <nota-toelichting>
+        <kop>
+          <titel status="officieel">NOTA VAN TOELICHTING</titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">I</nr>
+            <titel status="officieel">Algemeen</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">1.</nr>
+              <titel status="officieel">Inleiding</titel>
+            </kop>
+            <al-groep>
+              <al>Dit besluit strekt in eerste instantie tot wijziging van het Bouwbesluit 2003 inzake de aanscherping van de energieprestatiecoëfficiënt (hierna ook EPC) voor tot bewoning bestemde gebouwen.</al>
+              <al>Deze aanscherping van 0,8 tot 0,6 is voor het eerst in september 2007 aangekondigd in het werkprogramma «Nieuwe energie voor het klimaat» als onderdeel van het project Schoon en Zuinig. De aanscherping tot 0,6 en ook een verdere aanscherping die voorzien is voor 2015 zijn stappen om te komen tot een energieneutrale nieuwbouw in 2020 zoals beschre<?xpp afbm?>ven in het hiervoor genoemde werkprogramma en in de herziene richtlijn betreffende de energieprestatie van gebouwen (richtlijn 2010/31/EU van het Europees parlement en de Raad van 19 mei 2010). In het Algemeen Overleg inzake de bouwregelgeving van 11 mei 2010 is toegezegd de aanscherping van de EPC voor woningen naar 0,6 per 1 januari 2011 in werking te laten treden. Ook wordt met het onderhavige besluit een EPC voor nieuw te bouwen woonwagens ingevoerd. Deze EPC van 1,3 is gebaseerd op de resultaten van het rapport «Onderzoek mogelijkheden invoering EPC voor woonwagens», rapport E. 2000 6.0758.00.R001 van DGMR, 15 mei 2007.</al>
+              <al>In tweede instantie zal met dit besluit NEN 7120: Energieprestatie van gebouwen – Bepalingsmethode worden aangewezen. Deze nieuwe NEN-norm is dan van toepassing voor zowel woningbouw als utiliteits<?xpp afbm?>bouw en vervangt de tot dat moment aangewezen NEN 5128 en NEN 2916. In NEN 7120 zijn nieuwe technieken verwerkt zoals de micro-WKK (warmtekrachtkoppeling) en de lucht-warmtepomp. Ook biedt de norm voortaan de mogelijkheid om bij gebiedsgebonden maatregelen, zoals bijvoorbeeld stadsverwarming, te rekenen met het specifieke rendement in plaats van met vaste waarden. Ook is de nieuwe norm beter dan de eerder aangewezen normen afgestemd op Richtlijn 2002/91/EG van het Europees Parlement en de Raad van 16 december 2002 betreffende de energieprestatie van gebouwen (EPBD) en op de hierboven genoemde herschikking van die richtlijn.</al>
+              <al>Naar verwachting zal NEN 7120 kunnen worden aangewezen vanaf 1 juli 2011. Na vaststelling van de nieuwe norm zal in ieder geval rekening worden gehouden met een gewenningsperiode voor het bouwbedrijfsleven van ten minste drie maanden. Ten behoeve van de toepassing van de nieuwe norm zal voor de inwerkingtreding van de desbetreffende onderdelen van dit besluit rekensoftware ontwikkeld worden.</al>
+            </al-groep>
+            <al>De EPBD richt zich mede op het vaststellen van energieprestatie-eisen. Nederland heeft aan artikel 4, eerste lid, van de EPBD voldaan doordat in het Bouwbesluit 2003 (en daarvoor in het Bouwbesluit uit 1991) al sedert 1995 een energieprestatiecoëfficiënt is opgenomen. Met deze aanscher<?xpp afbm?>ping wordt de omzetting van deze richtlijn op dat onderdeel voortaan op een hoger niveau ingevuld. Bovendien is hiermee voldaan aan de ver<?xpp afbm?>plichting uit de richtlijn om regelmatig en ten minste om de vijf jaar de hoogte van de eisen te toetsen en zo nodig aan de technische vooruitgang aan te passen.</al>
+            <al>De eisen voor energieprestatie zijn in overeenstemming met de EPBD gebaseerd op een door de lidstaat vast te stellen berekeningsmethodiek. Nederland hanteert hiervoor straks NEN 7120.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">2.</nr>
+              <titel status="officieel">Notificatie</titel>
+            </kop>
+            <al-groep>
+              <al>Het ontwerpbesluit is op 20 juli 2010 gemeld aan de Commissie van de Europese Gemeenschappen, notificatienummer 2010/0505/NL, ter voldoe<?xpp afbm?>ning aan artikel 8, eerste lid, van richtlijn nr. 98/34/EG van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEG L 204), zoals gewijzigd bij richtlijn nr. 98/48/EG van 20 juli 1998 (PbEG L 217).</al>
+              <al>Artikel I van dit wijzigingsbesluit bevat mogelijk technische voorschrif<?xpp afbm?>ten in de zin van deze richtlijn (notificatierichtlijn). De gelijkwaardigheidsbepaling staat in artikel 1.5 van het Bouwbesluit 2003.</al>
+              <al>Door de Commissie zijn geen opmerkingen gemaakt die leiden tot wijziging van dit besluit.</al>
+            </al-groep>
+            <al>Melding aan het Secretariaat van de Wereld Handelsorganisatie, ingevolge artikel 2, negende lid, van de op 15 april 1994 te Marrakech tot stand gekomen Overeenkomst inzake technische handelsbelemmeringen (<extref reeks="Trb" doc="trb-1994-235" status="actief">Trb. 1994, 235</extref>) heeft niet plaatsgevonden nu er in casu geen sprake is van significante gevolgen voor de handel.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">3.</nr>
+              <titel status="officieel">Gevolgde procedure en inspraak</titel>
+            </kop>
+            <al>Dit aanscherping van de EPC woningbouw is besproken in het Overlegplatform Bouwregelgeving (OPB) van 16 april 2010. Het OPB heeft deze aanscherping vervolgens opgenomen in zijn advies nr. 21.</al>
+            <al>Wat betreft het invoeren van de EPC voor woonwagens, wordt opgemerkt dat het hierboven genoemde rapport «Onderzoek mogelijkheden invoering EPC voor woonwagens» tezamen met een aantal andere onderzoeken ter voorbereiding van de integratie van het Bouwbesluit 2003 en het Besluit brandveilig gebruik bouwwerken in meer algemene zin is besproken in het OPB van 23 november 2007.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">4.</nr>
+              <titel status="officieel">Toetsing administratieve lasten</titel>
+            </kop>
+            <al>Dit ontwerpbesluit is niet voorgelegd aan het Adviescollege toetsing administratieve lasten. Dit besluit bevat met name een aanscherping van de reeds bestaande energieprestatiecoëfficiënt, er is op dit terrein dan ook geen sprake van nieuwe of extra administratieve lasten.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">5.</nr>
+              <titel status="officieel">Bedrijfs- en milieueffectentoets</titel>
+            </kop>
+            <al-groep>
+              <al>Aanscherping van de eisen voor woningbouw zal naar verwachting leiden tot een verdere toename in de toepassing van energiebesparende maatregelen.</al>
+              <al>Deze conclusie is gebaseerd op het onderzoek «Aanscherpingsstudie EPC-woningbouw 2011» (DGMR, rapport E.2009.0697.00.R003).</al>
+              <al>De daarbij gehanteerde criteria zijn dat de toegepaste maatregelpakketten om tot de aangescherpte eis te komen:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>niet leiden tot negatieve effecten op het binnenmilieu;</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>technisch kunnen voldoen in de bestaande bouwpraktijk;</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>niet strijdig zijn met het Bouwbesluit 2003;</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>niet bij voorbaat onrendabel zijn onder de verwachte economische omstandigheden, en</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>gebaseerd zijn op de markt verkrijgbare technieken.</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <al-groep>
+              <al>De effecten van de aanscherping zijn doorgerekend aan de hand van een aantal referentiewoningen, te weten een appartement, een galerijflat, een tussenwoning, een hoekwoning, een 2 onder 1 kap woning en een vrijstaande woning.</al>
+              <al>Deze berekeningen zijn uitgevoerd met combinaties van de volgende maatregelen:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Bouwkundige maatregelen;</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>•</li.nr>
+                      <al>verhoogde isolatie gevel</al>
+                    </li>
+                    <li>
+                      <li.nr>•</li.nr>
+                      <al>verhoogde isolatie dak</al>
+                    </li>
+                    <li>
+                      <li.nr>•</li.nr>
+                      <al>verhoogde isolatie begane grondvloer</al>
+                    </li>
+                    <li>
+                      <li.nr>•</li.nr>
+                      <al>verhoogde isolatie ramen</al>
+                    </li>
+                    <li>
+                      <li.nr>•</li.nr>
+                      <al>zonwering</al>
+                    </li>
+                  </lijst>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Installatietechnische maatregelen;</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>•</li.nr>
+                      <al>zonneboiler</al>
+                    </li>
+                    <li>
+                      <li.nr>•</li.nr>
+                      <al>verhoogd rendement CV-ketel</al>
+                    </li>
+                    <li>
+                      <li.nr>•</li.nr>
+                      <al>warmtepomp</al>
+                    </li>
+                    <li>
+                      <li.nr>•</li.nr>
+                      <al>energiezuinig ventilatiesysteem (warmteterugwinning, vraaggestuurde ventilatie, energiezuinige ventilatoren)</al>
+                    </li>
+                    <li>
+                      <li.nr>•</li.nr>
+                      <al>douchewaterwarmteterugwinning</al>
+                    </li>
+                    <li>
+                      <li.nr>•</li.nr>
+                      <al>zonnecollectoren</al>
+                    </li>
+                    <li>
+                      <li.nr>•</li.nr>
+                      <al>verhoogd tapwaterrendement</al>
+                    </li>
+                    <li>
+                      <li.nr>•</li.nr>
+                      <al>verlaging hulpenergie (pompen etc.).</al>
+                    </li>
+                  </lijst>
+                </li>
+              </lijst>
+            </al-groep>
+            <al-groep>
+              <al>Op basis van deze berekeningen is geconcludeerd dat voor iedere woonfunctie de aanscherping van 0,8 naar 0,6 technisch en economisch haalbaar is.</al>
+              <al>Met bekende maatregelpakketten en technieken (HR ketel, 3-dubbel glas, goede isolatie) kan de EPC 0,6-eis worden gehaald en blijft de ontwerpvrijheid intact.</al>
+              <al>Zelfs bij een conservatieve economische benadering, waarbij geen rekening is gehouden met gebiedsgerichte (en daarmee goedkopere) maatregelen, een verwachte prijsdaling van nu nog nieuwe maatregelen, een grote stijging van energietarieven en een positieve waardeontwikkeling van energiezuinige woningen, gaan de woonlasten voor de consument in een woning met een EPC van 0,6, bij gestandaardiseerd gebruik, omlaag.</al>
+            </al-groep>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <nr status="officieel">6.</nr>
+              <titel status="officieel">Voorlichting</titel>
+            </kop>
+            <al>De invoering van deze wijziging van het Bouwbesluit 2003 zal vooraf worden gegaan door voorlichtingsactiviteiten. Ook zal een doorlopende tekst van het Bouwbesluit 2003, waarin deze wijzigingen zijn verwerkt, alsmede een integrale versie van de toelichting via www.rijksoverheid.nl beschikbaar zijn.</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">II</nr>
+            <titel status="officieel">Artikelsgewijze toelichting</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Artikel I</titel>
+            </kop>
+            <divisie opmaak="default">
+              <kop>
+                <titel status="officieel">Onderdeel A</titel>
+              </kop>
+              <al>Een voornorm is vergelijkbaar met een gewone NEN norm en kan ook gewoon als norm worden gebruikt. Binnen een periode van drie jaar na vaststelling moet de normcommissie besluiten of de voornorm wordt omgezet in een gewone NEN norm.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <titel status="officieel">Onderdeel B</titel>
+              </kop>
+              <al>In deze nieuwe tabel is de energieprestatiecoëfficiënt voor woningen van 0,8 aangescherpt tot 0,6. Ook is in deze tabel een EPC van 1,3 voor nieuw te bouwen woonwagens opgenomen.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <titel status="officieel">Onderdeel C</titel>
+              </kop>
+              <al-groep>
+                <al>Met onderdeel C wordt afdeling 5.3 gewijzigd. In de nieuwe afdeling wordt NEN 7120 aangestuurd. Hoewel artikel 5.11 niet gewijzigd is, is er voor de duidelijkheid voor gekozen de hele afdeling opnieuw vast te stellen. Tabel 5.11 is vergeleken met onderdeel B niet gewijzigd.</al>
+                <al>Dit betekent dat hetgeen voorheen in de artikelen 5.12 en 5.13 was opgenomen nu in artikel 5.12 is opgenomen. Omdat er nu geen sprake meer is van aparte normen voor woningbouw en utiliteitsbouw is het niet meer nodig om aparte voorschriften voor woningbouw en utiliteitsbouw op te nemen. Ook het verschil in berekeningsmethodieken voor een gebouw met meerdere gebruiksfuncties van dezelfde soort of met meerdere gebruiksfuncties van verschillende soorten is overbodig. Artikel 5.12 geeft in het tweede lid een berekeningsmethodiek voor het geval dat een gebouw meerdere gebruiksfuncties heeft, die in alle gevallen van toepassing is. In dergelijke gevallen mag het volgens NEN 7120 bepaalde karakteristieke energiegebruik niet hoger zijn dan het totale volgens NEN 7120 bepaalde toelaatbare energiegebruik. Bij het bepalen van het toelaatbare energiegebruik wordt voor iedere gebruiksfunctie uitgegaan van de voor die gebruiksfunctie in de tabel aangegeven waarde.</al>
+                <al>NEN 7120 biedt de mogelijkheid om bij gebiedsgebonden maatregelen voor de rendementen bij verwarming, warm tapwater en koeling naar keuze gebruik te maken van een in NEN 7120 aangegeven vaste waarde (referentierendement) of gebruik te maken van een volgens NVN 7125 te berekenen waarde.</al>
+                <al>Het derde lid bepaalt dat wanneer in het kader van gebiedsgebonden maatregelen wordt besloten gebruik te maken van de NVN 7125, de waarde van de energieprestatiecoëfficiënt zonder dat gebruik gemaakt is van deze voornorm ten hoogste 1,33 maal de in tabel 5.11 aangegeven waarde mag zijn. Dit betekent dat bij het gebruik maken van NVN 7125 de berekening altijd tweemaal moet worden uitgevoerd, eenmaal zonder en eenmaal met toepassing van NVN 7125. Alleen op grond van de bereke<?xpp afbm?>ning zonder NVN 7125 wordt bepaald of de gebouwgebonden maatregelen zodanig zijn dat de NVN kan worden toegepast. Is de uitkomst van deze berekening ten hoogste 1,33 maal de in tabel 5.11 aangegeven waarde, dan kan vervolgens de energieprestatiecoëfficiënt worden bepaald aan de hand van de feitelijke, met behulp van de voornorm, te berekenen waarde. Toepassing van NVN 7125 biedt dus de mogelijkheid om uit te gaan van een gunstiger rendement van gebiedsgebonden maatregelen dan het in NEN 7120 opgenomen referentierendement. Opgemerkt wordt dat gebiedsgebonden maatregelen die nog niet in NVN 7125 zijn opgenomen op basis van gelijkwaardigheid kunnen worden toegepast. De uitgangspunten voor de beoordeling van gelijkwaardigheid zijn opgenomen in artikel 1.5 van het Bouwbesluit 2003.</al>
+              </al-groep>
+            </divisie>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Artikel II</titel>
+            </kop>
+            <al-groep>
+              <al>Het streven is erop gericht dat onderdeel B van dit besluit op 1 januari 2011 in werking treedt.</al>
+              <al>Hierbij wordt rekening gehouden met het voorschrift van artikel 2, achtste lid, van de Woningwet dat het besluit eerst twee maanden na publicatie in het Staatsblad in werking kan treden.</al>
+              <al>De onderdelen A en C van dit besluit treden na vaststelling van NEN 7120 in werking, waarbij rekening zal worden gehouden met een gewenningsperiode voor het bouwbedrijfsleven van ten minste drie maanden.</al>
+            </al-groep>
+          </divisie>
+        </divisie>
+        <ondertekening>
+          <functie>De Minister voor Wonen, Wijken en Integratie,</functie>
+          <naam>
+            <voornaam>E. van</voornaam>
+            <achternaam>Middelkoop</achternaam>
+          </naam>
+        </ondertekening>
+      </nota-toelichting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

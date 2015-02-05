@@ -1,0 +1,753 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE staatsbl PUBLIC "-//SDU//DTD staatsblad xml 1.1//NL" "../../dtd/staatsbl-11.dtd"[]>
+<staatsbl id="sb997.34" soort="kb" publtype="kobe">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-1997-34/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel status="off">Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <frontm>
+    <versie dtd="0.4" conv="OPmaat" markup="c1xa"></versie>
+    <ordernr>7S0001</ordernr>
+    <stb>
+      <jaargang jaar="1997">Jaargang 1997</jaargang>
+      <stbjaar>1997</stbjaar>
+      <stbnr>34 </stbnr>
+    </stb>
+    <intitule>
+      <soort>Besluit</soort> van 21 januari 1997, houdende wijziging van
+het Bouwbesluit inzake toegankelijkheid van te bouwen woningen en woongebouwen</intitule>
+    <aanhef>
+      <wie>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van
+Oranje-Nassau, enz. enz. enz.</wie>
+      <consider>
+        <al>Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke
+Ordening en Milieubeheer van 25 oktober 1996, nr. MJZ 96059878, Centrale Directie
+Juridische Zaken, Afdeling Wetgeving;</al>
+        <al>Gelet op <grslag>artikel 2, eerste lid, van de Woningwet</grslag>;</al>
+        <al>De Raad van State gehoord (advies van 16 december 1996, nr. W08.96.0501);</al>
+        <al>Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting,
+Ruimtelijke Ordening en Milieubeheer van 14 januari 1997, nr. MJZ 97076960,
+Centrale Directie Juridische Zaken, Afdeling Wetgeving;</al>
+      </consider>
+      <afkondig>Hebben goedgevonden en verstaan:</afkondig>
+    </aanhef>
+  </frontm>
+  <body>
+    <wart id="ai">
+      <kop>
+        <nr>ARTIKEL I</nr>
+      </kop>
+      <al>Het <wartref doc="sb991.680">&gt;Bouwbesluit</wartref><eindref refid="e1"></eindref> wordt gewijzigd als volgt: </al>
+      <wlid>
+        <kop>
+          <nr>A</nr>
+        </kop>
+        <al>Artikel 2 wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>a.</nr>
+          <al>In tabel I vervallen de eerste en tweede rij, betrekking hebbend op een
+vloer en een trap.</al>
+        </wond>
+        <wond>
+          <nr>b.</nr>
+          <al>In het zevende lid wordt «100 MJ/m<sup>2</sup>» vervangen
+door: 500 MJ/m<sup>2</sup>. </al>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>B</nr>
+        </kop>
+        <al>Artikel 14 wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>a.</nr>
+          <al>Het eerste lid komt te luiden:</al>
+          <arttkst>
+            <lid>
+              <nr>1.</nr>
+              <al>De in NEN 6068 bedoelde weerstand tegen branddoorslag en brandoverslag
+tussen een besloten ruimte waardoor geen vluchtweg voert, anders dan een gemeenschappelijke
+toiletruimte of een gemeenschappelijke badruimte, en een besloten verkeersruimte
+waardoor een vluchtweg voert, is, ter beperking van uitbreiding van brand,
+bepaald overeenkomstig NEN 6068, ten minste 30 minuten. Indien die vluchtweg
+door een veiligheidstrappehuis voert, is die weerstand ten minste 60 minuten.</al>
+            </lid>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>b.</nr>
+          <al>Het zesde lid komt te luiden: </al>
+          <arttkst>
+            <lid>
+              <nr>6.</nr>
+              <al>De weerstand tegen branddoorslag en brandoverslag tussen een brandcompartiment
+als bedoeld in NEN 6082, en een schacht, koker of kanaal met een inwendige
+doorsnede groter dan 0,015 m<sup>2</sup> is, bepaald volgens NEN 6068, ten
+minste 60 minuten.</al>
+            </lid>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>c.</nr>
+          <al>Aan het slot van het achtste lid wordt toegevoegd:</al>
+          <arttkst>
+            <al>Dit voorschrift geldt niet tussen een woning en een gebouw met een gebruiksoppervlakte
+van ten hoogste 50 m<sup>2</sup>, bestaande uit een of meer gebouwen die:</al>
+            <al>1°. uitsluitend zijn bestemd voor opslag van goederen of materialen,
+anders dan bij ministeriële regeling aangegeven brandbare, brandbevorderende
+of bij brand gevaar opleverende stoffen, of</al>
+            <al>2°. geen woning zijn of gebouwen zijn anders dan bedoeld in artikel
+1, tweede lid, onderdeel a tot en met c en e tot en met o.</al>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>d.</nr>
+          <al>In het tiende lid wordt «100 MJ/m<sup>2</sup>» vervangen door:
+500 MJ/m<sup>2</sup>.</al>
+        </wond>
+        <wond>
+          <nr>e.</nr>
+          <al>In het elfde lid wordt na «inwendige scheidingsconstructie»
+ingevoegd: , waarvoor een eis voor de weerstand tegen branddoorslag en brandoverslag
+geldt, .. </al>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>C</nr>
+        </kop>
+        <al>De artikelen 41 en 42, alsmede het opschrift boven artikel 42 komen te
+luiden als volgt: </al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 41</nr>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>Een toegang van een woning of woongebouw, een verblijfsgebied, een verblijfs-,
+toilet-, en badruimte, de bergruimte, een gemeenschappelijk verblijfsgebied,
+een gemeenschappelijke verblijfsruimte, een gemeenschappelijke verkeersruimte
+en van een lift, heeft, met het oog op de toegankelijkheid, een vrije doorgang
+met een breedte van ten minste 0,85 m en een hoogte van ten minste 2,1 m boven
+die breedte.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Een verkeersruimte heeft een vrije vloeroppervlakte met een breedte van
+ten minste 0,85 m. Voor een gemeenschappelijke verkeersruimte is de breedte
+ten minste 1,1 m.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>In een woning of een woongebouw is ter plaatse van de toegang van die
+woning of dat gebouw en ter plaatse van de toegang van een lift een vrije
+vloeroppervlakte gelegen met een breedte van ten minste 1,5 m en een lengte
+van ten minste 1,5 m.</al>
+            </lid>
+            <lid>
+              <nr>4.</nr>
+              <al>Een gemeenschappelijke verkeersruimte heeft, opdat rolstoelgebruikers
+kunnen keren, ten minste één vrije vloeroppervlakte met een
+breedte van ten minste 1,5 m en een lengte van 1,5 m. Deze eis geldt niet,
+indien een rolstoelgebruiker vanaf die verkeersruimte zonder te behoeven keren
+het aansluitende terrein kan bereiken.</al>
+            </lid>
+          </art>
+          <art>
+            <kop>
+              <nr>Artikel 42.</nr>
+              <titel status="off">Bereikbaarheid</titel>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>Het hoogteverschil tussen ten minste één toegang van een
+woning en van een woongebouw en het aansluitende terrein of de vloer van een
+gemeenschappelijke verkeersruimte is, opdat die woning mede door rolstoelgebruikers
+kan worden binnengegaan en verlaten, ten hoogste 0,02 m.</al>
+              <al>Het hoogteverschil tussen een vloer van een woning of van een woongebouw
+en de buitenruimte is ten hoogste 0,02 m.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>In of bij een woongebouw waarin de toegang van een woning hoger ligt dan
+3 m boven de vloer ter plaatse van de toegang van het woongebouw, is op elke
+bouwlaag van dat gebouw een opstelplaats voor een lift aanwezig. De oppervlakte
+van deze opstelplaats is afgestemd op het kunnen plaatsen van een lift met
+een vrije vloeroppervlakte van ten minste 1,05 m x 2,05 m.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>Een hoogteverschil tussen de toegang van een woning, gelegen in een
+woongebouw, en ten minste één toegang van het gebouw is, onverminderd
+artikel 4, overbrugd door een lift, indien:</al>
+              <al>a. de vloer van een verblijfsgebied hoger is gelegen dan 12,5 m boven
+het aansluitende terrein, gemeten ter plaatse van de toegang van het woongebouw,
+of</al>
+              <al>b. het woongebouw een gebruiksoppervlakte heeft van meer dan 3.500 m<sup>2</sup> die hoger ligt dan 1,5 m boven de vloer ter plaatse van de toegang
+van het woongebouw.</al>
+              <al>In het woongebouw mag de afstand tussen de toegang van de lift en de toegang
+van een op die lift aangewezen, op dezelfde bouwlaag gelegen woning, gemeten
+langs de kortste route, niet groter zijn dan 90 m.</al>
+              <al>De kooi van de lift heeft een vrije vloeroppervlakte van ten minste 1,05
+m x 2,05 m.</al>
+            </lid>
+            <lid>
+              <nr>4.</nr>
+              <al>In een woongebouw met een lift mag geen groter hoogteverschil dan 0,02
+m aanwezig zijn tussen de vloer van een gemeenschappelijke verkeersruimte
+en de vloer van:</al>
+              <al>a. een liftkooi;</al>
+              <al>b. een andere gemeenschappelijke verkeersruimte, indien door die verkeersruimten
+vanaf de toegang van het woongebouw of vanaf de toegang van een woning de
+lift kan worden bereikt, en</al>
+              <al>c. een gemeenschappelijke toiletruimte..</al>
+            </lid>
+          </art>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>D</nr>
+        </kop>
+        <al>Artikel 46, tweede lid, komt te luiden:</al>
+        <arttkst>
+          <lid>
+            <nr>2.</nr>
+            <al>De toiletruimte heeft een vloeroppervlakte van ten minste 0,9 m x ten
+minste 1,2 m, boven welke oppervlakte de hoogte ten minste 2,1 m is..</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>E</nr>
+        </kop>
+        <al>Artikel 58 wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>a.</nr>
+          <al>In het vijfde lid wordt na «gemeenschappelijke toiletruimte»
+ingevoegd: anders dan de toiletruimte, bedoeld in het derde lid, .</al>
+        </wond>
+        <wond>
+          <nr>b.</nr>
+          <al>In het zesde lid wordt na «gemeenschappelijke toiletruimte»
+ingevoegd: anders dan de toiletruimte, bedoeld in het derde lid, .</al>
+        </wond>
+        <wond>
+          <nr>c.</nr>
+          <al>In het zesde lid wordt na «gemeenschappelijke toiletruimte»
+ingevoegd: anders dan de toiletruimte, bedoeld in het derde lid,. </al>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>F</nr>
+        </kop>
+        <al>Artikel 174 wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>a.</nr>
+          <al>In tabel V vervallen de eerste en tweede rij, betrekking hebbend op een
+vloer en een trap.</al>
+        </wond>
+        <wond>
+          <nr>b.</nr>
+          <al>In het negende lid wordt «100 MJ/m<sup>2</sup>» vervangen
+door: 500 MJ/m<sup>2</sup>. </al>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>G</nr>
+        </kop>
+        <al>Artikel 261, achtste lid, komt te luiden:</al>
+        <arttkst>
+          <lid>
+            <nr>8.</nr>
+            <al>Het produkt van de permanente vuurbelasting en de netto-vloeroppervlakte
+van een veiligheidstrappehuis is per bouwlaag ten hoogste 3.500 MJ. De vuurbelasting
+wordt bepaald volgens NEN 6090.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>H</nr>
+        </kop>
+        <al>Onder plaatsing van de aanduiding 1. voor de bestaande tekst worden aan
+artikel 280 drie leden toegevoegd, luidende:</al>
+        <arttkst>
+          <lid>
+            <nr>2.</nr>
+            <al>Een verblijfsgebied van een logiesverblijf, niet gelegen in een logiesgebouw,
+heeft een vloeroppervlakte van ten minste 4 m<sup>2</sup>. De breedte van
+die vloeroppervlakte is ten minste 1,5 m. De hoogte boven die vloeroppervlakte
+is ten minste 2,1 m. </al>
+          </lid>
+          <lid>
+            <nr>3.</nr>
+            <al>Een verblijfsgebied, gelegen in een bijzondere toegankelijkheidssector,
+heeft een vloeroppervlakte van ten minste 14 m<sup>2</sup>; de breedte van
+die vloeroppervlakte is ten minste 3,2 m; de hoogte boven die vloeroppervlakte
+is ten minste 2,4 m.</al>
+          </lid>
+          <lid>
+            <nr>4.</nr>
+            <al>Op een logiesverblijf als bedoeld in artikel 279, derde en vierde lid,
+is het derde lid van overeenkomstige toepassing, zij het dat de hoogte boven
+de vloeroppervlakte ten minste 2,1 m is..</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>I</nr>
+        </kop>
+        <al>Aan het slot van artikel 281, derde lid, wordt voor de punt toegevoegd:
+, zij het dat de hoogte boven die vloeroppervlakte ten minste 2,1 m is. </al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>J</nr>
+        </kop>
+        <al>Artikel 406, vijfde lid, komt te luiden:</al>
+        <arttkst>
+          <lid>
+            <nr>5.</nr>
+            <al>Burgemeester en wethouders verlenen geen vrijstelling van de artikelen
+41, 42, 43 en 70 tot en met 71a bij het geheel vernieuwen of veranderen van
+een niet in een woongebouw gelegen woning of van een woongebouw.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+    </wart>
+    <art id="aii">
+      <kop>
+        <nr>ARTIKEL II</nr>
+      </kop>
+      <lid>
+        <nr>1.</nr>
+        <al>Dit besluit treedt in werking op een bij koninklijk besluit te bepalen
+tijdstip.</al>
+      </lid>
+      <lid>
+        <nr>2.</nr>
+        <al>Aanvragen om bouwvergunning als bedoeld in artikel 40, eerste lid, van
+de Woningwet en meldingen van een voornemen tot bouwen als bedoeld in artikel
+42, eerste lid, van die wet, die zijn ingediend vóór de inwerkingtreding
+van dit besluit, alsmede enig beroep, ingesteld tegen een beslissing op zodanige
+aanvraag of melding worden afgedaan overeenkomstig de voorschriften die golden
+vóór de inwerkingtreding van dit besluit.</al>
+      </lid>
+    </art>
+  </body>
+  <backm>
+    <nawerk>
+      <slotform>Lasten en bevelen dat dit besluit met de daarbij behorende nota
+van toelichting in het Staatsblad zal worden geplaatst.</slotform>
+      <eindnoot id="e1">
+        <al>Stb. 1991, 680, laatstelijk gewijzigd bij besluit van 22 augustus 1996,
+Stb. 444.</al>
+      </eindnoot>
+      <histnoot>
+        <al>Het advies van de Raad van State wordt niet openbaar gemaakt op grond
+van artikel 25a, vierde lid, onder b, van de Wet op de Raad van State, omdat
+het uitsluitend opmerkingen van redactionele aard bevat.</al>
+      </histnoot>
+      <ondertek>
+        <ondplts>'s-Gravenhage, </ondplts>
+        <onddatum>21 januari 1997</onddatum>
+        <koning>Beatrix </koning>
+        <minister>
+          <minvan>De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en
+Milieubeheer,</minvan>
+          <naam>D. K. J. Tommel</naam>
+        </minister>
+      </ondertek>
+      <uitgifte>
+        <uitgifte-regel>Uitgegeven de <nadruk type="cur">vierde</nadruk> februari 1997</uitgifte-regel>
+        <uitdag>vierde</uitdag>
+        <uitmaand>februari</uitmaand>
+        <uitjaar>1997</uitjaar>
+        <door>
+          <minvan>De Minister van Justitie,</minvan>
+          <naam>W. Sorgdrager </naam>
+        </door>
+      </uitgifte>
+    </nawerk>
+    <notatoe>
+      <kop>
+        <titel status="off">NOTA VAN TOELICHTING </titel>
+      </kop>
+      <tuskop letat="vet">I. ALGEMEEN </tuskop>
+      <tuskop letat="vet">1. Inleiding</tuskop>
+      <al>Dit besluit voorziet in wijziging van het Bouwbesluit, zoals aangekondigd
+in mijn brief van 14 februari 1996 aan de Tweede Kamer der Staten-Generaal
+inzake het ouderenbeleid/aanpasbaar bouwen (kamerstukken II, 1995/1996, 24 508,
+nr. 3). Deze wijziging geeft een minimum pakket aan eisen, verband houdend
+met aanpasbaar bouwen, voor nieuw te bouwen tot bewoning bestemde gebouwen.
+Deze eisen zijn gewenst in verband met de vergrijzing van onze bevolking en
+met het geschikt zijn of op eenvoudige wijze kunnen maken van tot bewoning
+bestemde gebouwen ten behoeve van met name rolstoelgebruikers.</al>
+      <al>Aanpasbaar bouwen heeft, nadat er enkele jaren mee is geëxperimenteerd,
+inmiddels goede navolging gevonden in de bouwpraktijk. Dit is gebleken uit
+onder meer de evaluatie die heeft plaatsgevonden in het kader van de Woningwet
+en het Bouwbesluit.</al>
+      <witreg></witreg>
+      <al>Om er voor te zorgen dat aanpasbaar bouwen integraal wordt toegepast,
+waardoor tegemoet wordt gekomen aan de maatschappelijke wens om integratie
+van de gehandicapte medemens ook in de bouwregelgeving meer gestalte te geven,
+is besloten het Bouwbesluit aan te vullen.</al>
+      <witreg></witreg>
+      <al>Deze aanvulling heeft betrekking op:</al>
+      <al>– de opstap naar voor- en balkondeuren;</al>
+      <al>– de aanwezigheid van een lift c.q de mogelijkheid om achteraf eenvoudig
+een lift te plaatsen;</al>
+      <al>– de vrije vloeroppervlakte (=draaicirkel) in (gemeenschappelijke)
+verkeersruimten, waaronder direct achter de voordeur;</al>
+      <al>– de vrije doorgang van binnendeuren op de woon- en slaapverdieping,
+en</al>
+      <al>– de afmetingen van de toiletruimte.</al>
+      <witreg></witreg>
+      <al>Dit besluit voorziet tevens in enkele juridische verbeteringen van voorschriften
+van het Bouwbesluit die in de praktijk onduidelijkheden opleveren. Het gaat
+hierbij in het bijzonder om voorschriften die uit het oogpunt van brandveiligheid
+zijn gesteld. </al>
+      <tuskop letat="vet">2. Verbouw in bestaand stedelijk gebied</tuskop>
+      <al>Bij het geheel of gedeeltelijk vernieuwen, veranderen of het vergroten
+van een woning of woongebouw gelden in beginsel de voorschriften van hoofdstuk
+II van het Bouwbesluit. Dit vloeit voort uit de definitie van «bouwen»,
+zoals neergelegd in artikel 1, eerste lid, onderdeel a, van de Woningwet.
+Die nieuwbouw-eisen, waaronder de voorschriften van het onderhavig besluit,
+gelden volgens artikel 4 van de Woningwet alleen voor dat gedeelte dat men
+verbouwt.</al>
+      <witreg></witreg>
+      <al>Bij het geheel of gedeeltelijk vernieuwen, veranderen of het vergroten
+van een woning of woongebouw kunnen burgemeester en wethouders op grond van
+artikel 6 van de Woningwet in verbinding met artikel 406 van het Bouwbesluit
+tot een in laatstgenoemd artikel aangegeven niveau vrijstelling verlenen van
+de nieuwbouw-eisen. Daarbij mag volgens artikel 406, derde lid, van het Bouwbesluit
+het rechtens verkregen niveau niet worden onderschreden. Vrijstelling zal
+eerst worden verleend indien het niet redelijk is te verlangen dat aan de
+nieuwbouw-eis wordt voldaan. Deze regeling geeft burgemeester en wethouders
+de mogelijkheid om in situaties, zoals bijvoorbeeld bij stadsvernieuwing,
+waarin de in dit besluit vervatte voorschriften niet dan wel tegen een onredelijke
+inspanning kunnen worden gerealiseerd, waarbij de kosten niet opwegen tegen
+de te verwachte opbrengsten, vrijstelling van die voorschriften te geven.</al>
+      <witreg></witreg>
+      <al>Indien het gaat om het geheel vernieuwen of veranderen van een woning
+of woongebouw – veelal is dan sprake van kaalslag gevolgd door nieuwbouw –
+geldt het hiervoor gestelde niet. Het onderhavige besluit voorziet namelijk
+in een wijziging van artikel 406, vijfde lid. Daarin is bepaald dat van de
+voorschriften, betrekking hebbend op de toegankelijkheid van woningen en woongebouwen,
+bij het geheel vernieuwen of veranderen geen vrijstelling mag worden verleend.
+Ook in gevallen van vervangende nieuwbouw zal dus alles in het werk moeten
+worden gesteld om aan de toegankelijkheidseisen te voldoen. Voor ouderen en
+rolstoelgebruikers is het van groot belang om te kunnen (blijven) wonen in
+bestaand stedelijk gebied. In dat gebied zijn vaak de maatschappelijke voorzieningen
+gehuisvest waarop ook zij en soms juist zij zijn aangewezen. Integratie van
+ouderen en gehandicapten in de samenleving dient ook te gelden voor bestaand
+binnenstedelijk gebied. Mocht blijken dat in bepaalde situaties het voldoen
+aan de toegankelijkheidseisen niet redelijk is – er kan dan sprake zijn
+van een bijzonder geval –, kan de aanvrager van de bouwvergunning een
+verzoek tot vrijstelling van die voorschriften als bedoeld in artikel 7 van
+de Woningwet, indienen bij de Minister van Volkshuisvesting, Ruimtelijke Ordening
+en Milieubeheer. </al>
+      <tuskop letat="vet">3. Toegankelijkheid in relatie tot de hoogte van het aansluitende
+terrein</tuskop>
+      <al>Het Bouwbesluit bevat voorschriften voor bouwwerken, zoals gebouwen. Op
+grond van dat besluit kunnen daarom slechts voorschriften worden gegeven die
+hun uitwerking hebben op het gebouw zelf, gegeven het aansluitende terrein
+op het moment van bouwen. Voorschriften die betrekking hebben op de toegankelijkheid
+van het op het gebouw aansluitende terrein moeten volgens artikel 8, tweede
+lid, onderdeel b, van Woningwet regeling krijgen in de gemeentelijke bouwverordening.
+Een dergelijke regeling dient complementair te zijn aan de voorschriften van
+het Bouwbesluit.</al>
+      <al>De natuurlijke gesteldheid van de bodem kan, met name in veengebieden,
+invloed hebben op de handhaving van het maximaal vereiste hoogteverschil ter
+plaatse van de voordeur en het aan het gebouw aansluitende terrein. Dit mag
+echter geen aanleiding zijn om voor die gebieden een regeling te treffen dat
+aan het vereiste maximaal toelaatbare hoogteverschil niet behoeft te zijn
+voldaan. Ook in die gebieden moeten ouderen en rolstoelgebruikers kunnen (blijven)
+wonen. Een bouwplan zal dan ook met die omstandigheid rekening moeten houden.
+Mocht na verloop van tijd dat hoogteverschil door die natuurlijke bodemgesteldheid
+groter zijn geworden, dan kunnen burgemeester en wethouders, al dan niet op
+klacht van belanghebbende, op grond van artikel 14 van de Woningwet de eigenaar
+of degene die uit anderen hoofde bevoegd is tot het treffen van voorzieningen
+aanschrijven tot het treffen van voorzieningen, opdat weer aan de desbetreffende
+eis(en) van het Bouwbesluit wordt voldaan. </al>
+      <tuskop letat="vet">4. Notificatie</tuskop>
+      <al>Op grond van de richtlijn van de Raad van de Europese Gemeenschappen van
+28 maart 1983 betreffende een informatieprocedure op het gebied van normen
+en technische voorschriften (83/189/EEG, PbEG L 109), zoals gewijzigd bij
+richtlijn nr. 88/182/EEG van de Raad van 22 maart 1988 (PbEG L 081), tot wijziging
+van de richtlijn nr. 83/189/EEG betreffende een informatieprocedure
+op het gebied van normen en technische voorschriften en richtlijn nr. 94/10/EG
+van 23 maart 1994 (PbEG L 100) van de Raad tot tweede substantiële wijziging
+van richtlijn 83/189/EEG betreffende een informatieprocedure op het gebied
+van normen en technische voorschriften, dienen de lid-staten normen en technische
+voorschriften, die zij voornemens zijn vast te stellen, bij de Europese Commissie
+aan te melden. De bedoeling van deze procedure is, dat de Commissie en de
+overige lid-staten kunnen nagaan of die normen en voorschriften zullen leiden
+tot handelsbelemmeringen. Indien de Commissie of één van de
+overige lid-staten binnen een termijn van drie maanden na aanmelding van de
+normen en technische voorschriften gemotiveerd te kennen geeft dat die normen
+of voorschriften naar haar of zijn mening een belemmering vormt voor het vrije
+verkeer van goederen binnen de Europese Unie, dan dient de betrokken lid-staat
+ervoor te zorgen dat de inwerkingtreding van die normen of voorschriften gedurende
+een periode van zes maanden, gerekend vanaf de datum van aanmelding, wordt
+opgeschort. Die periode is bedoeld voor het wegnemen van gerechtvaardigde
+bezwaren.</al>
+      <al>Ingevolge deze procedure is het ontwerp-besluit begin juli 1996 bij de
+Europese Commissie aangemeld. </al>
+      <tuskop letat="vet">5. Inspraak</tuskop>
+      <al>Het ontwerp-besluit is, omdat het geen betrekking heeft op hoofdlijnen
+van beleid, niet voor advies voorgelegd aan een formeel adviesorgaan. Het
+ontwerp-besluit is wel toegezonden aan enige andere instanties, zoals de Vereniging
+van Nederlandse Gemeenten (VNG) en het Overlegplatform Bouwregelgeving (OPB).
+In het OPB zijn ook de VNG en de Federatie Nederlandse Gehandicaptenraad vertegenwoordigd.
+In het kader van de evaluatienota Woningwet en Bouwbesluit (kamerstukken II,
+1996/1997, 25 000 XI, nr. 39) hebben zowel de VNG als het OPB hun opvatting
+over de toegankelijkheidseisen (aanpasbaar bouwen) kenbaar gemaakt. In de
+meerbedoelde brief inzake het Ouderenbeleid ben ik op de aanbevelingen van
+het OPB op het punt van toegankelijkheid ingegaan. </al>
+      <tuskop letat="vet">6. Wetgevingstoets </tuskop>
+      <tuskop letat="cur">6.1. Voor welke categorieën bedrijven heeft de ontwerp-regelgeving
+bedrijfseffecten?</tuskop>
+      <al>Het onderhavige besluit is van belang voor de volgende categorieën
+uit het bedrijfsleven:</al>
+      <al>– opdrachtgevers: bouwondernemers, projectontwikkelaars en beleggers;</al>
+      <al>– ontwerpend bouwbedrijf: architecten en raadgevend ingenieurs;</al>
+      <al>– uitvoerend bouwbedrijf: aannemers;</al>
+      <al>– toeleveranciers, met name de deurenfabrikanten. </al>
+      <tuskop letat="cur">6.2. Hoeveel bedrijven worden daadwerkelijk met de ontwerp-regelgeving
+geconfronteerd?</tuskop>
+      <al>Architectenbureaus 1.883 en</al>
+      <al>aannemersbedrijven incl. installatiebedrijven 42.465.</al>
+      <witreg></witreg>
+      <al>minder dan tien werknemers: 35.540</al>
+      <al>minder dan honderd werknemers: 6.540</al>
+      <al>meer dan honderd werknemers: 390  </al>
+      <tuskop letat="cur">6.3. Wat zijn voor de betrokken bedrijven de meest waarschijnlijke
+aard en omvang van de kosten en baten? </tuskop>
+      <tuskop letat="rom">a. het structurele dan wel eenmalige karakter van de effecten</tuskop>
+      <al>Het gaat om vijf aanvullende eisen van aanpasbaar bouwen, die bij de invoering
+eenmalig bijzondere aandacht vragen van de bij de bouw van woningen en woongebouwen
+betrokken bedrijven. Daarna zijn ze een integraal onderdeel van het bouwproces
+(ontwerp, uitvoering en controle). Praktisch gezien levert de invoering van
+deze eisen geen grote veranderingen op. Veel nieuwbouw-woningen voldoen nu
+al, in meer of mindere mate, aan deze eisen. Door het uniformeren van deze
+eisen is een standaardisatie van programma's van eisen te verwachten met mogelijkheden
+tot besparing op termijn.</al>
+      <al>In de komende vier jaren zullen deze eisen bij de bouw van gemiddeld 75.000
+woningen (al dan niet gelegen in een woongebouw) per jaar moeten worden toegepast.</al>
+      <witreg></witreg>
+      <al>De gewijzigde eisen met betrekking tot de weerstand tegen branddoorslag
+en brandoverslag leiden tot minder eisen en daarmee samenhangende kosten. </al>
+      <tuskop letat="rom">b. de onderverdeling tussen financiële en nalevingseffecten</tuskop>
+      <al>Bij integratie van de eisen met betrekking tot de toegankelijkheid van
+woningen en woongebouwen aan het begin van het bouwproces zijn er geen of
+weinig extra kosten per woning (de extra kosten variëren nu tussen f 100,–
+en f 1.000,– per woning). Deze extra kosten gelden alleen voor
+die woningen en woongebouwen, die nog niet aan deze eisen voldoen. Omdat deze
+eisen nu uniform zullen gaan gelden, zal het effect op de naleving ervan optimaal
+zijn en zullen de bedrijven in een gelijkwaardige concurrentiepositie tot
+elkaar komen te staan.</al>
+      <al>De vermindering van de eisen met betrekking tot de weerstand tegen branddoorslag
+en brandoverslag betekent een vermindering van financiële gevolgen, omdat
+minder dure scheidingsconstructies, waaronder begrepen deuren, kunnen worden
+geplaatst. Bovendien zal de vermindering van deze eisen leiden tot minder
+financiële lasten verband houdend met de naleving van de eisen voor zowel
+het bouwbedrijfsleven als de gemeenten. </al>
+      <tuskop letat="rom">c. de onderbouwing en de onzekerheidsmarges van de kosten
+en baten</tuskop>
+      <al>Zie de antwoorden op de vragen a en b. </al>
+      <tuskop letat="rom">d. de gelijkmatigheid in de verdeling van de effecten
+tussen (categorieën) bedrijven</tuskop>
+      <witreg></witreg>
+      <al>De effecten zullen voornamelijk zichtbaar zijn bij de deurenfabrikanten.
+Dit vloeit voort uit de eis voor de afmetingen van de binnendeuren. Tot dusver
+was aan binnendeuren geen eis gesteld, waardoor ook binnendeuren met geringere
+afmetingen konden worden geplaatst. De toepassing van binnendeuren met geringere
+afmetingen zal dan ook geringer zijn dan tot nu toe. Dat kan betekenen dat
+het produktieproces moet worden aangepast, zodanig dat de produktie van binnendeuren
+met de voorgeschreven afmetingen moet worden vergroot en die van binnendeuren
+met geringere afmetingen dan vereist, moet worden verminderd of voor de woningbouw
+zelfs afgebouwd. Aanpassing van het produktieproces kan leiden tot een verder
+gaande standaardisatie binnen het bedrijf, hetwelk op termijn besparingen
+oplevert voor dat bedrijf. </al>
+      <al>Ook de vermindering van de eisen met betrekking tot de weerstand tegen
+branddoorslag en brandoverslag heeft de meeste gevolgen voor producenten van
+deuren. In de scheidingsconstructies, waarvoor geen eis meer geldt met betrekking
+tot de weerstand tegen branddoorslag en brandoverslag behoeven geen brandwerende
+deuren meer te worden toegepast. Het feit dat in bepaalde situaties niet langer
+brandwerende deuren noodzakelijk zijn, zal nauwelijks effect hebben op het
+produktieproces. De afschaffing van de eis met betrekking tot branddoorslag
+en brandoverslag heeft slechts een beperkte betekenis voor het totaal van
+de (ver)nieuwbouw. Vast staat in elk geval dat de toepassing van zowel brandwerende
+als niet-brandwerende deuren aan de orde blijft op basis van het Bouwbesluit. </al>
+      <tuskop letat="rom">e. de gevolgen voor de omvang van de administratieve lasten</tuskop>
+      <al>Dat aan de eisen voor toegankelijkheid van woningen en woongebouwen wordt
+voldaan, moet op de bij de bouwaanvraag te overleggen tekeningen worden aangegeven.
+De architect zal dus enige niet noemenswaardige administratieve last ondervinden
+bij de invoering van deze eisen. Dit wil zeggen, bij die architecten die niet
+al rekening hielden met deze eisen. De standaardisatie zal die geringe last
+op korte termijn echter wegnemen.</al>
+      <al>De vermindering van de eisen met betrekking tot de weerstand tegen branddoorslag
+en brandoverslag leiden daarentegen tot minder administratieve lasten. De
+scheidingsconstructies, waar het hier om gaat, behoeven niet langer aan een
+dergelijke eis te voldoen. Daardoor behoeft op tekening noch op andere wijze
+te worden aangetoond dat die scheidingsconstructies aan een dergelijke eis
+zullen voldoen. </al>
+      <tuskop letat="cur">6.4. Hoe verhouden de kosten en baten zich tot de draagkracht
+van het betrokken bedrijfsleven?</tuskop>
+      <al>Er is geen reden te veronderstellen dat het voorschrijven van de eisen
+van aanpasbaar bouwen de draagkracht van het betrokken bedrijfsleven beïnvloedt.
+De meerkosten zijn, voor zover daarvan nog sprake is, per woning gering. </al>
+      <tuskop letat="cur">6.5. Wat zijn de gevolgen voor het energieverbruik en
+de mobiliteit?</tuskop>
+      <al>De voorschriften van het onderhavige besluit hebben geen betrekking op
+energieverbruik en mobiliteit. </al>
+      <tuskop letat="vet">II. ARTIKELSGEWIJZE TOELICHTING </tuskop>
+      <tuskop letat="vet">Artikel I </tuskop>
+      <tuskop letat="cur">Onderdeel A</tuskop>
+      <al>Niet langer gelden er eisen voor de brandwerendheid met betrekking tot
+bezwijken van een vloer of een trap. Die eisen gingen uit van een volledig
+ontwikkelde brand. Voor een vloer of een trap, waarvan gebruik moet kunnen
+worden gemaakt om het gebouw te verlaten of te doorzoeken, waren die eisen
+te streng. Bij een volledig ontwikkelde brand is een vloer of een trap namelijk
+niet meer als zodanig te gebruiken. Met het laten vervallen van deze eisen
+ontstaat geen onveiliger situatie dan zonder die eisen. </al>
+      <witreg></witreg>
+      <al>Uit het TNO Bouw-rapport «Bouwbesluit; permanente vuurbelasting»,
+nr. 94-BKR-R1448, blijkt dat houten ramen, deuren, kozijnen en houtachtige
+dakconstructies en binnenwanden als begrenzing van verblijfsgebieden een niet
+te verwaarlozen bijdrage leveren aan de permanente vuurbelasting. Deze constructie-onderdelen
+bleven bij het bepalen van de permanente vuurbelasting buiten beschouwing
+volgens de voorschriften, zoals die golden vóór de invoering
+van het Bouwbesluit. Volgens het voorschrift, zoals dat luidde voor deze wijziging,
+mochten de hiervoor genoemde constructie-onderdelen volgens NEN 6090 bij het
+bepalen van de permanente vuurbelasting echter niet meer buiten beschouwing
+blijven. De volgens dat voorschrift toegestane reductie van de brandwerendheid
+met betrekking tot bezwijken van dertig minuten had daardoor geen praktische
+betekenis. Reden waarom de wijziging van dit voorschrift voorziet in een hogere
+grenswaarde aan de permanente vuurbelasting. Hoofddraagconstructies, die vroeger
+zestig of negentig minuten brandwerend moesten zijn uitgevoerd, mogen thans
+ook weer zestig of negentig minuten brandwerend zijn. </al>
+      <tuskop letat="cur">Onderdeel B</tuskop>
+      <al>De wijziging van artikel 14 voorziet in het opheffen van enkele onbedoelde
+effekten.</al>
+      <al>De eis inzake de weerstand tegen branddoorslag en brandoverslag tussen
+een woning en een niet-besloten verkeersruimte waardoor een vluchtmogelijkheid
+voert, is komen te vervallen. Deze situatie doet zich bijvoorbeeld voor bij
+een galerijwoning.</al>
+      <al>Voor een veiligheidstrappehuis geldt, ongeacht of dat trappehuis besloten
+of niet-besloten is, een eis voor de weerstand tegen branddoorslag en brandoverslag
+van ten minste 60 minuten. De begripsomschrijving van een veiligheidstrappehuis,
+neergelegd in artikel 1, eerste lid, onderdeel m, van het Bouwbesluit, geeft
+namelijk niet aan dat een veiligheidstrappehuis een besloten dan wel een niet-besloten
+ruimte is.</al>
+      <witreg></witreg>
+      <al>Verder is de eis inzake de weerstand tegen branddoorslag en brandoverslag
+tussen een woning en een bij die woning behorende bergruimte als bedoeld in
+artikel 48 van het Bouwbesluit, komen te vervallen.</al>
+      <al>Ook geldt er geen eis meer inzake de weerstand tegen branddoorslag en
+brandoverslag tussen een schacht, koker of kanaal en een brandcompartiment.
+In omgekeerde richting, dus tussen een brandcompartiment en een schacht, koker
+of kanaal geldt daarentegen wel een eis met betrekking tot de weerstand tegen
+branddoorslag en brandoverslag. Deze eis is gesteld om te voorkomen dat een
+brand zich naar een schacht, koker of kanaal kan uitbreiden. Daarbij komt
+dat, wanneer een brand in een schacht, koker of kanaal woedt, die brand moeilijk
+is te bestrijden door de brandweer. </al>
+      <tuskop letat="cur">Onderdeel C</tuskop>
+      <al>Het nieuwe eerste lid van artikel 41 leidt er toe dat elke toegang tot
+een binnen de woning gelegen verblijfsgebied, verblijfsruimte, toiletruimte
+en badruimte zodanige afmetingen moet hebben dat ook een rolstoelgebruiker
+of een lang persoon op normale wijze door die toegang de betreffende ruimte
+kan binnengaan.</al>
+      <witreg></witreg>
+      <al>In het tweede lid is nieuw dat alle binnen een woning gelegen verkeersruimten
+zodanige afmetingen moeten hebben dat een rolstoelgebruiker vrijelijk van
+die ruimte gebruik kan maken ten einde de verblijfsgebieden, de verblijfsruimten,
+de toiletruimte en de badruimte zonder hulp te kunnen bereiken. </al>
+      <witreg></witreg>
+      <al>Het nieuwe derde lid maakt het mogelijk dat een rolstoelgebruiker binnen
+de woning, direct achter de voordeur, zoveel bewegingsruimte heeft dat de
+rolstoelgebruiker 360° kan draaien. Deze mogelijkheid is ook gegeven ter
+plaatse van een lift. Bij het ontwerpen van een woning of woongebouw zal ook
+in andere situaties als de hiervoor bedoelde rekening moeten worden gehouden
+met de draaicirkel van een rolstoelgebruiker. Dit betekent bijvoorbeeld dat
+een deur niet moet worden gesitueerd direct grenzend op een haaks op die deur
+staand wand. In het Handboek voor toegankelijkheid van de Federatie Nederlandse
+Gehandicaptenraad zijn hiervoor aanwijzingen gegeven.</al>
+      <witreg></witreg>
+      <al>Het nieuwe vierde lid leidt er toe dat een rolstoelgebruiker die op bezoek
+gaat bij personen die wonen in een woning, gelegen in een woongebouw, dat
+woongebouw op eenvoudige wijze kan verlaten indien hij die personen niet thuistreft.
+De rolstoelgebruiker kan namelijk op basis van het onderhavige voorschrift
+of in voorwaartse richting een andere lift bereiken dan waarmee hij of zij
+naar boven is gekomen dan wel hoeft niet achteruit te rijden tot aan laatstbedoelde
+lift, maar kan doorrijden naar een gedeelte van de gemeenschappelijke verkeersruimte,
+waar hij of zij eenvoudig kan keren en in voorwaartse richting laatstbedoelde
+lift weer kan bereiken.</al>
+      <witreg></witreg>
+      <al>Het nieuwe eerste lid van artikel 42 maakt het mogelijk dat een rolstoelgebruiker
+zonder hulp een woning of een woongebouw met zijn rolstoel kan binnengaan.
+Daartoe mag het hoogteverschil tussen het aansluitende terrein en een toegang
+van de woning of het woongebouw niet groter zijn dan 2 centimeter. Is een
+groter hoogteverschil aanwezig, dan leidt het voorschrift impliciet tot het
+moeten toepassen van een hellingbaan als bedoeld in artikel 6 van het Bouwbesluit.</al>
+      <al>Verder regelt het eerste lid dat een rolstoelgebruiker evenzo zonder hulp
+de buitenruimte (balkon of tuin) kan bereiken en verlaten.</al>
+      <witreg></witreg>
+      <al>Het nieuwe tweede lid regelt dat in situaties waarin volgens het Bouwbesluit
+geen lift is vereist, achteraf op eenvoudige wijze een lift kan worden geplaatst.
+Er dient namelijk ruimte, al dan niet binnen het gebouw, te zijn gereserveerd,
+die op elke bouwlaag kan worden benut voor het achteraf kunnen installeren
+van een lift, opdat het woongebouw, zo nodig, op een later tijdstip geschikt
+gemaakt kan worden voor personen die minder goed ter been zijn.</al>
+      <witreg></witreg>
+      <al>Het derde en vierde lid bevatten de voorschriften van het vigerende artikel
+42. </al>
+      <tuskop letat="cur">Onderdeel D</tuskop>
+      <al>Het gewijzigde tweede lid van artikel 46 voorziet in zodanige afmetingen
+van de toiletruimte dat een rolstoelgebruiker, al dan niet met hulp van een
+derde, gebruik kan maken van die toiletruimte. Wat de plaats van de deur van
+de toiletruimte betreft, ligt het in de rede dat deze uit het oogpunt van
+toegankelijkheid voor een rolstoelgebruiker wordt geplaatst in de lange zijde
+van de toiletruimte, zoals ook is aangegeven in het Handboek voor toegankelijkheid. </al>
+      <tuskop letat="cur">Onderdeel E</tuskop>
+      <al>De wijziging van het vijfde en het zesde lid van artikel 58 voorziet in
+het wegnemen van een mogelijke misvatting dat deze leden ook gelden voor de
+gemeenschappelijk toiletruimte die mede is bestemd voor een rolstoelgebruiker,
+bedoeld in het derde lid.  </al>
+      <tuskop letat="cur">Onderdeel F</tuskop>
+      <al>Zie de toelichting op onderdeel A. </al>
+      <tuskop letat="cur">Onderdeel G</tuskop>
+      <al>De gegeven eis van 3500 MJ per bouwlaag is afgestemd op in de praktijk
+nog realiseerbare bouwkundige oplossingen. Uit door TNO Bouw uitgevoerd onderzoek,
+rapport 95-BKR-1669, blijkt dat de tot nu toe geldende eis van 50 MJ/m<sup>2</sup> per bouwlaag, niet realistisch is. Reden waarom het achtste lid van
+respectievelijk de artikelen 236 en 261 is gewijzigd. </al>
+      <tuskop letat="cur">Onderdeel H</tuskop>
+      <al>De nieuwe leden van artikel 280 leiden er toe dat er niet langer strijd
+bestaat tussen de voorschriften voor een verblijfsruimte, gegeven in artikel
+281 van het Bouwbesluit en de voorschriften voor een verblijfsgebied. </al>
+      <tuskop letat="cur">Onderdeel J</tuskop>
+      <al>De wijziging van artikel 406, vijfde lid, voorziet er in dat, zoals in
+het algemeen deel van deze toelichting is gemeld, bij het geheel vernieuwen
+of veranderen van een woning of woongebouw burgemeester en wethouders geen
+vrijstelling van de toegankelijkheidseisen mogen verlenen. Indien nodig, kan
+in een bijzonder geval overeenkomstig artikel 7 van de Woningwet vrijstelling
+worden gevraagd bij de minister van Volkshuisvesting, Ruimtelijke Ordening
+en Milieubeheer. </al>
+      <minister>
+        <minvan>De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en
+Milieubeheer,</minvan>
+        <naam>D. K. J. Tommel</naam>
+      </minister>
+    </notatoe>
+  </backm>
+</staatsbl>
